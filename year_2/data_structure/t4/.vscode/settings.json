@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "lista.h": "c",
+        "pontos.h": "c",
+        "hashtable.h": "c",
+        "string.h": "c",
+        "hidrante.h": "c",
+        "radiobase.h": "c",
+        "rbtree.h": "c",
+        "stdlib.h": "c",
+        "stdbool.h": "c",
+        "headers.h": "c",
+        "variaveis.h": "c",
+        "poligono.h": "c",
+        "ios": "c",
+        "ratio": "c",
+        "svgfile.h": "c",
+        "t2.h": "c"
+    },
+    "git.ignoreLimitWarning": true
+}

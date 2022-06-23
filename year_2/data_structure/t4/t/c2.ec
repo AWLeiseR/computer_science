@@ -1,0 +1,472 @@
+t pd Padaria
+t ac Acougue
+t bb Barbearia
+t om Oficina_mecanica
+t spm Supermercado
+t p Posto_de_combustivel
+t papel Papelaria
+t ptshp Petshop
+t frc Farmacia
+t grf Grafica
+t chu Churracaria
+t lac Laboratorio_analises_clinicas
+t tax Cooperativa_de_taxi
+t conf Confeitaria
+t esi Escola_de_idiomas
+t lav Lavanderia
+t bnc Banco
+t hot Hotel
+t vid Vidracaria
+t lot Loterica
+t med Consultorio_medico
+t dent Consultorio_odontologico
+t rx Raio-x
+t igj Igreja
+t but Buteco
+t res Restaurante
+t flor Floricultura
+t gfr Grafica_rapida
+t cin Cinema
+t confec Confeccao
+t dest Desentupidora
+t liv Livraria
+t nat Escola_de_natacao
+t ljd Loja_de_departamentos
+t tet Teatro
+t ei Ensino_infantil
+t ef Ensino_fundamental
+t mc Material_de_construcao
+t prv Curso_pre-vestibular
+t ele Eletricista
+t ddt Dedetizadora
+t ges Instalacao_de_gesso
+t tld Toldos
+t psi Psicologo
+t pca Pocos_artesianos
+t esqa Esquadria_de_aluminio
+t pers Persianas
+t alrm Alarme
+t imper Impermeabilizacao
+t unfr Confeccao_de_uniformes
+t adv Advogado
+t bxb Box
+t rdpr Rede_de_protecao
+t refr Refrigeracao
+t conscmp Conserto_de_computadores
+t chv Chaveiro
+t grn Granito
+t ext Extintores
+t fssep Fossa_septica
+t agtur Agencia_de_turismo
+t cacb Locacao_de_cacambas
+t assl Assoalhos
+t cons Concessionaria
+t fun Funeraria
+t otc Otica
+t brde Brindes
+t fgo Pecas_de_fogao
+t autoesc Auto_escola
+t bufcas Buffet_de_casamento
+t pizz Pizzaria
+t depil Depilacao
+t bufinf Buffet_infantil
+e 00000100/0001-29 000.001.031-60 lac B30-15.2 L 10 Laboratorio_analises_clinicas_M2-0
+e 00000101/0001-92 000.000.311-51 pca B30-12.8 L 30 Pocos_artesianos_M1-0
+e 00000102/0001-56 000.000.691-24 assl B30-9.4 S 20 Assoalhos_M4-0
+e 00000103/0001-10 000.000.311-51 adv B30-11.5 O 30 Advogado_M4-0
+e 00000104/0001-83 000.000.521-59 ext B30-1.13 O 10 Extintores_M4-0
+e 00000105/0001-47 000.000.601-78 spm B30-4.16 O 10 Supermercado_M3-0
+e 00000106/0001-00 000.001.281-55 confec B30-6.14 S 60 Confeccao_M2-0
+e 00000107/0001-74 000.001.371-46 res B30-14.1 N 40 Restaurante_M2-0
+e 00000108/0001-38 000.000.701-30 psi B30-18.12 O 60 Psicologo_M7-0
+e 00000109/0001-00 000.000.781-15 prv B30-7.5 N 80 Curso_pre-vestibular_M6-0
+e 00000110/0001-83 000.000.131-70 mc B30-15.15 L 20 Material_de_construcao_M4-0
+e 00000111/0001-47 000.000.431-68 fgo B30-13.11 L 50 Pecas_de_fogao_M5-0
+e 00000112/0001-00 000.000.001-91 tet B30-14.12 N 30 Teatro_M4-0
+e 00000113/0001-74 000.001.381-18 papel B30-17.1 O 30 Papelaria_M1-0
+e 00000114/0001-38 000.001.501-69 ele B30-14.10 L 60 Eletricista_M4-0
+e 00000115/0001-00 000.001.431-11 psi B30-14.15 O 60 Psicologo_M6-0
+e 00000116/0001-65 000.001.051-04 alrm B30-2.9 O 20 Alarme_M6-0
+e 00000117/0001-29 000.000.771-43 dest B30-18.5 S 70 Desentupidora_M1-0
+e 00000118/0001-92 000.000.301-80 ddt B30-19.12 O 40 Dedetizadora_M4-0
+e 00000119/0001-56 000.001.211-42 pca B30-18.7 O 50 Pocos_artesianos_M2-0
+e 00000120/0001-38 000.000.731-56 prv B30-7.2 S 50 Curso_pre-vestibular_M6-1
+e 00000121/0001-00 000.000.801-01 hot B30-2.14 N 10 Hotel_M4-0
+e 00000122/0001-65 000.000.121-06 pd B30-3.9 L 10 Padaria_Botique_do_Pao-0
+e 00000123/0001-29 000.001.201-70 ef B30-13.12 O 20 Ensino_fundamental_M4-0
+e 00000124/0001-92 000.000.841-90 pers B30-4.3 N 40 Persianas_M3-0
+e 00000125/0001-56 000.000.461-83 esi B30-5.14 L 40 Escola_de_idiomas_M6-0
+e 00000126/0001-10 000.001.311-05 refr B30-2.13 N 80 Refrigeracao_M7-0
+e 00000127/0001-83 000.000.911-38 ljd B30-12.2 S 60 Loja_de_departamentos_M3-0
+e 00000128/0001-47 000.000.301-80 tax B30-13.10 L 30 Cooperativa_de_taxi_M6-0
+e 00000129/0001-00 000.000.701-30 cacb B30-8.6 O 20 Locacao_de_cacambas_M6-0
+e 00000130/0001-92 000.000.101-54 frc B30-13.13 N 30 Farmacia_M2-0
+e 00000131/0001-56 000.000.361-10 brde B30-13.2 O 40 Brindes_M3-0
+e 00000132/0001-10 000.000.641-65 depil B30-18.7 L 40 Depilacao_M4-0
+e 00000133/0001-83 000.000.521-59 rx B30-8.10 O 20 Raio-x_M3-0
+e 00000134/0001-47 000.000.331-03 agtur B30-17.7 L 10 Agencia_de_turismo_M1-0
+e 00000135/0001-00 000.001.181-92 flor B30-14.1 L 40 Floricultura_M3-0
+e 00000136/0001-74 000.000.941-53 nat B30-13.12 S 10 Escola_de_natacao_M1-0
+e 00000137/0001-38 000.000.561-46 spm B30-3.16 S 30 Supermercado_M4-0
+e 00000138/0001-00 000.000.131-70 conf B30-6.4 O 10 Confeitaria_M7-0
+e 00000139/0001-65 000.001.241-68 frc B30-9.12 N 80 Farmacia_M7-0
+e 00000140/0001-47 000.001.021-99 lav B30-2.6 L 10 Lavanderia_M7-0
+e 00000141/0001-00 000.000.271-20 confec B30-12.4 S 20 Confeccao_M6-0
+e 00000142/0001-74 000.001.121-51 ljd B30-16.7 L 60 Loja_de_departamentos_M2-0
+e 00000143/0001-38 000.000.971-79 confec B30-9.10 N 20 Confeccao_M5-0
+e 00000144/0001-00 000.001.391-90 nat B30-17.5 O 20 Escola_de_natacao_M2-0
+e 00000145/0001-65 000.001.331-59 tax B30-14.2 S 60 Cooperativa_de_taxi_M7-0
+e 00000146/0001-29 000.000.291-73 unfr B30-2.3 L 40 Confeccao_de_uniformes_M5-0
+e 00000147/0001-92 000.000.551-74 bufinf B30-10.5 L 40 Buffet_infantil_M5-0
+e 00000148/0001-56 000.001.481-80 ptshp B30-9.14 L 10 Petshop_M4-0
+e 00000149/0001-10 000.000.341-77 ac B30-20.15 O 20 Acougue_O_File_da_Carne-0
+e 00000150/0001-00 000.001.351-00 chu B31-2.13 L 30 Churracaria_M5-0
+e 00000151/0001-65 000.000.121-06 chv B31-12.10 L 10 Chaveiro_M6-0
+e 00000152/0001-29 000.001.061-86 refr B31-17.1 O 60 Refrigeracao_M1-0
+e 00000153/0001-92 000.000.121-06 cacb B31-8.2 S 60 Locacao_de_cacambas_M2-0
+e 00000154/0001-56 000.000.621-11 pca B31-1.10 N 80 Pocos_artesianos_M1-1
+e 00000155/0001-10 000.000.271-20 chv B31-20.8 S 80 Chaveiro_M6-1
+e 00000156/0001-83 000.000.861-34 adv B31-12.6 N 80 Advogado_M2-0
+e 00000157/0001-47 000.000.101-54 agtur B31-11.12 L 30 Agencia_de_turismo_M6-0
+e 00000158/0001-00 000.001.351-00 confec B31-6.2 L 50 Confeccao_M1-0
+e 00000159/0001-74 000.001.481-80 chv B31-7.6 L 40 Chaveiro_M5-0
+e 00000160/0001-56 000.001.361-74 depil B31-12.13 S 10 Depilacao_M3-0
+e 00000161/0001-10 000.000.311-51 ei B31-12.15 S 20 Ensino_infantil_M4-0
+e 00000162/0001-83 000.001.281-55 frc B31-4.3 N 30 Farmacia_M1-0
+e 00000163/0001-47 000.001.471-09 esi B31-3.7 S 20 Escola_de_idiomas_M2-0
+e 00000164/0001-00 000.000.191-00 otc B31-8.13 S 20 Otica_M3-0
+e 00000165/0001-74 000.001.411-78 bb B31-4.10 N 20 Barbearia_Caballeros-0
+e 00000166/0001-38 000.001.361-74 pca B31-19.10 O 50 Pocos_artesianos_M1-2
+e 00000167/0001-00 000.001.481-80 rx B31-17.4 L 60 Raio-x_M5-0
+e 00000168/0001-65 000.000.361-10 fun B31-1.5 S 20 Funeraria_M7-0
+e 00000169/0001-29 000.001.021-99 alrm B31-19.14 S 30 Alarme_M7-0
+e 00000170/0001-00 000.001.131-23 gfr B31-4.6 O 10 Grafica_rapida_M3-0
+e 00000171/0001-74 000.001.271-83 brde B31-5.16 S 40 Brindes_M7-0
+e 00000172/0001-38 000.000.241-04 fun B31-15.4 N 60 Funeraria_M7-1
+e 00000173/0001-00 000.000.721-84 esqa B31-7.3 O 40 Esquadria_de_aluminio_M2-0
+e 00000174/0001-65 000.001.381-18 depil B31-12.8 L 50 Depilacao_M5-0
+e 00000175/0001-29 000.000.971-79 cin B31-19.11 S 70 Cinema_M5-0
+e 00000176/0001-92 000.001.111-80 grf B31-11.16 O 30 Grafica_M5-0
+e 00000177/0001-56 000.000.801-01 depil B31-1.11 S 30 Depilacao_M2-0
+e 00000178/0001-10 000.000.241-04 ddt B31-7.12 O 30 Dedetizadora_M4-1
+e 00000179/0001-83 000.000.881-88 igj B31-6.13 N 70 Igreja_M1-0
+e 00000180/0001-65 000.000.351-49 bnc B31-14.15 N 70 Banco_M5-0
+e 00000181/0001-29 000.000.491-07 tax B31-8.8 O 40 Cooperativa_de_taxi_M2-0
+e 00000182/0001-92 000.001.131-23 cacb B31-20.11 O 10 Locacao_de_cacambas_M3-0
+e 00000183/0001-56 000.001.031-60 ext B31-7.3 N 70 Extintores_M7-0
+e 00000184/0001-10 000.000.631-93 prv B31-20.15 S 40 Curso_pre-vestibular_M2-0
+e 00000185/0001-83 000.001.241-68 psi B31-19.12 S 30 Psicologo_M7-1
+e 00000186/0001-47 000.000.001-91 fun B31-10.13 N 80 Funeraria_M2-0
+e 00000187/0001-00 000.001.211-42 hot B31-4.12 N 60 Hotel_M7-0
+e 00000188/0001-74 000.001.351-00 prv B31-11.8 O 20 Curso_pre-vestibular_M5-0
+e 00000189/0001-38 000.001.271-83 ljd B31-3.5 S 30 Loja_de_departamentos_M6-0
+e 00000190/0001-10 000.001.131-23 agtur B31-2.13 O 50 Agencia_de_turismo_M2-0
+e 00000191/0001-83 000.001.071-58 fssep B31-1.8 O 60 Fossa_septica_M2-0
+e 00000192/0001-47 000.000.591-61 refr B31-17.14 L 50 Refrigeracao_M4-0
+e 00000193/0001-00 000.000.901-66 imper B31-9.10 O 10 Impermeabilizacao_M7-0
+e 00000194/0001-74 000.000.961-05 assl B31-2.12 S 50 Assoalhos_M7-0
+e 00000195/0001-38 000.000.411-14 lav B31-12.4 L 40 Lavanderia_M4-0
+e 00000196/0001-00 000.000.561-46 hot B31-3.15 S 30 Hotel_M3-0
+e 00000197/0001-65 000.001.221-14 mc B31-2.11 S 50 Material_de_construcao_M1-0
+e 00000198/0001-29 000.001.501-69 tld B31-13.2 O 20 Toldos_M6-0
+e 00000199/0001-92 000.001.231-96 res B31-11.11 S 50 Restaurante_M4-0
+e 00000200/0001-74 000.000.401-42 otc B32-12.2 O 40 Otica_M6-0
+e 00000201/0001-38 000.000.701-30 agtur B32-8.3 L 60 Agencia_de_turismo_M5-0
+e 00000202/0001-00 000.001.171-10 refr B32-1.12 L 30 Refrigeracao_M4-1
+e 00000203/0001-65 000.000.151-13 assl B32-2.15 N 70 Assoalhos_M7-1
+e 00000204/0001-29 000.000.501-05 chu B32-5.5 S 10 Churracaria_M1-0
+e 00000205/0001-92 000.000.831-19 papel B32-11.10 L 10 Papelaria_M7-0
+e 00000206/0001-56 000.001.211-42 p B32-6.9 S 70 Posto_de_combustivel_M6-0
+e 00000207/0001-10 000.001.141-03 vid B32-16.5 L 50 Vidracaria_M2-0
+e 00000208/0001-83 000.000.581-90 autoesc B32-1.1 L 50 Auto_escola_M7-0
+e 00000209/0001-47 000.000.241-04 hot B32-8.10 O 30 Hotel_M3-1
+e 00000210/0001-29 000.000.451-01 ext B32-6.7 S 70 Extintores_M1-0
+e 00000211/0001-92 000.000.161-95 nat B32-15.4 S 20 Escola_de_natacao_M6-0
+e 00000212/0001-56 000.000.891-50 esqa B32-1.16 L 60 Esquadria_de_aluminio_M7-0
+e 00000213/0001-10 000.000.411-14 but B32-2.2 L 20 Buteco_M4-0
+e 00000214/0001-83 000.000.731-56 p B32-16.14 S 50 Posto_de_combustivel_M4-0
+e 00000215/0001-47 000.000.231-32 bufinf B32-16.16 L 30 Buffet_infantil_M5-1
+e 00000216/0001-00 000.001.061-86 conf B32-14.11 L 30 Confeitaria_M4-0
+e 00000217/0001-74 000.000.251-86 gfr B32-17.6 L 40 Grafica_rapida_M2-0
+e 00000218/0001-38 000.000.341-77 fssep B32-4.13 L 50 Fossa_septica_M2-1
+e 00000219/0001-00 000.001.211-42 mc B32-3.10 O 60 Material_de_construcao_M2-0
+e 00000220/0001-83 000.000.761-71 chv B32-7.4 L 10 Chaveiro_M6-2
+e 00000221/0001-47 000.000.951-25 esi B32-12.8 O 30 Escola_de_idiomas_M1-0
+e 00000222/0001-00 000.000.151-13 ljd B32-15.13 S 80 Loja_de_departamentos_M3-1
+e 00000223/0001-74 000.000.641-65 pers B32-3.12 S 20 Persianas_M3-1
+e 00000224/0001-38 000.000.041-89 conscmp B32-19.14 L 60 Conserto_de_computadores_M7-0
+e 00000225/0001-00 000.000.971-79 fun B32-20.9 O 50 Funeraria_M3-0
+e 00000226/0001-65 000.000.051-50 papel B32-10.12 N 10 Papelaria_M4-0
+e 00000227/0001-29 000.000.281-00 psi B32-5.5 O 10 Psicologo_M6-1
+e 00000228/0001-92 000.000.251-86 papel B32-10.15 N 10 Papelaria_M6-0
+e 00000229/0001-56 000.000.401-42 lav B32-3.9 S 40 Lavanderia_M4-1
+e 00000230/0001-38 000.001.171-10 med B32-1.6 N 50 Consultorio_medico_M7-0
+e 00000231/0001-00 000.000.521-59 fun B32-11.16 L 30 Funeraria_M2-1
+e 00000232/0001-65 000.000.221-60 rx B32-18.5 L 10 Raio-x_M6-0
+e 00000233/0001-29 000.000.681-52 conf B32-2.12 L 40 Confeitaria_M7-1
+e 00000234/0001-92 000.001.061-86 pizz B32-15.4 L 60 Pizzaria_M4-0
+e 00000235/0001-56 000.000.081-76 pd B32-11.3 O 10 Padaria_Pao_de_Ouro-0
+e 00000236/0001-10 000.000.811-75 grn B32-8.13 O 60 Granito_M5-0
+e 00000237/0001-83 000.000.391-36 adv B32-13.15 O 20 Advogado_M7-0
+e 00000238/0001-47 000.000.121-06 gfr B32-5.15 S 30 Grafica_rapida_M4-0
+e 00000239/0001-00 000.000.231-32 ac B32-7.3 N 50 Acougue_Londri_Beef-0
+e 00000240/0001-92 000.000.511-87 depil B32-5.3 O 60 Depilacao_M4-1
+e 00000241/0001-56 000.001.051-04 ddt B32-14.15 L 10 Dedetizadora_M1-0
+e 00000242/0001-10 000.000.361-10 bufcas B32-4.6 L 50 Buffet_de_casamento_M4-0
+e 00000243/0001-83 000.001.391-90 tax B32-20.1 S 80 Cooperativa_de_taxi_M3-0
+e 00000244/0001-47 000.001.221-14 vid B32-19.8 N 80 Vidracaria_M3-0
+e 00000245/0001-00 000.000.811-75 ext B32-12.10 O 30 Extintores_M1-1
+e 00000246/0001-74 000.000.621-11 lav B32-12.6 L 30 Lavanderia_M2-0
+e 00000247/0001-38 000.000.371-92 prv B32-6.3 O 30 Curso_pre-vestibular_M3-0
+e 00000248/0001-00 000.000.951-25 gfr B32-12.1 O 30 Grafica_rapida_M7-0
+e 00000249/0001-65 000.000.501-05 psi B32-9.2 L 60 Psicologo_M4-0
+e 00000250/0001-47 000.000.361-10 esi B40-6.10 S 50 Escola_de_idiomas_M2-1
+e 00000251/0001-00 000.001.111-80 ei B40-1.7 S 40 Ensino_infantil_M3-0
+e 00000252/0001-74 000.000.071-02 vid B40-10.5 O 70 Vidracaria_M1-0
+e 00000253/0001-38 000.000.491-07 liv B40-7.6 S 20 Livraria_M5-0
+e 00000254/0001-00 000.001.501-69 liv B40-7.5 S 80 Livraria_M4-0
+e 00000255/0001-65 000.000.901-66 ges B40-3.3 S 30 Instalacao_de_gesso_M4-0
+e 00000256/0001-29 000.000.251-86 dent B40-3.1 N 30 Consultorio_odontologico_M7-0
+e 00000257/0001-92 000.000.691-24 pca B40-7.9 S 30 Pocos_artesianos_M3-0
+e 00000258/0001-56 000.000.991-12 bufinf B40-7.12 N 80 Buffet_infantil_M4-0
+e 00000259/0001-10 000.000.231-32 unfr B40-1.8 S 100 Confeccao_de_uniformes_M5-1
+e 00000260/0001-00 000.001.011-17 med B40-6.2 S 70 Consultorio_medico_M4-0
+e 00000261/0001-65 000.000.001-91 tld B40-8.12 N 40 Toldos_M4-0
+e 00000262/0001-29 000.001.191-64 bb B40-7.3 L 50 Barbearia_Barbearia_Prado-0
+e 00000263/0001-92 000.000.971-79 p B40-4.7 N 40 Posto_de_combustivel_M4-1
+e 00000264/0001-56 000.000.941-53 ele B40-8.8 N 90 Eletricista_M6-0
+e 00000265/0001-10 000.000.051-50 cons B40-9.7 L 80 Concessionaria_M7-0
+e 00000266/0001-83 000.000.621-11 pers B40-3.12 N 70 Persianas_M2-0
+e 00000267/0001-47 000.001.171-10 conscmp B40-4.10 L 80 Conserto_de_computadores_M5-0
+e 00000268/0001-00 000.000.761-71 grf B40-1.5 N 100 Grafica_M4-0
+e 00000269/0001-74 000.000.701-30 rdpr B40-8.11 S 50 Rede_de_protecao_M3-0
+e 00000270/0001-56 000.000.831-19 pd B40-2.4 N 70 Padaria_Pao_Bom-0
+e 00000271/0001-10 000.000.441-30 conf B40-4.2 N 10 Confeitaria_M3-0
+e 00000272/0001-83 000.000.801-01 lav B40-8.1 O 50 Lavanderia_M5-0
+e 00000273/0001-47 000.001.331-59 cin B40-2.6 N 10 Cinema_M2-0
+e 00000274/0001-00 000.001.231-96 confec B40-5.4 L 70 Confeccao_M4-0
+e 00000275/0001-74 000.000.391-36 assl B40-7.3 O 60 Assoalhos_M2-0
+e 00000276/0001-38 000.001.251-30 rx B40-3.1 O 80 Raio-x_M2-0
+e 00000277/0001-00 000.001.121-51 ac B40-3.2 O 70 Acougue_Acougue_Boi_Tata-0
+e 00000278/0001-65 000.001.131-23 depil B40-5.9 O 60 Depilacao_M5-1
+e 00000279/0001-29 000.000.321-23 fssep B40-2.10 L 20 Fossa_septica_M3-0
+e 00000280/0001-00 000.001.141-03 ele B40-3.5 O 40 Eletricista_M3-0
+e 00000281/0001-74 000.001.221-14 cacb B40-7.6 N 50 Locacao_de_cacambas_M4-0
+e 00000282/0001-38 000.001.461-37 psi B40-1.11 O 40 Psicologo_M7-2
+e 00000283/0001-00 000.001.361-74 frc B40-9.5 S 100 Farmacia_M6-0
+e 00000284/0001-65 000.001.331-59 cons B40-3.9 N 20 Concessionaria_M7-1
+e 00000285/0001-29 000.001.171-10 confec B40-7.4 N 50 Confeccao_M6-1
+e 00000286/0001-92 000.000.471-55 bxb B40-7.10 O 30 Box_M7-0
+e 00000287/0001-56 000.000.511-87 gfr B40-4.4 L 40 Grafica_rapida_M5-0
+e 00000288/0001-10 000.000.041-89 imper B40-6.1 N 50 Impermeabilizacao_M2-0
+e 00000289/0001-83 000.000.121-06 ef B40-5.11 O 60 Ensino_fundamental_M3-0
+e 00000290/0001-65 000.001.011-17 autoesc B40-4.3 S 90 Auto_escola_M4-0
+e 00000291/0001-29 000.000.501-05 spm B40-2.6 L 50 Supermercado_M1-0
+e 00000292/0001-92 000.000.801-01 refr B40-7.4 S 50 Refrigeracao_M7-1
+e 00000293/0001-56 000.001.051-04 depil B40-5.9 N 50 Depilacao_M4-2
+e 00000294/0001-10 000.000.211-99 om B40-10.5 N 70 Oficina_mecanica_M2-0
+e 00000295/0001-83 000.001.101-08 pd B40-10.5 N 80 Padaria_Pao_das_Arabias-0
+e 00000296/0001-47 000.000.811-75 prv B40-9.9 N 60 Curso_pre-vestibular_M1-0
+e 00000297/0001-00 000.000.491-07 bb B40-10.5 S 70 Barbearia_Barbearia_Prado-1
+e 00000298/0001-74 000.000.861-34 papel B40-7.1 O 10 Papelaria_M2-0
+e 00000299/0001-38 000.001.351-00 ddt B40-1.3 O 40 Dedetizadora_M7-0
+e 00000300/0001-10 000.000.661-09 lot B41-1.7 N 40 Loterica_M7-0
+e 00000301/0001-83 000.000.431-68 conf B41-4.2 L 20 Confeitaria_M6-0
+e 00000302/0001-47 000.000.941-53 bufcas B41-1.3 N 100 Buffet_de_casamento_M1-0
+e 00000303/0001-00 000.000.411-14 tet B41-2.10 N 20 Teatro_M3-0
+e 00000304/0001-74 000.000.671-80 tax B41-1.11 O 20 Cooperativa_de_taxi_M5-0
+e 00000305/0001-38 000.000.821-47 ef B41-10.3 L 50 Ensino_fundamental_M1-0
+e 00000306/0001-00 000.001.151-77 vid B41-8.9 O 50 Vidracaria_M5-0
+e 00000307/0001-65 000.000.751-08 ac B41-4.5 O 60 Acougue_So_Carne-0
+e 00000308/0001-29 000.000.571-18 fgo B41-8.11 N 80 Pecas_de_fogao_M5-1
+e 00000309/0001-92 000.000.761-71 autoesc B41-4.3 O 60 Auto_escola_M2-0
+e 00000310/0001-74 000.001.351-00 adv B41-1.10 L 60 Advogado_M6-0
+e 00000311/0001-38 000.000.611-40 ele B41-2.4 N 20 Eletricista_M7-0
+e 00000312/0001-00 000.000.471-55 bufcas B41-1.11 L 20 Buffet_de_casamento_M5-0
+e 00000313/0001-65 000.000.401-42 fgo B41-9.1 O 60 Pecas_de_fogao_M4-0
+e 00000314/0001-29 000.000.561-46 ddt B41-5.12 O 70 Dedetizadora_M1-1
+e 00000315/0001-92 000.000.431-68 p B41-3.4 L 50 Posto_de_combustivel_M7-0
+e 00000316/0001-56 000.001.161-49 rx B41-9.2 N 10 Raio-x_M2-1
+e 00000317/0001-10 000.000.371-92 ac B41-1.10 N 10 Acougue_Casa_das_Carnes-0
+e 00000318/0001-83 000.000.601-78 chu B41-2.4 N 90 Churracaria_M4-0
+e 00000319/0001-47 000.001.051-04 papel B41-8.4 O 40 Papelaria_M6-1
+e 00000320/0001-29 000.000.051-50 bxb B41-7.1 S 60 Box_M7-1
+e 00000321/0001-92 000.001.001-45 spm B41-6.2 O 30 Supermercado_M5-0
+e 00000322/0001-56 000.001.211-42 grn B41-2.12 S 30 Granito_M3-0
+e 00000323/0001-10 000.000.541-00 gfr B41-3.9 S 80 Grafica_rapida_M7-1
+e 00000324/0001-83 000.001.331-59 pers B41-7.11 N 10 Persianas_M3-2
+e 00000325/0001-47 000.000.011-63 papel B41-10.8 N 10 Papelaria_M5-0
+e 00000326/0001-00 000.000.771-43 ei B41-1.3 O 80 Ensino_infantil_M6-0
+e 00000327/0001-74 000.001.051-04 mc B41-5.9 L 30 Material_de_construcao_M1-1
+e 00000328/0001-38 000.000.561-46 alrm B41-3.8 S 60 Alarme_M5-0
+e 00000329/0001-00 000.000.061-22 pizz B41-5.10 L 70 Pizzaria_M3-0
+e 00000330/0001-83 000.001.391-90 ddt B41-3.12 S 20 Dedetizadora_M6-0
+e 00000331/0001-47 000.000.871-06 pizz B41-10.11 O 40 Pizzaria_M6-0
+e 00000332/0001-00 000.000.911-38 flor B41-4.1 N 50 Floricultura_M3-1
+e 00000333/0001-74 000.000.721-84 nat B41-7.8 S 50 Escola_de_natacao_M5-0
+e 00000334/0001-38 000.000.411-14 fun B41-7.8 O 80 Funeraria_M1-0
+e 00000335/0001-00 000.001.491-52 papel B41-1.10 O 20 Papelaria_M5-1
+e 00000336/0001-65 000.001.201-70 grf B41-6.12 S 70 Grafica_M3-0
+e 00000337/0001-29 000.000.981-40 conf B41-2.11 S 100 Confeitaria_M4-1
+e 00000338/0001-92 000.000.611-40 med B41-9.10 S 100 Consultorio_medico_M5-0
+e 00000339/0001-56 000.000.411-14 bufinf B41-4.10 N 60 Buffet_infantil_M5-2
+e 00000340/0001-38 000.000.731-56 tet B41-4.11 N 40 Teatro_M3-1
+e 00000341/0001-00 000.000.241-04 ptshp B41-1.12 L 80 Petshop_M7-0
+e 00000342/0001-65 000.000.741-28 refr B41-7.1 L 30 Refrigeracao_M7-2
+e 00000343/0001-29 000.000.211-99 lav B41-4.5 L 80 Lavanderia_M7-1
+e 00000344/0001-92 000.001.291-27 om B41-9.5 O 20 Oficina_mecanica_M2-1
+e 00000345/0001-56 000.000.481-27 nat B41-2.8 S 70 Escola_de_natacao_M6-1
+e 00000346/0001-10 000.000.111-26 esqa B41-4.8 N 60 Esquadria_de_aluminio_M6-0
+e 00000347/0001-83 000.000.421-96 res B41-8.5 S 40 Restaurante_M1-0
+e 00000348/0001-47 000.001.391-90 liv B41-9.6 S 60 Livraria_M4-1
+e 00000349/0001-00 000.001.141-03 assl B41-7.4 L 10 Assoalhos_M3-0
+e 00000350/0001-92 000.000.221-60 hot B42-5.1 O 10 Hotel_M1-0
+e 00000351/0001-56 000.000.901-66 conscmp B42-10.5 S 100 Conserto_de_computadores_M5-1
+e 00000352/0001-10 000.000.231-32 lac B42-7.8 S 50 Laboratorio_analises_clinicas_M1-0
+e 00000353/0001-83 000.001.211-42 grn B42-10.6 N 40 Granito_M3-1
+e 00000354/0001-47 000.000.431-68 bufinf B42-8.3 O 50 Buffet_infantil_M4-1
+e 00000355/0001-00 000.001.071-58 cons B42-3.10 O 20 Concessionaria_M3-0
+e 00000356/0001-74 000.000.941-53 lac B42-9.11 O 50 Laboratorio_analises_clinicas_M7-0
+e 00000357/0001-38 000.000.871-06 rx B42-9.5 S 80 Raio-x_M1-0
+e 00000358/0001-00 000.000.791-97 prv B42-10.8 O 80 Curso_pre-vestibular_M4-0
+e 00000359/0001-65 000.000.371-92 cacb B42-1.6 L 10 Locacao_de_cacambas_M4-1
+e 00000360/0001-47 000.001.431-11 bxb B42-8.7 L 20 Box_M4-0
+e 00000361/0001-00 000.001.501-69 bb B42-10.2 L 30 Barbearia_Hermano_Barbearia-0
+e 00000362/0001-74 000.000.851-62 flor B42-6.11 L 50 Floricultura_M3-2
+e 00000363/0001-38 000.001.161-49 cacb B42-9.4 N 50 Locacao_de_cacambas_M1-0
+e 00000364/0001-00 000.000.191-00 cacb B42-3.6 N 70 Locacao_de_cacambas_M2-1
+e 00000365/0001-65 000.000.241-04 ei B42-7.3 N 70 Ensino_infantil_M2-0
+e 00000366/0001-29 000.000.641-65 pd B42-1.1 L 60 Padaria_Pao_Puro-0
+e 00000367/0001-92 000.000.081-76 pd B42-8.2 L 30 Padaria_Pao_Bom-1
+e 00000368/0001-56 000.000.361-10 pers B42-5.7 N 70 Persianas_M5-0
+e 00000369/0001-10 000.000.801-01 ac B42-7.10 O 40 Acougue_JBScarne-0
+e 00000370/0001-00 000.000.981-40 flor B42-8.3 S 50 Floricultura_M5-0
+e 00000371/0001-65 000.001.311-05 bufcas B42-4.5 O 20 Buffet_de_casamento_M2-0
+e 00000372/0001-29 000.000.011-63 rdpr B42-1.6 L 10 Rede_de_protecao_M4-0
+e 00000373/0001-92 000.000.511-87 refr B42-3.9 S 40 Refrigeracao_M5-0
+e 00000374/0001-56 000.000.331-03 but B42-5.12 N 100 Buteco_M6-0
+e 00000375/0001-10 000.000.241-04 bnc B42-5.2 N 30 Banco_M4-0
+e 00000376/0001-83 000.000.421-96 ddt B42-10.11 S 80 Dedetizadora_M4-2
+e 00000377/0001-47 000.000.201-17 lac B42-10.8 L 10 Laboratorio_analises_clinicas_M3-0
+e 00000378/0001-00 000.000.001-91 vid B42-5.7 L 30 Vidracaria_M1-1
+e 00000379/0001-74 000.000.381-64 cacb B42-2.9 O 30 Locacao_de_cacambas_M1-1
+e 00000380/0001-56 000.000.611-40 chv B42-7.4 N 60 Chaveiro_M6-3
+e 00000381/0001-10 000.001.311-05 frc B42-3.8 O 60 Farmacia_M2-1
+e 00000382/0001-83 000.001.471-09 ele B42-2.1 L 20 Eletricista_M5-0
+e 00000383/0001-47 000.000.541-00 prv B42-2.6 S 60 Curso_pre-vestibular_M1-1
+e 00000384/0001-00 000.001.331-59 conf B42-7.12 S 90 Confeitaria_M5-0
+e 00000385/0001-74 000.001.231-96 ac B42-4.3 S 20 Acougue_So_Carne-1
+e 00000386/0001-38 000.000.611-40 but B42-2.3 N 60 Buteco_M7-0
+e 00000387/0001-00 000.000.881-88 imper B42-7.3 O 20 Impermeabilizacao_M5-0
+e 00000388/0001-65 000.000.561-46 bnc B42-3.7 S 20 Banco_M5-1
+e 00000389/0001-29 000.000.001-91 rx B42-1.1 L 30 Raio-x_M1-1
+e 00000390/0001-00 000.000.251-86 chu B42-6.3 O 20 Churracaria_M1-1
+e 00000391/0001-74 000.001.061-86 refr B42-9.7 N 50 Refrigeracao_M3-0
+e 00000392/0001-38 000.000.571-18 adv B42-7.5 S 100 Advogado_M7-1
+e 00000393/0001-00 000.000.391-36 ele B42-1.5 N 80 Eletricista_M1-0
+e 00000394/0001-65 000.000.721-84 lac B42-10.8 S 40 Laboratorio_analises_clinicas_M7-1
+e 00000395/0001-29 000.000.931-81 cacb B42-1.3 N 40 Locacao_de_cacambas_M5-0
+e 00000396/0001-92 000.000.991-12 adv B42-4.3 N 50 Advogado_M3-0
+e 00000397/0001-56 000.001.001-45 pd B42-1.7 O 60 Padaria_Botique_do_Pao-1
+e 00000398/0001-10 000.000.691-24 grn B42-6.8 S 90 Granito_M4-0
+e 00000399/0001-83 000.000.541-00 autoesc B42-2.6 S 20 Auto_escola_M7-1
+e 00000400/0001-65 000.001.071-58 unfr B43-10.5 L 20 Confeccao_de_uniformes_M7-0
+e 00000401/0001-29 000.001.071-58 bufcas B43-6.6 O 60 Buffet_de_casamento_M3-0
+e 00000402/0001-92 000.001.221-14 pca B43-2.9 O 10 Pocos_artesianos_M1-3
+e 00000403/0001-56 000.001.381-18 res B43-4.9 S 10 Restaurante_M1-1
+e 00000404/0001-10 000.000.961-05 bb B43-9.3 O 30 Barbearia_Barbearia_Lincoln_Goncalves-0
+e 00000405/0001-83 000.000.161-95 frc B43-1.3 O 10 Farmacia_M2-2
+e 00000406/0001-47 000.000.351-49 tld B43-10.6 L 20 Toldos_M2-0
+e 00000407/0001-00 000.001.341-20 autoesc B43-7.11 S 30 Auto_escola_M1-0
+e 00000408/0001-74 000.001.251-30 lot B43-1.4 L 40 Loterica_M5-0
+e 00000409/0001-38 000.001.271-83 psi B43-4.8 S 10 Psicologo_M3-0
+e 00000410/0001-10 000.001.041-32 adv B43-6.1 N 70 Advogado_M3-1
+e 00000411/0001-83 000.000.361-10 ljd B43-5.9 S 10 Loja_de_departamentos_M4-0
+e 00000412/0001-47 000.001.001-45 brde B43-10.2 O 10 Brindes_M7-1
+e 00000413/0001-00 000.000.911-38 chu B43-10.6 O 40 Churracaria_M6-0
+e 00000414/0001-74 000.000.641-65 pd B43-8.11 O 40 Padaria_Botique_do_Pao-2
+e 00000415/0001-38 000.000.761-71 but B43-2.7 S 10 Buteco_M4-1
+e 00000416/0001-00 000.001.451-65 conscmp B43-10.6 S 50 Conserto_de_computadores_M5-2
+e 00000417/0001-65 000.000.501-05 refr B43-8.8 S 100 Refrigeracao_M5-1
+e 00000418/0001-29 000.000.561-46 ei B43-1.6 S 60 Ensino_infantil_M2-1
+e 00000419/0001-92 000.000.491-07 esi B43-4.9 N 10 Escola_de_idiomas_M3-0
+e 00000420/0001-74 000.000.681-52 nat B43-2.4 O 80 Escola_de_natacao_M2-1
+e 00000421/0001-38 000.000.041-89 dent B43-5.6 S 70 Consultorio_odontologico_M1-0
+e 00000422/0001-00 000.000.251-86 grn B43-5.6 O 80 Granito_M5-1
+e 00000423/0001-65 000.000.231-32 bufinf B43-2.2 N 40 Buffet_infantil_M5-3
+e 00000424/0001-29 000.001.341-20 bxb B43-3.8 N 20 Box_M5-0
+e 00000425/0001-92 000.001.261-01 tax B43-10.1 S 10 Cooperativa_de_taxi_M2-1
+e 00000426/0001-56 000.000.621-11 lav B43-7.1 O 30 Lavanderia_M3-0
+e 00000427/0001-10 000.000.001-91 but B43-4.2 O 30 Buteco_M3-0
+e 00000428/0001-83 000.000.181-39 cacb B43-6.5 L 30 Locacao_de_cacambas_M1-2
+e 00000429/0001-47 000.000.111-26 dest B43-9.11 S 80 Desentupidora_M3-0
+e 00000430/0001-29 000.000.421-96 p B43-3.5 L 40 Posto_de_combustivel_M7-1
+e 00000431/0001-92 000.000.661-09 cons B43-1.11 O 50 Concessionaria_M3-1
+e 00000432/0001-56 000.000.461-83 res B43-4.11 L 40 Restaurante_M2-1
+e 00000433/0001-10 000.000.941-53 res B43-5.4 S 10 Restaurante_M4-1
+e 00000434/0001-83 000.000.661-09 lot B43-8.10 S 40 Loterica_M7-1
+e 00000435/0001-47 000.000.841-90 conf B43-5.7 S 50 Confeitaria_M1-0
+e 00000436/0001-00 000.000.031-07 brde B43-3.1 N 40 Brindes_M5-0
+e 00000437/0001-74 000.000.531-20 adv B43-1.3 L 60 Advogado_M3-2
+e 00000438/0001-38 000.000.581-90 assl B43-2.5 O 20 Assoalhos_M1-0
+e 00000439/0001-00 000.000.101-54 vid B43-1.6 N 40 Vidracaria_M6-0
+e 00000440/0001-83 000.001.231-96 fgo B43-3.10 N 30 Pecas_de_fogao_M7-0
+e 00000441/0001-47 000.000.321-23 psi B43-3.2 S 30 Psicologo_M2-0
+e 00000442/0001-00 000.000.081-76 ptshp B43-8.2 S 60 Petshop_M5-0
+e 00000443/0001-74 000.000.171-67 lac B43-8.7 O 30 Laboratorio_analises_clinicas_M1-1
+e 00000444/0001-38 000.001.311-05 bb B43-1.6 O 10 Barbearia_Uomo-0
+e 00000445/0001-00 000.001.271-83 confec B43-1.6 N 10 Confeccao_M2-1
+e 00000446/0001-65 000.001.181-92 res B43-4.2 N 90 Restaurante_M1-2
+e 00000447/0001-29 000.000.011-63 ljd B43-8.11 L 60 Loja_de_departamentos_M1-0
+e 00000448/0001-92 000.001.081-20 dent B43-3.2 N 60 Consultorio_odontologico_M2-0
+e 00000449/0001-56 000.001.421-40 alrm B43-6.9 O 50 Alarme_M4-0
+e 00000450/0001-38 000.000.801-01 ele B44-4.3 N 80 Eletricista_M2-0
+e 00000451/0001-00 000.000.361-10 depil B44-4.10 N 20 Depilacao_M5-2
+e 00000452/0001-65 000.001.151-77 otc B44-4.4 S 100 Otica_M7-0
+e 00000453/0001-29 000.000.241-04 flor B44-2.11 O 50 Floricultura_M4-0
+e 00000454/0001-92 000.000.591-61 cons B44-9.2 L 10 Concessionaria_M2-0
+e 00000455/0001-56 000.000.011-63 hot B44-5.7 L 60 Hotel_M2-0
+e 00000456/0001-10 000.000.491-07 fgo B44-4.5 L 70 Pecas_de_fogao_M3-0
+e 00000457/0001-83 000.001.131-23 refr B44-4.7 S 50 Refrigeracao_M3-1
+e 00000458/0001-47 000.000.681-52 confec B44-5.4 N 70 Confeccao_M4-1
+e 00000459/0001-00 000.000.581-90 rdpr B44-2.6 L 40 Rede_de_protecao_M4-1
+e 00000460/0001-92 000.001.311-05 pizz B44-1.2 L 30 Pizzaria_M3-1
+e 00000461/0001-56 000.000.371-92 esqa B44-10.8 L 10 Esquadria_de_aluminio_M1-0
+e 00000462/0001-10 000.000.121-06 cacb B44-7.8 O 10 Locacao_de_cacambas_M4-2
+e 00000463/0001-83 000.000.681-52 chv B44-1.8 N 100 Chaveiro_M4-0
+e 00000464/0001-47 000.000.671-80 bnc B44-10.6 L 70 Banco_M2-0
+e 00000465/0001-00 000.000.611-40 mc B44-10.2 O 20 Material_de_construcao_M6-0
+e 00000466/0001-74 000.000.241-04 flor B44-7.10 N 70 Floricultura_M4-1
+e 00000467/0001-38 000.001.411-78 om B44-4.3 S 40 Oficina_mecanica_M6-0
+e 00000468/0001-00 000.000.031-07 bufinf B44-4.5 S 40 Buffet_infantil_M5-4
+e 00000469/0001-65 000.000.591-61 bnc B44-2.3 N 80 Banco_M6-0
+e 00000470/0001-47 000.000.321-23 ac B44-2.3 N 60 Acougue_Acougue_Boi_Tata-1
+e 00000471/0001-00 000.000.971-79 pca B44-5.6 N 40 Pocos_artesianos_M7-0
+e 00000472/0001-74 000.001.381-18 bxb B44-8.11 N 90 Box_M5-1
+e 00000473/0001-38 000.000.391-36 pers B44-2.6 N 90 Persianas_M5-1
+e 00000474/0001-00 000.000.201-17 cons B44-4.11 S 80 Concessionaria_M1-0
+e 00000475/0001-65 000.000.321-23 prv B44-3.5 S 50 Curso_pre-vestibular_M4-1
+e 00000476/0001-29 000.001.471-09 refr B44-9.8 O 60 Refrigeracao_M4-2
+e 00000477/0001-92 000.001.421-40 mc B44-2.11 L 10 Material_de_construcao_M6-1
+e 00000478/0001-56 000.000.811-75 papel B44-4.6 S 80 Papelaria_M7-1
+e 00000479/0001-10 000.000.441-30 conscmp B44-8.7 N 50 Conserto_de_computadores_M2-0
+e 00000480/0001-00 000.000.091-48 flor B44-8.7 N 60 Floricultura_M7-0
+e 00000481/0001-65 000.000.461-83 med B44-1.1 N 40 Consultorio_medico_M4-1
+e 00000482/0001-29 000.000.331-03 bufcas B44-10.5 L 60 Buffet_de_casamento_M1-1
+e 00000483/0001-92 000.000.311-51 ges B44-3.5 L 60 Instalacao_de_gesso_M6-0
+e 00000484/0001-56 000.000.791-97 pers B44-8.9 O 70 Persianas_M2-1
+e 00000485/0001-10 000.001.361-74 med B44-3.1 O 70 Consultorio_medico_M4-2
+e 00000486/0001-83 000.001.051-04 conf B44-5.6 L 50 Confeitaria_M3-1
+e 00000487/0001-47 000.000.031-07 p B44-2.12 L 80 Posto_de_combustivel_M5-0
+e 00000488/0001-00 000.000.041-89 fun B44-4.5 O 80 Funeraria_M4-0
+e 00000489/0001-74 000.000.651-37 ddt B44-6.11 L 40 Dedetizadora_M6-1
+e 00000490/0001-56 000.000.351-49 gfr B44-8.9 O 70 Grafica_rapida_M3-1
+e 00000491/0001-10 000.000.821-47 gfr B44-6.3 S 60 Grafica_rapida_M1-0
+e 00000492/0001-83 000.001.031-60 pers B44-3.3 N 60 Persianas_M2-2
+e 00000493/0001-47 000.000.131-70 dest B44-9.8 S 60 Desentupidora_M4-0
+e 00000494/0001-00 000.000.081-76 ljd B44-5.9 S 80 Loja_de_departamentos_M7-0
+e 00000495/0001-74 000.000.771-43 refr B44-5.4 L 30 Refrigeracao_M2-0
+e 00000496/0001-38 000.000.781-15 imper B44-7.6 N 30 Impermeabilizacao_M4-0
+e 00000497/0001-00 000.000.491-07 med B44-8.6 S 90 Consultorio_medico_M7-1
+e 00000498/0001-65 000.001.401-04 confec B44-7.4 S 60 Confeccao_M7-0
+e 00000499/0001-29 000.000.601-78 agtur B44-9.11 O 10 Agencia_de_turismo_M1-1
