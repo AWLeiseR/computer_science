@@ -1,0 +1,12 @@
+CC=gcc
+CFLAGS=
+LIBS=
+
+PROGRAMA = l9e1
+EXEC = LISTA_9_EXERCICIO_1.c
+
+$(PROGRAMA): $(EXEC)
+	$(CC) -std=c99 LISTA_9_EXERCICIO_1.c $(LIBS) -o $(PROGRAMA)
+
+clean:
+	rm -f l9e1

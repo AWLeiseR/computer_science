@@ -1,0 +1,38 @@
+*Conteúdo prova arq*
+
+Parte 1
+-Diferença entre arquitetura e organização*
+-Diferença entre estrutura e função*
+-Principais componentes de uma estrutura*
+-Conceito de multicore, memória cache*
+-Funções de um core*
+-Principais subáreas do core*
+-Informações sobre o ENIAC*
+-Estrutura geral do IAS*
+-Ciclo de busca e execução*
+-Operação de leitura e escrita na memória*
+-Ciclo da execução da instrução ADD(X)*
+-Gerações (válvula, transistor, circuitos integrados)*
+-Conceito de família de computadores*
+-O que é a arquitetura ARM*
+-O que é um sistema embarcado*
+-O que é o conceito de Internet das Coisas*
+-Gerações da IoT*
+-Sistemas operacionais embarcados*
+-Diferença de processador para aplicações e processador embarcado
+-Microprocessadores vs microcontroladores
+-Computação em nuvem
+
+Parte 2
+-Técnicas para aumentar o desempenho do processador
+-Técnicas para aumentar a performance do processador
+-Conceito de Multicore, MICs e GPGPUs
+-Lei de Amdahl
+-Conceito de código paralelizavel
+-Conceito de taxa de pulsos, templo de ciclo
+-Métricas básicas de desempenho do computador
+-Taxa MIPS e CPI
+-Média geométrica aplicada no benchmark
+-Conceito de benchmark e suas características
+-O que é SPEC
+-O que é sistema de teste, máquina de teste e suas métricas

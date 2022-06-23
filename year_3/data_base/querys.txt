@@ -1,0 +1,56 @@
+A) 
+
+π pname (σ price<20 (parts))
+
+{ p.pname | pasts(p) ^ p.price<20 }
+
+B)
+
+R1= (σ price*quantity>50 (parts ⨝pno=pPno orderDetail))
+R2= π eEno (R1 ⨝number=oNumber orders)
+R3= π zZip,name (R2⨝eEno=eno employees)
+π name,city (R3⨝zZip=zip zipCodes)
+
+{ e.name, z.city | employees(e) ∧ zipCodes(z) ∧ z.zip = e.zZip ∧ (E o)(orders(o) e.eno==o.eEno ∧ (E od)(orderDetail(od) od.oNumber = eEno ∧ (E p)(parts(p) p.price * od.quantity < 50 ∧ p.pno == od.oNumber) ) }
+
+C)
+
+R1 = ρ id → id1, zZip→zip1 (π id, zZip (customers))
+R2 = ρ id → id2, zZip→zip2 (π id, zZip (customers))
+
+π id1, id2 (σ id1 < id2 ∧ zip1 = zip2 (R1 ⨝ R2))
+
+{ c1.id, c2.id | customers(c1) ∧ customers (c2) ∧ c1.zZip = c2.zZip ∧ c1.id < c2.id }
+
+D)
+
+R1 = σ zZip=zip (employees ⨝ (σ city='Wichita' (zipCodes)))
+R2 = σ eEno=eno (orders ⨝ (π eno (R1)))
+R3 = σ id=cId (customers ⨝ (π cId (R2)))
+π name (R3)
+
+{ c.name | customers(c) ∧ (E o)(orders (o) o.cId = c.id ∧ (E e)(employees(e) e.eno = o.eEno ∧ (E z)(zipCodes(z) z.zip = e.zZip ∧ z.city = 'Wichita' )))}
+
+E)
+
+R1 = π pno (σ price<20 (parts))
+R2=π oNumber (σ pno=pPno (R1 ⨝ orderDetail))
+R3=π cId (σ number=oNumber (R2⨝orders))
+π name (σ cId=id (R3⨝customers))
+
+{ c.name | customers(c) ∧ (E o)(orders (o) o.cId = c.id ∧ (E od)(orderDetail(od) o.number = od.oNumber ∧ (E p)(parts(p) od.pno = p.pno ∧ p.price < 20 )))}
+
+F)
+
+R1 = ρ cId→id (π cId (orders))
+R2 = (π id (customers)) - R1
+π name (R2 ⨝ customers)
+
+{c.name | customers(c) }
+
+G)
+
+Não ta pronto
+R1 = ((orders) ⨝ number = oNumber orderDetail)
+R2 = R1 ⨝ pno = pPno parts
+σ cId = id ((π id, name (customers)) ⨝ R2 )

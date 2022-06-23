@@ -1,0 +1,135 @@
+#lang racket
+; "define" define uma nova variavel
+(define val1 "nx") 
+(define textCont 0)
+(define cqCont 0)
+(define chCont 0)
+(define crCont 0)
+(define csCont 0)
+(define swCont 0)
+(define n (random 5000))
+(define nqq (random 50))
+(define nhh (random 50))
+(define nss (random 50))
+(define nrr (random 50))
+
+;random-cr produs um caractere aleatorio (c,r,q,h,s)
+;set! atribui um novo valor para a variavel
+(define (random-cr x)
+  (set! x (random 5))
+    (cond [(equal? x 0) "c"] ;cond testa varias condiçoes
+          [(equal? x 1) "r"]
+          [(equal? x 2) "q"]
+          [(equal? x 3) "h"]
+          [(equal? x 4) "s"]
+          ))
+;atribui esse caractere produzido na função random-cr a variavel alecr
+(define alecr random-cr)
+
+;produz um caractere aleatorio
+(define (random-crt x)
+  (set! x (random 12))
+    (cond [(equal? x 0) "c"]
+          [(equal? x 1) "r"]
+          [(equal? x 2) "q"]
+          [(equal? x 3) "h"]
+          [(equal? x 4) "s"]
+          [(equal? x 5) "rb"]
+          [(equal? x 6) "cq"]
+          [(equal? x 7) "ch"]
+          [(equal? x 8) "cr"]
+          [(equal? x 9) "cs"]
+          [(equal? x 10) "sw"]
+          [(equal? x 11) "t"]
+          ))
+;produz uma string aleatoria
+(define (random-string x)
+  (set! x (random 3))
+    (cond [(equal? x 0) "Primeira String Teste"]
+          [(equal? x 1) "Teste Segunda String"]
+          [(equal? x 2) "String Teste Terceira"]
+          ))
+;a string da função anterior é salva na variavel stringale
+(define stringale random-string)
+
+(define indice -1)
+
+;criando arquivo.geo
+(define out (open-output-file "file33.geo"))
+
+;inserindo nx
+(display (string-append val1 " " (number->string n) " " (number->string nqq) " " (number->string nss) " " (number->string nrr) " " (number->string nhh)"\n") out)
+
+(define ale random-crt) ;gerando uma das 3 letras aleatorias (c,t,r)
+(define corC1 "Blue");cor fixa1
+(define corC2 "Yellow");cor fixa2
+(define corR1 "Yellow");cor fixa1
+(define corR2 "Blue");cor fixa2
+(define cfill "Red");cor do preenchimento
+(define cstrk "Magenta");cor da borda
+(define stringcep "cep-quadra.")
+(define stringindice 0)
+(define sw (random 1 10));espessura da borda do hidrante
+(define cw (random 1 10));espessura do circulo
+(define rw (random 1 10));espessura do retangulo
+(define x (random 500));numero aleatorio para ponto no eixo x
+(define y (random 500));ponto aleatorio para ponto no eixo y
+(define r (random 50));numero aleatorio para o tamanho do raio
+(define w (random 200));largura do retangulo
+(define h (random 200));altura do retangulo
+(define stringfixa "String para o testar o Texto")
+
+(define (funcWhile n)
+  (set! ale (random-crt 0));??
+  (cond
+    [(string=? ale "c") (set! indice(+ indice 1))]
+    [(string=? ale "r") (set! indice(+ indice 1))]
+    [(string=? ale "s") (set! indice(+ indice 1))]
+    [(string=? ale "h") (set! indice(+ indice 1))]
+    [(string=? ale "rb") (set! indice(+ indice 1))]
+    )
+  (set! stringale (random-string 0))
+  (set! x (random 500));numero aleatorio para ponto no eixo x
+  (set! y (random 500));ponto aleatorio para ponto no eixo y
+  (set! r (random 50));numero aleatorio para o tamanho do raio
+  (set! w (random 200));largura do retangulo
+  (set! h (random 200));altura do retangulo
+  (set! sw (random 1 10));espessura da borda do hidrante
+  (set! cw (random 1 10));espessura do circulo
+  (set! rw (random 1 10));espessura do retangulo
+  (cond
+    [(string=? "t" ale) (set! textCont(+ textCont 1))]
+    [(string=? "cq" ale) (set! cqCont(+ cqCont 1))]
+    [(string=? "ch" ale) (set! chCont(+ chCont 1))]
+    [(string=? "cs" ale) (set! csCont(+ csCont 1))]
+    [(string=? "cr" ale) (set! crCont(+ crCont 1))]
+    [(string=? "sw" ale) (set! swCont(+ swCont 1))])
+  (cond
+    [ (> textCont 3) (set! ale (random-cr 0))]
+    [ (> cqCont 3) (set! ale (random-cr 0))]
+    [ (> chCont 3) (set! ale (random-cr 0))]
+    [ (> csCont 3) (set! ale (random-cr 0))]
+    [ (> swCont 3) (set! ale (random-cr 0))])
+  (cond
+    [(string=? "q" ale) (set! stringindice(+ stringindice 1))])
+  (cond
+    [;primeira condição caso for um circulo printa (tipo (id)->ainda nao foi implementado r x y cor1 cor2), os outros seguem respectivamente a mesma ideia
+     (string=? "c" ale) (display (string-append ale " " (number->string indice) " " (number->string r) " " (number->string x) " " (number->string y) " " corC1 " " corC2"\n") out)]
+    [(string=? "r" ale) (display (string-append ale " " (number->string indice) " " (number->string w) " " (number->string h) " " (number->string x) " " (number->string y) " " corR1 " " corR2"\n") out)]
+    [(string=? "t" ale) (display (string-append ale " " (number->string x) " " (number->string y) " " stringale "\n") out)]
+    [(string=? "q" ale) (display (string-append ale " " stringcep " " (number->string stringindice) " " (number->string x) " " (number->string y) " " (number->string w) " " (number->string h)"\n") out)]
+    [(string=? "h" ale) (display (string-append ale " " (number->string indice) " " (number->string x) " " (number->string y)"\n") out)]
+    [(string=? "s" ale) (display (string-append ale " " (number->string indice) " " (number->string x) " " (number->string y)"\n") out)]
+    [(string=? "rb" ale) (display (string-append ale " " (number->string indice) " " (number->string x) " " (number->string y)"\n") out)]
+    [(string=? "cq" ale) (display (string-append ale " " cfill " " cstrk " " (number->string sw)"\n") out)]
+    [(string=? "ch" ale) (display (string-append ale " " cfill " " cstrk " " (number->string sw)"\n") out)]
+    [(string=? "cr" ale) (display (string-append ale " " cfill " " cstrk " " (number->string sw)"\n") out)]
+    [(string=? "cs" ale) (display (string-append ale " " cfill " " cstrk " " (number->string sw)"\n") out)]
+    [(string=? "sw" ale) (display (string-append ale " " (number->string cw) " " (number->string rw)"\n") out)]
+    )
+  (cond
+    [(> n 0) (funcWhile (- n 1))]
+    [else (print "acabou a func")]))
+
+(define resultado (funcWhile 10000))
+(close-output-port out)

@@ -1,0 +1,9 @@
+*.txt
+*.s
+*.zip
+*.o
+lex.yy.c
+sintatico.tab.c
+sintatico.tab.h
+gerador
+teste

@@ -1,0 +1,27 @@
+CREATE TABLE revista.users(
+	userid INT,
+	nome VARCHAR(50),
+	sobrenome VARCHAR(50),
+	email VARCHAR(50),
+	senha VARCHAR(50),
+	funcao VARCHAR(20),
+	CONSTRAINT pkuser PRIMARY KEY (userid)
+)
+
+CREATE TABLE revista.postagem(
+	postagemid INT,
+	titulo VARCHAR(100),
+	subtitulo VARCHAR(200),
+	descricao VARCHAR(500),
+	conteudo VARCHAR(5000),
+	visualizacoes INT,
+	createat DATE,
+	alteradoat DATE,
+	CONSTRAINT pkpostagem PRIMARY KEY (postagemid)
+)
+
+CREATE TABLE revista.areas(
+	areasid INT,
+	nome VARCHAR(40),
+	CONSTRAINT pkareas PRIMARY KEY (areasid)
+)

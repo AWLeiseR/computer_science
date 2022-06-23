@@ -1,0 +1,53 @@
+.data
+ent: .asciiz "Insira uma valor["
+ent2: .asciiz "]:"
+.align 2
+vet: .space 20
+.text
+main: 	la $a0,vet #carrega o endereço do vetor como paramtero
+	jal leitura
+	move $a0,$v0 #salva o endereço retornado
+	jal escrita
+	li $v0, 10 #finaliza programa
+	syscall
+	
+
+
+leitura:
+	move $t0, $a0 #salva endereço base do vet
+	move $t1,$t0
+	li $t2,0 # i=0
+l: 	la $a0,ent 
+	li $v0,4 #codigo de impressao de string
+	syscall
+	move $a0,$t2
+	li $v0,1
+	syscall 
+	la $a0, ent2
+	li $v0,4
+	syscall
+	li $v0,5
+	syscall
+	sw $v0,($t1)
+	add $t1,$t1,4
+	addi $t2,$t2,1
+	blt $t2,5,l
+	move $v0,$t0
+	jr $ra
+	
+	
+escrita:
+	move $t0,$a0
+	move $t1,$t0
+	li $t2,0
+e:	lw $a0,($t1)
+	li $v0,1
+	syscall
+	li $a0,32
+	li $v0,11
+	syscall
+	add $t1,$t1,4
+	addi $t2,$t2,1
+	blt $t2,5,e
+	move $v0,$t0
+	jr $ra

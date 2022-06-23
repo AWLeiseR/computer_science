@@ -1,0 +1,94 @@
+//000 até 001 endereço, de 002 ate 003 pegar valor
+000 LOAD M(050)        STOR M(002, 8:19)
+001 ADD M(051)         STOR M(050)
+002 LOAD M(200)        STOR M(052)
+003 SUB M(051)         STOR M(053)        
+//conferido e funcionando
+
+// 003 ate 005 carregar,dividir,subtrair e jump
+004 LOAD M(052) DIV M(053)         
+005 SUB M(051) JUMP+ M(009,20:39)   
+
+006 LOAD M(055) ADD M(053)         
+007 STOR M(055) LOAD M(053)        
+008 SUB M(051) STOR M(053)        
+
+009 JUMP+ M(00B,0:19)  LOAD M(053)          
+00A SUB M(051)         STOR M(053)       
+00B SUB M(051)         JUMP+ M(004,0:19)
+//ate aqui ciclo q soma os divisores 
+//conferido e funcionando
+
+// 00C até 010  ciclo de achar um numero igual  
+00C LOAD M(050)        STOR M(056) 
+00D LOAD M(056)        STOR M(00F,28:39) 
+00E STOR M(011,28:39)  ADD M(051)        
+00F STOR M(056)        LOAD M(201)          
+010 SUB M(055)         SUB M(051)
+011 JUMP+ M(00C,0:19)  LOAD M(201) 
+012 STOR M(057)        SUB M(051) 
+013 STOR M(058)        LOAD(057) 
+014 DIV M(058)         SUB M(051) 
+015 JUMP+ M(017,0:19)  LOAD M(059) 
+016 ADD M(058)         STOR M(059) 
+017 LOAD M(058)        SUB M(051) 
+018 STOR M(058)        SUB M(051)
+019 JUMP+ M(012,20:39) LOAD M(059)
+01A SUB M(052)         SUB M(051) 
+01B JUMP+ M(01D,0:19)  LOAD M(05A) 
+01C ADD M(051)         STOR M(05A)  
+01D LOAD M(054)        SUB M(051) 
+01E STOR M (054)       JUMP+ M(000, 0:19) 
+01F LOAD (050)         SUB M(05B) 
+020 STOR M(050)        LOAD M(050)
+021 STOR M(022,28:39)  ADD M(051)
+022 STOR M(050)        LOAD M(200)
+023 STOR M(052)        STOR M (053)
+024 MUL M(05C)         STOR M(05D)
+025 LOAD M(052)        DIV M(053)         
+026 SUB M(051)         JUMP+ M(02A,20:39)   
+
+027 LOAD M(055)        ADD M(053)         
+028 STOR M(055)        LOAD M(053)        
+029 SUB M(051)         STOR M(053)        
+
+02A JUMP+ M(02C,0:19)  LOAD M(053)          
+02B SUB M(051)         STOR M(053)       
+02C SUB M(051)         JUMP+ M(025,0:19)
+02D LOAD M(052)        SUB M(055)
+02E SUB M(051)         JUMP+ M(030,20:39)
+02F LOAD (05E)         ADD M(051)
+030 STOR M(05E)        LOAD M(05B)
+031 SUB M(051)         STOR M(05B)
+032 JUMP+ M(020,20:39) LOAD M(200)
+//processamento dos valores
+// numeros amigos soma de seus divisores é igual ao numero 
+// 220, seus divisores somados da 284 e os divisores de 284 somados da 220
+// logo sao amigos
+
+050 00000000200 #endereco
+051 00000000001 #const1
+052 0000000000 #aux1
+053 0000000000 #aux2
+054 0000000004 #tamanho
+055 0000000000 #somador 1
+056 0000000201 #endereço aux 
+057 0000000000 #aux 3
+058 0000000000 #aux 4
+059 0000000000 #somador 2
+05A 0000000000 #numeros amigos
+05B 0000000004 #tamanho auxiliar
+05C 0000000002 #const 2
+05D 0000000000 #dobro
+05E 0000000000 #numero inteiro perfeito
+
+200
+201
+202
+203
+204
+205
+206
+207
+208
+209

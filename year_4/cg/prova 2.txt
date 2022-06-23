@@ -1,0 +1,92 @@
+0 - Nodo terminal preenchido
+1 - Nodo não terminal
+	1.0 - Nodo terminal Vazio
+	1.1 - Nodo terminal vazio
+	1.2 - Nodo terminal vazio
+	1.3 - Nodo terminal vazio
+	1.4 - Nodo terminal preenchido
+	1.5 - Nodo não terminal
+		1.5.0 - Nodo terminal vazio
+		1.5.1 - Nodo terminal vazio
+		1.5.2 - Nodo terminal vazio
+		1.5.3 - Nodo terminal vazio
+		1.5.4 - Nodo terminal preenchido
+		1.5.5 - Nodo terminal vazio
+		1.5.6 - Nodo terminal vazio
+		1.5.7 - Nodo terminal vazio
+	1.6 - Nodo terminal preenchido 
+	1.7 - Nodo terminal vazio
+2 - Nodo não terminal
+	2.0 - Nodo não terminal
+		2.0.0 - Nodo terminal preenchido
+		2.0.1 - Nodo terminal vazio
+		2.0.2 - Nodo terminal vazio
+		2.0.3 - Nodo terminal vazio
+		2.0.4 - Nodo terminal vazio
+		2.0.5 - Nodo terminal vazio
+		2.0.6 - Nodo terminal vazio
+		2.0.7 - Nodo terminal vazio
+	2.1 - Nodo terminal vazio
+	2.2 - Nodo terminal vazio
+	2.3 - Nodo terminal vazio
+	2.4 - Nodo terminal vazio
+	2.5 - Nodo terminal vazio	
+	2.6 - Nodo terminal vazio 
+	2.7 - Nodo terminal vazio
+3 - Nodo terminal vazio
+4 - Nodo terminal preenchido
+5 - Nodo terminal preenchido
+6 - Nodo não terminal
+	6.0 - Nodo terminal preenchido
+	6.1 - Nodo não terminal
+		6.1.0 - Nodo terminal vazio
+		6.1.1 - Nodo terminal vazio
+		6.1.2 - Nodo terminal vazio
+		6.1.3 - Nodo terminal vazio
+		6.1.4 - Nodo terminal preenchido
+		6.1.5 - Nodo terminal vazio
+		6.1.6 - Nodo terminal vazio
+		6.1.7 - Nodo terminal vazio
+	6.2 - Nodo terminal vazio
+	6.3 - Nodo terminal vazio
+	6.4 - Nodo terminal preenchido
+	6.5 - Nodo terminal preenchido	
+	6.6 - Nodo terminal preenchido
+	6.7 - Nodo terminal vazio
+7 - Nodo não terminal
+	7.0 - Nodo terminal vazio
+	7.1 - Nodo não terminal
+		7.1.0 - Nodo terminal vazio
+		7.1.1 - Nodo terminal preenchido
+		7.1.2 - Nodo terminal vazio
+		7.1.3 - Nodo terminal vazio
+		7.1.4 - Nodo terminal vazio
+		7.1.5 - Nodo terminal vazio
+		7.1.6 - Nodo terminal vazio
+		7.1.7 - Nodo terminal vazio
+	7.2 - Nodo terminal vazio
+	7.3 - Nodo terminal vazio
+	7.4 - Nodo não terminal
+		7.4.0 - Nodo terminal vazio
+		7.4.1 - Nodo terminal vazio
+		7.4.2 - Nodo terminal vazio
+		7.4.3 - Nodo terminal vazio
+		7.4.4 - Nodo terminal preenchido
+		7.4.5 - Nodo terminal vazio
+		7.4.6 - Nodo terminal vazio
+		7.4.7 - Nodo terminal vazio
+	7.5 - Nodo não terminal	
+		7.5.0 - Nodo terminal vazio
+		7.5.1 - Nodo terminal vazio
+		7.5.2 - Nodo terminal vazio
+		7.5.3 - Nodo terminal vazio
+		7.5.4 - Nodo terminal vazio
+		7.5.5 - Nodo terminal preenchido
+		7.5.6 - Nodo terminal vazio
+		7.5.7 - Nodo terminal preenchido
+	7.6 - Nodo terminal vazio
+	7.7 - Nodo terminal vazio
+
+Sombreamento Flat é o processo com o custo computacional mais baixo e o efeito realista é baixo. Ele faz um calculo de sombra para toda faze do objeto.
+Sombreamento Gouraud é o processo que tem custos médio e o efeito realista também é médio. Ele faz o calculo levando em conta os vertices e faz um gradiente por toda face levando em conta os vertices.
+Sombremaneto Phong é o mais custoso e o mais realista. Ele calcula o sombreamento especifico de cada ponto da face do objeto.

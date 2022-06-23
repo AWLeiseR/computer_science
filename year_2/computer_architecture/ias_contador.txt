@@ -1,0 +1,17 @@
+000 load M(00B) add M(00A)
+001 stor M(00B) load M(00C)
+002 sub(00A) stor M(00C)
+003jump+(000,8;19)
+... 
+
+100 xxxxxxxx
+101 xxxxxxxx
+102 xxxxxxxx
+103 xxxxxxxx
+.
+.
+. 
+.............................
+200 00000000 //acumulador
+202 00000001 //constante
+203 00000019 //tamanho do vetor

@@ -1,0 +1,27 @@
+#lang racket
+(provide (all-defined-out))
+
+(define (Cond1 qDir yInicio intervalo);1
+  (if (< qDir 0)
+       (+  yInicio intervalo)
+         yInicio))
+
+(define (Cond2 qDir xInicio xQuadra);2
+  (if (< qDir 0)
+      xInicio
+      xQuadra))
+
+(define (Cond3 qDir  yInicio yQuadra);3
+  (if (< qDir 0)
+      yInicio
+      yQuadra))
+
+(define (Cond4  qDir  qBaixo);4
+  (if (< qDir 0)
+      (+ qBaixo 1)
+      qBaixo))
+
+(define (Cond5 qDir quantTotalQuad);5
+  (if (< qDir 0)
+      (- quantTotalQuad 1)
+      qDir))

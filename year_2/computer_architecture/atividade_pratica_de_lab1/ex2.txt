@@ -1,0 +1,37 @@
+150 00000000  // numero de divisores
+151 0000000 //aux1
+152 0000000 //aux2
+153 00000009  //tamanho vetor
+154 00000001  //const
+155 00000100 //endereco
+156 00000003 //const 3
+157 00000002 //const 2
+158 00000000 //ZER0
+300 0000000 //numero de primos
+
+000 LOAD M(158)  STOR M(150) //zera 150
+001 LOAD M(155)  STOR M(003,8:19) //carrega endereço e altera memoria
+002 ADD M(154)   STOR M(155) //add o endereço e armazena
+
+003 LOAD M(100)  STOR M(151) //conteudo do endereço e armazena
+004 STOR M(152)  JUMP m(005)  //armazena div
+
+005 LOAD M(151)  DIV M(152) //carrega e divide 
+006 SUB M(154)   JUMP+ M(008, 20:39) //sub pra ver se é 0, se for pula pra 007
+
+007 LOAD M(150)  ADD(154) //caso contrario 150 ++ 
+008 STOR M(150)  LOAD M(152) //armazena em 150 e carrega aux2
+009 SUB(154)     STOR M(152) //subtrai 1 de 152 e armazena em aux2
+00A SUB M(154)   JUMP+ M(005) // -1 pra ver se é 0 caso for pula pra 005
+
+00B JUMP(00E)    LOAD M(152) //se nao for ele pula pra 00E
+00C SUB M(154)   STOR M(152)
+00D SUB M(154)   JUMP+ M(005)
+
+00E LOAD M(150)  SUB M(157) //carrega n de divisores sub 2
+00F JUMP+ M(010) JUMP M(001) //caso -1 pula pra 00F??? caso contrario p/ inicio
+010 LOAD(300)    ADD(154) //carrega 300 e add 1
+011 STOR M(300)  LOAD M(153) //armazena em 300 carrega 153 tamanho do vetor
+012 SUB M(154)   STOR M(153) //sub 1 aramzena em 153
+013 JUMP +(000)  000000000 //se for positivo pula para o inicio
+

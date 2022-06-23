@@ -1,0 +1,16 @@
+#lang racket
+
+(define (num a)
+  (string->number a))
+
+(define (leitura arq)
+  (define in (open-input-file "/home/lucalliel/Desktop/fileGeo.geo"));abre o arquivo
+  (define nx(values (read-line in)));le a primeira linha
+  ;comando q tira o nx
+  (substring nx 3)
+  ;divide a string em varias partes
+  (define b(string-split nx))
+;aplica a funcao num em todos os elementos da lista de strings(b)
+(define valorNX (map num b)))
+
+(define teste(leitura "file.geo"))

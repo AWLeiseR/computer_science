@@ -1,0 +1,4 @@
+matrix = [[10,2,1],[1,5,1],[2,3,10]];
+solve determinant;
+show matrix;
+quit

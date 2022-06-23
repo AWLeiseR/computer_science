@@ -1,0 +1,33 @@
+ComandoS.......Binario.......Hexa
+LOAD MQ(X)                    0A
+LOAD MQ,M(X)                  09
+
+STOR M(X)                     21
+
+LOAD M(X)                     01
+LOAD -M(X)                    02
+LOAD |M(X)|                   03
+
+JUMP(X,0:19)                  0D
+JUMP(X,20:39)                 0E
+
+JUMP+(X,0:19)                 0F
+JUMP+(X,20:39)                10
+
+ADD M(X)                      05
+ADD |M(X)|                    07
+
+SUB M(X)                      06
+SUB |M(X)|                    08
+
+MUL M(X)                      0B
+
+DIV M(X)                      0C
+
+STOR M(xxx,8:19)              12
+STOR M(xxx,28:39)             13  
+
+LSH                           14  
+
+
+

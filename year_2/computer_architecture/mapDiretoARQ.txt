@@ -1,0 +1,100 @@
+1)
+mp = 2Mbytes = 2^21 bits
+palavra = 1byte
+ 
+bloco = 16 bytes
+cache = 64KBytes
+cache mapeada = ?
+
+linha da cache = 2^2 = 4 bits(p/ representar uma linha)
+- 16 bytes(bloco)
+
+tamanho da mapeada = 2M endereços/1byte da palavra
+		   = 2^21 bits(linha)
+
+Nº de linhas da cache = 64Kbytes(tam. total)/16bytes(1 linha)
+		      = 4K = 2^2.2^10 = 2^12
+
+tag | linha | word
+___________________
+| 5 |  12    |  4 |
+ ------------------
+<-------21--------->
+
+-------------------------------------------------
+2)
+mp = 4Gbytes
+1 celula(word) = 8bits = 1byte
+cache total = 256 Kbytes
+linha da cache = 64 bytes = 2^6 = 6bits para achar 1 linha 111111
+
+1 bloco 64bytes(linha)*1byte(word) = 64 bytes					   
+(53A249CE)16 = ([(01)(0100)(1110)(1000)][(1001)(0010)(0111)][001110])2
+                  1     4     E     8      9      2     7     0E
+                [        tag           ][       linha       ][ word ]
+word = (0E)16
+linha = (927)16
+tag = (14E8)16
+
+nº de linhas da cache = 256Kbytes/64bytes
+			= 4K = 2^12
+tamanho total = 4Gbytes/1bytes = 4G endereços
+		= 2^2.2^30 = 2^32
+
+tag | linha | word
+14	12	6
+
+<-------32-------->
+a)32
+b)6
+c)12
+d)14
+e)word = (0E)16
+f)linha = (927)16
+g)tag = (14E8)16
+
+-------------------------------------------------------
+3)
+mp = 2Gbits
+1 celula = 1byte = 8bits
+cache = 512 Kbytes
+1 linha cache = 16 celulas = 1bloco 16 celulas = 2^4
+
+(035AFBE5)16 = ([0(0000)(0110)(1011)][010 1111 1011 (1110)] [0101])2 
+                                                         w
+
+a)2Gbites/1byte(8bits) = 2G/2^3 = 2^31.2^-3 =  = 2^28 = 28 
+b)4
+c)512 Kbytes/16 = 32 = 2^10.2^5 = 15
+d)28-4-15 = 9
+e)(05)H
+f)(2FBE)h
+g)(006B)H
+
+tag | linha | word
+9	15	4
+
+<-------28-------->
+
+-------------------------------------------------------
+4)
+mp = 2Gbits
+1 celula(word) = 2bytes
+cache = 1Mbyte
+1 linha da cache = 512 bits 
+
+(06EC78AE)16 = ([0000 0(1101 1101)][10 0011 1100 0101][0 1110])
+
+a)2Gbits/16bits = 2G.2^-4 = 2^1.2^30.2^-4 = 27
+b)512 bits = 64 bytes/2Bytes = 32 = 2^5 = 5
+c)1Mbyte/64bytes = 2^20.2^-6 = 2^14 = 14
+d)27-6-14 = 7
+e)(0E)16
+f)(23C5)16
+g)(DD)16
+
+
+tag | linha | word
+8	14	5
+
+<-------27-------->

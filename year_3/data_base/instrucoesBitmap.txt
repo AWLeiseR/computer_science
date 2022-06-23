@@ -1,0 +1,57 @@
+create table trabalhoBD(
+    name varchar(10),
+    tel number(9),
+    sexo varchar(10)
+);
+
+Begin
+ For i in  1..1000000
+ Loop
+ Insert into trabalhobd 
+ values(DBMS_RANDOM.string('x',10),  dbms_random.value(10000,70000), 'Feminino');
+ If mod(i, 10000) = 0 then
+ Commit;
+ End if;
+ End loop;
+ End;
+ 
+CREATE BITMAP INDEX IDX_SEXO ON trabalhobd (sexo);
+
+drop index IDX_SEXO;
+ 
+select count(*) from trabalhobd where sexo = 'Feminino' AND name like 'RJ%' and  tel>20000;
+select count(*) from trabalhobd where sexo = 'Feminino';
+select count(*) from trabalhobd where sexo = 'Masculino';
+select count(*) from trabalhobd;
+
+drop table trabalhobd;
+
+create table casas(
+    casa number(9),
+    cep number(9),
+    cor varchar(10)
+);
+
+Begin
+ For i in  1..100000
+ Loop
+ Insert into casas 
+ values(dbms_random.value(10,7000000),  dbms_random.value(10,7000000), 'Amarelo');
+ Insert into casas 
+ values(dbms_random.value(10,7000000),  dbms_random.value(10,7000000), 'Verde');
+ Insert into casas 
+ values(dbms_random.value(10,7000000),  dbms_random.value(10,7000000), 'Azul');
+ If mod(i, 10000) = 0 then
+ Commit;
+ End if;
+ End loop;
+ End;
+
+select count(distinct casa) from casas;
+select count(*) from casas where cor = 'Amarelo' or cor = 'Azul';
+
+CREATE BITMAP INDEX IDX_cor ON casas (cor);
+
+drop index IDX_cor;
+
+drop table casas;

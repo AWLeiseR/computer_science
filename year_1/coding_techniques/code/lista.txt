@@ -1,0 +1,5 @@
+Produtos Quantidade Preco
+Mouse       2        30.00
+teclado     3        25.00
+Monitor     1       600.00
+Impressora  0        359.99

@@ -1,0 +1,43 @@
+Primeiro temos que normalizar os valores do pixel:
+R' => 26/255 = 0,101
+G' => 147/255 = 0,576
+B' => 98/255 = 0,384
+C => 1 - 0,101 = 0,899
+M => 1 - 0,576 = 0,424
+Y => 1 - 0,384 = 0,616
+Descobrindo o K:
+K => minimo de C,M,Y => 0,424
+Calculando os novos indices
+Ccmyk = (0,899 - 0,424) / (1 - 0,424) = 0,824
+Mcmyk = (0,424 - 0,424) / (1 - 0,424) = 0
+Ycmyk = (0,616 - 0,424) / (1 - 0,424) = 0,333
+Portanto temos:
+C = 0,824
+M = 0 
+Y = 0,333
+K = 0,424
+
+A imagem digital é composta por uma matriz de pixeis, 
+quando a imagem possui somente faixa de cor. Quando a imagem é colorida
+a imagem digital é definida por uma matrix de 3 dimensões na qual cada 
+camada representa uma faixa de cor.
+
+A segmentação por descontinuidade leva em consideração as bordas e 
+é muito utilizado para detectar pontos isolados, linhas e detectar bordas.
+Já a segmentação por similaridade se baseia em regiões.
+
+Limiarização global é o processo que um único valor de limiar é 
+escolhido para segmentar a imagem toda.
+Mas quando o método global não é efetivo pode ser usado a limiarização local, 
+esse por sua vez separa a imagem em vários regiões e escolhe vários valores de limiar.
+
+Escolhendo como primeiro limiar o T=2, temos:
+média de intensidade g1 = (0*20000)+(1*3000)/(20000 + 3000)
+=> 3000/23000 = 0,130
+média de intensidade g2 = (2*2000)+(3*6000)+(4*10000)+(5*6000)+(6*3000)+(7*500)/(2000+6000+1000+6000+3000+500)
+=> 4000 + 9000 + 40000 + 30000 + 18000 + 3500 / 18500 = 4,189
+Calculando o proximo t:
+t' = (0,130 + 4,189) / 2 
+t' = 2,159
+
+Dessa forma temos que o T = 2 é o melhor limiar a ser aplicado nessa imagem.

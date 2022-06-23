@@ -1,0 +1,73 @@
+
+select count(*), idareas from revista.userareas group by idareas;
+
+select count(*), createat from revista.users group by createat;
+
+select count(*), idareas from revista.postagemareas group by idareas;
+
+
+select count(*), createat from revista.postagem group by createat;
+
+====== postagens por dia da semana
+
+select (case when table1.num is not null 
+		then table1.num else 0 end), table2.dia from
+(SELECT count(*) as num,
+  to_char(createat, 'Day') AS dia from revista.postagem group by dia, createat ) as table1 
+  full join (select to_char((date_trunc('week',current_date)::date) + i,'Day') as dia from generate_series(0,6) i) as table2
+  on table1.dia = table2.dia
+
+====== postagens relacionadas
+
+select table2.idpostagem,postagem.titulo, postagem.subtitulo from (select visualizacoes.idpostagem from revista.visualizacoes
+join (select iduser, idpostagem from revista.visualizacoes 
+where idpostagem = 4 group by iduser, visualizacoes.idpostagem) as table1
+on visualizacoes.iduser = table1.iduser and visualizacoes.idpostagem != 4
+group by visualizacoes.idpostagem ) as table2 join revista.postagemareas on table2.idpostagem = postagemareas.idpostagem 
+join revista.postagem on table2.idpostagem = postagem.postagemid LIMIT  3 
+
+==== todos os meses
+  select to_char((date_trunc('month','2021-01-01'::date)::date)+(i*31),'Month') as date 
+from generate_Series(0,11) i
+===============media mes
+select avg(table3.qtd) as media
+		from (select (case when table2.num is not null 
+		then table2.num else 0 end) as qtd from (select (date_trunc('day',(current_date-30)::date)::date)+(i*1) as dia 
+		from generate_Series(0,30) i) as table1 join 
+		(select count(*) as num , visualizacaodata as dia from revista.visualizacoes group by visualizacaodata) as table2 
+		on table1.dia = table2.dia and table1.dia < current_date+1 and table1.dia > current_date -31) as table3
+
+select stddev_samp(table3.qtd), max(table3.qtd), min(table3.qtd) from (select (case when table2.num is not null 
+then table2.num else 0 end) as qtd, table1.dia from (select (date_trunc('day',(current_date-30)::date)::date)+(i*1) as dia 
+from generate_Series(0,30) i) as table1 full join 
+(select count(*) as num , visualizacaodata as dia from revista.visualizacoes group by visualizacaodata) as table2 
+on table1.dia = table2.dia) as table3
+
+
+select avg(table3.qtd), max(table3.qtd), min(table3.qtd) from (select (case when table2.num is not null 
+then table2.num else 0 end) as qtd, table1.dia from (select (date_trunc('day',(current_date-30)::date)::date)+(i*1) as dia 
+from generate_Series(0,30) i) as table1 full join 
+(select count(*) as num , visualizacaodata as dia from revista.visualizacoes group by visualizacaodata) as table2 
+on table1.dia = table2.dia) as table3
+
+select ceil(avg(table3.qtd)) as media,ceil(avg(table3.qtd)+stddev_samp(table3.qtd)) as superior, 
+ceil(avg(table3.qtd) - stddev_samp(table3.qtd)) as inferior, ceil(stddev_samp(table3.qtd)) as desvio,
+((revista.todayViews()*100)/ceil(avg(table3.qtd)))
+from (select (case when table2.num is not null 
+then table2.num else 0 end) as qtd, table1.dia from (select (date_trunc('day',(current_date-30)::date)::date)+(i*1) as dia 
+from generate_Series(0,30) i) as table1 full join 
+(select count(*) as num , visualizacaodata as dia from revista.visualizacoes group by visualizacaodata) as table2 
+on table1.dia = table2.dia and table2.dia < current_date and table2.dia > current_date -30) as table3
+
+create or replace function revista.todayViews()
+	returns bigint as $$
+		select count(*) as total from revista.visualizacoes where visualizacoes.visualizacaodata = current_date;
+$$ LANGUAGE SQL;
+
+create or replace function revista.userScore()
+	returns table (score bigint, iduser int) as $$
+		select (scoreView +(case when table3.scoreHigh is not NULL then table3.scoreHigh *5 else 0 end) + (scorePost*10)) as score, table1.iduser from 
+(select count(*) as scoreView, iduser from revista.visualizacoes group by iduser) as table1 join
+(select count(*) as scorePost, autor from revista.postagem group by autor) as table2 on table2.autor = table1.iduser
+full join (select count(*) as scoreHigh, iduser from revista.highlights group by iduser) as table3 on table3.iduser = table1.iduser limit 5;
+$$ LANGUAGE SQL;

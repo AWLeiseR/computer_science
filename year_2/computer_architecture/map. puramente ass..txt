@@ -1,0 +1,11 @@
+1)
+mp = 4Gbits
+1 celula = 1byte = 8 bits
+cache = 512kBytes
+1 linha cache = 16 celulas = 2^4 = 4
+
+(036D7BC5)16
+
+a)4Gbits/8bits = 2^2.2^30.2^-3 = 2^29 = 29
+b)16 celulas/1byte p/ celula = 16 = 2^4 = 4
+c)29-4 = 25

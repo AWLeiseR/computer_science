@@ -1,0 +1,12 @@
+CC=gcc
+CFLAGS=
+LIBS=
+
+PROGRAMA = l5e2
+EXEC = LISTA_5_EXERCICIO_2.c
+
+$(PROGRAMA): $(EXEC)
+	$(CC) -std=c99 LISTA_5_EXERCICIO_2.c $(LIBS) -o $(PROGRAMA)
+
+clean:
+	rm -f l5e2

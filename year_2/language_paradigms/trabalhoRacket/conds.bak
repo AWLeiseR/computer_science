@@ -1,0 +1,30 @@
+#lang racket
+(define (Cond1 qDir yInicio intervalo)
+         (cond
+      [(< qDir 0) (set! yInicio(+  yInicio intervalo))]))
+
+(define (Cond2 qDir  xInicio)
+  (cond
+      [(< qDir 0) (set! xInicio(+  xInicio 0))]))
+
+(define (Cond3 qDir  xInicio xQuadra)
+  (cond
+      [(< qDir 0) (set! xQuadra(+  xInicio 0))]))
+
+(define (Cond4 qDir  yInicio yQuadra)
+  (cond
+    [(< qDir 0) (set! yQuadra(+  yInicio 0))]))
+
+(define (Cond5 qDir  qBaixo)
+  (cond
+      [(< qDir 0) (set! qBaixo(+ qBaixo 1))]))
+
+(define (Cond6  qDir cepIndice)
+  (cond
+      [(< qDir 0) (set! qDir(+ cepIndice 0))]))
+
+(define (Cond7 qDir stringindice quantTotalQuad xQuadra intervalo)
+(cond
+    [(> stringindice quantTotalQuad) (set! stringindice(+ 1 0))])
+  (set! xQuadra(+ xQuadra intervalo))
+  (set! qDir(- qDir 1)))

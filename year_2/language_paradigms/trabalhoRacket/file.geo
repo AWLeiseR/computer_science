@@ -1,0 +1,10002 @@
+nx 2093 23 39 35 35
+s 0 395 43
+rb 1 142 378
+ch Red Magenta 5
+r 2 193 47 97 431 Yellow Blue
+r 3 93 131 213 85 Yellow Blue
+r 4 113 118 404 220 Yellow Blue
+cq Red Magenta 7
+s 5 113 68
+rb 6 55 88
+sw 6 2
+ch Red Magenta 8
+ch Red Magenta 5
+t 406 276 String Teste Terceira
+q cep-quadra. 1 326 343 173 5
+cq Red Magenta 1
+r 7 159 1 482 273 Yellow Blue
+sw 8 2
+r 7 99 53 195 380 Yellow Blue
+r 8 122 166 201 251 Yellow Blue
+s 8 406 489
+c 8 32 466 21 Blue Yellow
+s 8 266 20
+s 8 221 323
+s 9 320 419
+s 9 217 36
+q cep-quadra. 2 275 466 155 123
+c 11 11 296 431 Blue Yellow
+q cep-quadra. 3 143 230 41 32
+s 12 298 191
+q cep-quadra. 4 25 140 91 87
+r 14 61 38 88 372 Yellow Blue
+s 15 203 357
+h 16 15 422
+r 16 96 139 260 353 Yellow Blue
+r 16 145 155 49 340 Yellow Blue
+r 17 85 181 192 453 Yellow Blue
+r 17 160 141 11 367 Yellow Blue
+q cep-quadra. 5 146 281 56 122
+s 17 148 190
+h 18 235 216
+h 18 424 465
+r 19 162 59 376 352 Yellow Blue
+q cep-quadra. 6 217 44 11 27
+r 20 111 187 343 393 Yellow Blue
+r 20 30 24 313 43 Yellow Blue
+s 20 332 47
+r 20 127 165 98 29 Yellow Blue
+c 21 5 139 185 Blue Yellow
+h 22 219 391
+s 22 175 153
+s 22 415 224
+q cep-quadra. 7 59 337 88 118
+q cep-quadra. 8 258 486 19 8
+s 23 221 259
+s 24 56 451
+s 24 339 114
+q cep-quadra. 9 403 494 1 127
+c 25 39 308 304 Blue Yellow
+c 25 29 253 201 Blue Yellow
+s 26 77 68
+s 27 245 253
+h 27 441 113
+c 27 27 421 452 Blue Yellow
+s 27 6 67
+h 27 186 116
+r 27 195 191 401 62 Yellow Blue
+c 27 39 214 417 Blue Yellow
+s 27 56 99
+r 27 139 57 139 48 Yellow Blue
+q cep-quadra. 10 363 38 149 63
+q cep-quadra. 11 332 330 86 61
+q cep-quadra. 12 177 450 68 50
+r 28 11 77 269 260 Yellow Blue
+c 28 6 475 170 Blue Yellow
+h 28 76 17
+r 29 171 10 359 269 Yellow Blue
+c 30 35 47 458 Blue Yellow
+r 31 115 195 456 246 Yellow Blue
+s 31 239 217
+c 31 39 160 345 Blue Yellow
+h 32 8 239
+s 33 249 374
+q cep-quadra. 13 466 473 26 12
+s 33 433 403
+h 33 393 288
+r 33 146 1 427 43 Yellow Blue
+h 34 344 448
+r 34 31 199 342 322 Yellow Blue
+q cep-quadra. 14 128 319 96 67
+r 35 73 27 140 28 Yellow Blue
+r 36 193 176 109 22 Yellow Blue
+r 36 58 31 464 412 Yellow Blue
+h 36 183 450
+s 37 64 7
+c 37 24 149 284 Blue Yellow
+c 37 15 259 452 Blue Yellow
+q cep-quadra. 15 143 63 135 43
+q cep-quadra. 16 3 126 28 193
+s 39 60 17
+h 39 413 230
+r 40 165 39 187 415 Yellow Blue
+r 40 188 103 301 380 Yellow Blue
+q cep-quadra. 17 299 85 74 80
+c 41 13 186 261 Blue Yellow
+s 41 238 15
+q cep-quadra. 18 345 112 155 191
+s 41 225 423
+h 42 422 479
+h 43 355 216
+q cep-quadra. 19 243 300 59 84
+s 44 340 74
+c 45 28 268 326 Blue Yellow
+h 45 174 435
+h 45 220 54
+r 46 67 68 459 312 Yellow Blue
+h 47 135 319
+c 47 7 251 171 Blue Yellow
+h 47 250 122
+r 48 3 29 183 368 Yellow Blue
+h 48 85 372
+h 49 188 400
+c 49 43 143 135 Blue Yellow
+s 49 71 344
+q cep-quadra. 20 394 298 1 63
+q cep-quadra. 21 210 100 88 45
+c 51 19 221 341 Blue Yellow
+s 51 200 64
+c 52 18 368 278 Blue Yellow
+c 52 27 186 354 Blue Yellow
+q cep-quadra. 22 180 246 172 151
+h 52 56 99
+h 52 276 279
+r 52 180 168 124 474 Yellow Blue
+q cep-quadra. 23 123 273 154 186
+c 53 30 96 453 Blue Yellow
+s 53 499 326
+c 54 33 344 418 Blue Yellow
+s 55 279 344
+c 55 21 439 475 Blue Yellow
+c 56 0 205 112 Blue Yellow
+s 56 251 12
+q cep-quadra. 24 218 363 75 165
+q cep-quadra. 25 481 19 59 147
+c 57 34 323 490 Blue Yellow
+q cep-quadra. 26 54 389 94 78
+s 57 406 186
+r 57 114 13 395 123 Yellow Blue
+s 57 307 15
+s 57 393 32
+s 57 148 455
+h 57 194 415
+r 57 188 172 4 407 Yellow Blue
+s 57 198 230
+c 57 5 316 338 Blue Yellow
+h 58 284 234
+s 58 42 221
+h 59 220 192
+s 59 242 341
+r 59 162 102 252 389 Yellow Blue
+s 59 74 185
+q cep-quadra. 27 270 113 51 198
+r 60 197 59 468 257 Yellow Blue
+q cep-quadra. 28 436 368 180 71
+r 62 131 134 172 38 Yellow Blue
+q cep-quadra. 29 181 326 49 100
+h 64 188 116
+r 64 130 75 338 407 Yellow Blue
+q cep-quadra. 30 443 206 32 105
+s 66 285 254
+r 66 32 107 28 99 Yellow Blue
+r 66 152 53 453 388 Yellow Blue
+h 66 356 484
+s 66 266 407
+r 66 111 16 412 361 Yellow Blue
+s 67 287 180
+r 68 154 170 39 24 Yellow Blue
+q cep-quadra. 31 195 47 131 187
+r 68 89 126 474 195 Yellow Blue
+r 68 164 70 446 329 Yellow Blue
+r 68 156 142 251 14 Yellow Blue
+r 69 179 9 428 127 Yellow Blue
+s 69 161 93
+r 70 126 23 211 257 Yellow Blue
+h 70 122 406
+q cep-quadra. 32 489 382 13 111
+s 71 28 281
+h 72 129 152
+s 73 401 371
+c 73 47 19 339 Blue Yellow
+s 73 396 426
+s 74 260 416
+s 74 458 2
+h 75 471 474
+c 75 11 88 129 Blue Yellow
+r 76 61 120 453 345 Yellow Blue
+h 76 485 426
+h 77 390 95
+h 78 312 302
+q cep-quadra. 33 170 2 140 20
+s 79 286 172
+h 79 212 435
+s 80 476 154
+h 81 311 129
+q cep-quadra. 34 281 199 102 17
+h 82 280 323
+h 82 204 284
+q cep-quadra. 35 200 406 178 33
+s 82 67 153
+c 82 21 92 488 Blue Yellow
+s 82 490 124
+c 83 26 114 20 Blue Yellow
+r 83 137 15 406 383 Yellow Blue
+r 83 48 84 418 70 Yellow Blue
+q cep-quadra. 36 216 273 120 30
+r 83 102 134 164 453 Yellow Blue
+s 83 73 63
+s 84 50 67
+s 84 100 187
+c 85 33 47 393 Blue Yellow
+s 85 249 442
+r 85 32 51 229 377 Yellow Blue
+c 85 48 459 136 Blue Yellow
+q cep-quadra. 37 393 147 29 96
+c 87 48 186 363 Blue Yellow
+h 87 122 82
+h 87 367 100
+h 87 79 441
+c 88 6 0 464 Blue Yellow
+s 88 54 58
+h 88 57 455
+q cep-quadra. 38 448 194 121 54
+s 89 341 477
+r 90 94 40 284 278 Yellow Blue
+c 90 44 220 468 Blue Yellow
+q cep-quadra. 39 381 121 73 121
+q cep-quadra. 40 421 143 22 18
+r 93 36 14 232 315 Yellow Blue
+h 93 61 118
+q cep-quadra. 41 135 134 105 19
+h 94 238 370
+q cep-quadra. 42 116 29 81 173
+r 95 134 130 417 370 Yellow Blue
+s 95 229 205
+c 95 36 396 437 Blue Yellow
+c 95 24 285 8 Blue Yellow
+r 96 175 142 248 271 Yellow Blue
+q cep-quadra. 43 116 239 129 89
+s 96 442 437
+r 97 169 58 199 459 Yellow Blue
+c 97 26 229 65 Blue Yellow
+r 98 46 103 186 378 Yellow Blue
+h 98 138 454
+r 99 161 143 369 56 Yellow Blue
+r 99 104 195 293 260 Yellow Blue
+h 99 128 144
+r 100 110 163 463 114 Yellow Blue
+c 101 46 22 239 Blue Yellow
+h 101 411 45
+c 101 17 5 329 Blue Yellow
+c 101 19 293 3 Blue Yellow
+q cep-quadra. 44 186 366 8 41
+q cep-quadra. 45 56 18 158 109
+s 102 469 203
+r 102 34 156 29 269 Yellow Blue
+c 103 14 449 45 Blue Yellow
+c 103 31 46 243 Blue Yellow
+h 103 497 153
+c 103 11 416 105 Blue Yellow
+s 103 41 104
+c 103 49 442 281 Blue Yellow
+r 104 132 84 445 399 Yellow Blue
+q cep-quadra. 46 280 277 189 38
+h 104 68 314
+h 105 119 433
+s 106 234 69
+r 106 55 5 441 140 Yellow Blue
+q cep-quadra. 47 111 358 123 136
+s 107 231 93
+c 107 8 67 295 Blue Yellow
+r 108 177 12 191 244 Yellow Blue
+r 109 97 104 164 202 Yellow Blue
+q cep-quadra. 48 80 103 80 39
+c 109 33 297 317 Blue Yellow
+r 109 158 142 208 18 Yellow Blue
+s 110 297 57
+s 111 483 261
+c 111 38 377 348 Blue Yellow
+q cep-quadra. 49 233 203 195 45
+h 112 259 39
+q cep-quadra. 50 46 72 33 12
+c 112 19 21 485 Blue Yellow
+c 113 20 269 363 Blue Yellow
+r 114 37 99 234 485 Yellow Blue
+s 115 157 112
+s 116 126 201
+c 117 4 493 173 Blue Yellow
+c 117 10 287 30 Blue Yellow
+c 118 25 109 397 Blue Yellow
+q cep-quadra. 51 249 55 148 91
+h 120 483 193
+s 120 25 377
+r 121 5 19 427 90 Yellow Blue
+s 122 392 208
+c 122 14 293 447 Blue Yellow
+c 122 27 255 276 Blue Yellow
+r 122 171 79 369 260 Yellow Blue
+q cep-quadra. 52 213 25 108 151
+s 122 494 97
+q cep-quadra. 53 329 95 91 174
+q cep-quadra. 54 138 231 100 6
+h 122 399 410
+s 122 215 489
+q cep-quadra. 55 246 15 65 76
+s 122 312 483
+c 123 16 469 157 Blue Yellow
+h 123 151 193
+q cep-quadra. 56 50 479 126 68
+q cep-quadra. 57 78 469 172 77
+q cep-quadra. 58 399 481 41 145
+c 125 41 258 298 Blue Yellow
+c 125 29 333 160 Blue Yellow
+s 125 229 434
+c 125 9 96 294 Blue Yellow
+c 125 8 9 256 Blue Yellow
+r 125 21 94 315 189 Yellow Blue
+c 125 47 159 406 Blue Yellow
+s 126 96 64
+h 126 125 190
+s 126 315 316
+c 126 15 300 286 Blue Yellow
+h 127 137 239
+s 128 124 400
+s 129 487 239
+h 129 325 297
+q cep-quadra. 59 47 55 149 86
+s 129 465 483
+q cep-quadra. 60 135 96 196 164
+r 130 170 108 484 84 Yellow Blue
+h 131 102 242
+h 131 197 38
+q cep-quadra. 61 281 201 1 75
+c 131 28 164 272 Blue Yellow
+c 131 24 129 447 Blue Yellow
+s 132 302 171
+q cep-quadra. 62 84 12 42 15
+s 133 248 181
+s 133 67 220
+s 133 326 23
+s 134 246 478
+q cep-quadra. 63 320 11 120 132
+s 135 283 228
+q cep-quadra. 64 234 424 160 15
+q cep-quadra. 65 104 478 122 135
+s 136 486 492
+c 137 43 425 304 Blue Yellow
+h 138 444 116
+s 139 390 469
+c 140 28 261 456 Blue Yellow
+h 141 471 418
+c 142 41 408 149 Blue Yellow
+s 143 432 366
+c 143 34 420 464 Blue Yellow
+r 144 130 60 499 153 Yellow Blue
+h 144 78 458
+r 145 168 186 329 76 Yellow Blue
+q cep-quadra. 66 113 32 196 180
+h 145 395 361
+q cep-quadra. 67 69 456 192 172
+q cep-quadra. 68 149 23 132 69
+r 147 190 92 499 50 Yellow Blue
+c 147 42 198 461 Blue Yellow
+q cep-quadra. 69 467 390 89 118
+q cep-quadra. 70 303 67 109 115
+r 149 50 149 12 63 Yellow Blue
+s 149 110 382
+q cep-quadra. 71 280 170 116 22
+c 150 12 197 217 Blue Yellow
+h 150 287 95
+c 151 2 0 52 Blue Yellow
+q cep-quadra. 72 295 224 185 160
+h 152 450 406
+r 152 173 5 226 348 Yellow Blue
+r 153 1 12 15 112 Yellow Blue
+r 153 177 188 460 436 Yellow Blue
+h 153 193 234
+q cep-quadra. 73 85 361 118 101
+s 155 128 242
+q cep-quadra. 74 454 344 151 110
+r 156 183 142 88 149 Yellow Blue
+r 157 178 87 175 24 Yellow Blue
+c 158 40 250 264 Blue Yellow
+s 158 107 90
+h 159 78 80
+s 159 469 257
+c 160 39 203 194 Blue Yellow
+c 160 2 436 154 Blue Yellow
+q cep-quadra. 75 190 109 172 36
+q cep-quadra. 76 95 130 54 82
+h 160 150 199
+h 160 101 3
+s 160 360 339
+c 161 31 130 173 Blue Yellow
+s 162 429 328
+h 163 4 242
+s 163 497 397
+r 163 178 48 482 193 Yellow Blue
+q cep-quadra. 77 236 34 189 34
+h 164 144 480
+s 164 344 253
+r 165 23 103 157 480 Yellow Blue
+c 166 20 203 348 Blue Yellow
+c 166 29 428 418 Blue Yellow
+s 166 432 348
+q cep-quadra. 78 180 50 8 10
+q cep-quadra. 79 432 369 12 10
+h 167 493 13
+q cep-quadra. 80 187 33 181 116
+q cep-quadra. 81 392 308 182 23
+c 170 39 142 109 Blue Yellow
+s 170 474 69
+s 170 92 87
+s 170 215 402
+r 170 133 106 358 45 Yellow Blue
+r 170 103 27 29 264 Yellow Blue
+q cep-quadra. 82 357 156 179 59
+r 171 27 158 133 473 Yellow Blue
+h 172 385 382
+s 173 425 262
+r 174 146 63 355 115 Yellow Blue
+r 174 53 194 247 419 Yellow Blue
+c 174 25 310 450 Blue Yellow
+s 174 301 395
+s 174 131 140
+q cep-quadra. 83 391 44 60 23
+h 175 65 87
+c 175 22 262 102 Blue Yellow
+s 175 416 31
+r 175 68 77 124 282 Yellow Blue
+s 175 404 316
+h 176 284 324
+h 176 460 157
+c 176 22 321 359 Blue Yellow
+q cep-quadra. 84 366 469 87 129
+r 177 34 195 183 259 Yellow Blue
+h 177 446 419
+s 178 56 452
+q cep-quadra. 85 15 443 149 134
+r 180 199 52 396 81 Yellow Blue
+q cep-quadra. 86 126 380 57 40
+c 182 18 118 492 Blue Yellow
+c 182 16 264 247 Blue Yellow
+s 182 140 14
+q cep-quadra. 87 465 13 21 138
+s 184 217 212
+s 185 358 421
+c 185 28 218 22 Blue Yellow
+h 185 129 272
+s 186 407 1
+h 187 102 197
+q cep-quadra. 88 296 246 166 169
+c 188 20 366 221 Blue Yellow
+q cep-quadra. 89 258 426 74 29
+r 188 129 182 294 66 Yellow Blue
+s 188 313 351
+s 188 287 455
+r 188 50 151 31 314 Yellow Blue
+r 189 94 121 117 155 Yellow Blue
+r 190 110 136 102 82 Yellow Blue
+h 190 478 222
+h 190 204 167
+c 191 19 46 114 Blue Yellow
+r 191 83 166 338 326 Yellow Blue
+s 191 226 376
+h 191 274 308
+s 191 59 307
+r 192 25 169 148 248 Yellow Blue
+h 193 368 237
+s 194 131 207
+h 194 408 388
+r 195 81 28 0 13 Yellow Blue
+h 196 469 125
+h 196 446 387
+h 196 123 243
+h 196 3 365
+c 196 1 35 141 Blue Yellow
+r 197 102 72 461 241 Yellow Blue
+s 198 100 92
+c 199 47 325 435 Blue Yellow
+r 200 36 5 66 103 Yellow Blue
+c 201 30 263 377 Blue Yellow
+s 201 403 213
+s 201 411 497
+r 202 115 181 200 271 Yellow Blue
+s 202 288 277
+q cep-quadra. 90 50 318 10 58
+q cep-quadra. 91 12 490 31 172
+s 205 381 196
+q cep-quadra. 92 119 260 126 33
+s 206 405 385
+q cep-quadra. 93 399 158 45 165
+s 207 296 363
+r 207 18 118 148 251 Yellow Blue
+r 207 44 14 402 487 Yellow Blue
+s 208 193 476
+s 209 425 53
+c 210 7 113 193 Blue Yellow
+h 211 142 234
+q cep-quadra. 94 184 421 74 74
+s 212 140 237
+q cep-quadra. 95 367 499 137 95
+h 213 104 21
+h 214 314 187
+q cep-quadra. 96 99 118 187 24
+c 216 38 373 295 Blue Yellow
+h 216 83 339
+q cep-quadra. 97 397 139 11 15
+r 217 112 20 449 310 Yellow Blue
+h 217 77 236
+c 218 12 84 60 Blue Yellow
+h 219 140 298
+r 220 35 65 98 240 Yellow Blue
+s 221 211 355
+s 221 128 76
+q cep-quadra. 98 284 450 50 32
+r 222 1 59 213 143 Yellow Blue
+r 222 153 186 360 6 Yellow Blue
+s 222 495 312
+r 223 198 98 47 372 Yellow Blue
+r 224 93 64 209 102 Yellow Blue
+r 225 113 196 93 24 Yellow Blue
+s 225 98 148
+r 225 19 27 194 265 Yellow Blue
+r 226 115 115 188 115 Yellow Blue
+q cep-quadra. 99 112 222 156 162
+c 228 11 361 67 Blue Yellow
+q cep-quadra. 100 44 288 107 56
+r 229 124 198 285 348 Yellow Blue
+q cep-quadra. 101 440 432 40 173
+q cep-quadra. 102 426 301 38 113
+h 229 344 227
+h 229 111 24
+c 229 19 269 417 Blue Yellow
+h 230 404 107
+c 231 36 433 54 Blue Yellow
+c 232 2 168 161 Blue Yellow
+r 233 158 180 94 342 Yellow Blue
+r 233 151 84 484 323 Yellow Blue
+r 233 167 131 461 103 Yellow Blue
+c 233 1 209 271 Blue Yellow
+q cep-quadra. 103 66 496 169 166
+s 233 43 304
+s 233 165 170
+c 233 17 189 279 Blue Yellow
+c 233 32 460 335 Blue Yellow
+c 234 6 153 236 Blue Yellow
+r 235 113 105 360 12 Yellow Blue
+r 235 117 138 367 124 Yellow Blue
+s 235 490 322
+h 235 403 47
+s 235 299 432
+c 236 29 355 405 Blue Yellow
+c 236 25 63 332 Blue Yellow
+c 236 28 373 73 Blue Yellow
+r 236 163 77 374 407 Yellow Blue
+q cep-quadra. 104 124 396 131 12
+c 237 33 57 477 Blue Yellow
+c 238 44 385 367 Blue Yellow
+h 239 68 233
+r 239 20 194 459 52 Yellow Blue
+s 239 246 375
+r 240 143 145 96 290 Yellow Blue
+q cep-quadra. 105 422 3 183 174
+s 241 158 18
+c 241 19 158 245 Blue Yellow
+c 242 39 256 429 Blue Yellow
+r 242 87 28 439 331 Yellow Blue
+h 242 333 372
+c 242 34 259 94 Blue Yellow
+c 242 0 424 361 Blue Yellow
+c 242 46 158 99 Blue Yellow
+r 242 59 181 474 13 Yellow Blue
+h 242 244 494
+c 243 19 352 286 Blue Yellow
+s 243 383 334
+c 243 38 100 175 Blue Yellow
+s 243 61 237
+q cep-quadra. 106 146 228 21 78
+r 244 135 176 387 93 Yellow Blue
+c 245 47 68 121 Blue Yellow
+h 245 188 85
+q cep-quadra. 107 277 189 102 51
+q cep-quadra. 108 168 420 9 26
+s 246 226 373
+r 247 74 195 475 276 Yellow Blue
+c 248 34 240 397 Blue Yellow
+q cep-quadra. 109 461 460 118 114
+q cep-quadra. 110 149 263 137 147
+s 249 153 204
+s 250 443 108
+s 251 1 386
+h 251 428 92
+q cep-quadra. 111 355 201 168 193
+s 251 16 272
+r 251 55 95 300 490 Yellow Blue
+s 252 144 496
+r 252 74 198 281 8 Yellow Blue
+c 253 25 340 457 Blue Yellow
+c 253 15 102 325 Blue Yellow
+r 253 97 61 152 170 Yellow Blue
+h 253 68 152
+h 253 375 180
+r 254 122 1 484 173 Yellow Blue
+s 255 139 496
+h 255 348 237
+q cep-quadra. 112 176 372 29 133
+q cep-quadra. 113 390 498 173 101
+h 258 209 496
+c 258 42 444 405 Blue Yellow
+r 259 9 173 229 243 Yellow Blue
+r 259 53 192 440 236 Yellow Blue
+h 259 340 173
+q cep-quadra. 114 122 472 160 20
+c 259 14 272 377 Blue Yellow
+s 260 322 207
+s 260 288 348
+h 260 390 161
+q cep-quadra. 115 350 332 99 180
+s 261 242 318
+s 261 167 454
+h 262 376 453
+h 262 282 121
+r 262 97 0 116 430 Yellow Blue
+h 262 325 263
+q cep-quadra. 116 6 65 34 142
+q cep-quadra. 117 79 11 19 27
+s 265 29 344
+q cep-quadra. 118 227 71 52 74
+r 265 120 90 434 268 Yellow Blue
+q cep-quadra. 119 17 33 46 46
+q cep-quadra. 120 151 416 49 81
+q cep-quadra. 121 264 148 185 67
+r 267 66 126 392 287 Yellow Blue
+c 267 1 366 421 Blue Yellow
+s 267 400 294
+s 268 327 180
+s 269 19 254
+c 269 32 469 247 Blue Yellow
+s 270 169 471
+h 270 185 216
+r 270 130 144 97 203 Yellow Blue
+r 271 29 98 266 240 Yellow Blue
+r 271 118 194 201 223 Yellow Blue
+r 271 193 172 115 412 Yellow Blue
+c 271 28 360 187 Blue Yellow
+h 272 434 104
+q cep-quadra. 122 162 71 134 89
+q cep-quadra. 123 17 96 38 178
+c 272 0 203 30 Blue Yellow
+r 272 48 40 357 34 Yellow Blue
+q cep-quadra. 124 340 248 33 66
+h 273 306 393
+h 273 67 480
+h 273 450 46
+q cep-quadra. 125 195 378 80 5
+h 275 131 168
+q cep-quadra. 126 487 21 164 165
+q cep-quadra. 127 296 219 42 100
+q cep-quadra. 128 304 383 109 180
+q cep-quadra. 129 11 291 144 39
+q cep-quadra. 130 218 197 181 23
+s 276 390 458
+h 277 150 11
+c 277 46 354 439 Blue Yellow
+h 278 376 469
+s 279 304 427
+s 280 467 57
+r 280 47 68 171 46 Yellow Blue
+r 281 23 115 264 164 Yellow Blue
+c 282 48 416 375 Blue Yellow
+c 282 13 183 29 Blue Yellow
+q cep-quadra. 131 475 122 59 129
+r 283 105 37 425 154 Yellow Blue
+s 283 490 294
+h 283 161 50
+q cep-quadra. 132 413 366 35 4
+r 284 157 179 250 46 Yellow Blue
+c 285 47 77 132 Blue Yellow
+s 286 65 172
+q cep-quadra. 133 343 205 101 139
+r 287 7 111 493 235 Yellow Blue
+c 287 46 255 241 Blue Yellow
+r 287 29 95 156 282 Yellow Blue
+q cep-quadra. 134 226 343 30 30
+s 288 278 37
+h 288 386 119
+q cep-quadra. 135 345 307 53 97
+c 288 20 114 120 Blue Yellow
+h 288 328 460
+h 288 326 213
+s 288 383 351
+r 289 3 96 36 106 Yellow Blue
+q cep-quadra. 136 19 208 87 36
+s 291 161 469
+c 292 16 235 169 Blue Yellow
+s 292 152 385
+s 293 328 385
+h 293 82 219
+s 293 63 42
+c 294 12 411 236 Blue Yellow
+s 295 241 397
+h 295 83 484
+h 295 318 305
+s 295 369 486
+s 295 149 422
+r 296 139 78 78 315 Yellow Blue
+q cep-quadra. 137 260 249 12 28
+q cep-quadra. 138 174 384 40 142
+c 298 48 405 219 Blue Yellow
+s 298 70 55
+c 298 39 201 383 Blue Yellow
+h 299 371 321
+q cep-quadra. 139 385 282 81 55
+h 300 317 299
+h 300 47 318
+s 300 451 295
+h 300 287 16
+c 300 42 11 2 Blue Yellow
+s 300 320 265
+h 301 185 116
+q cep-quadra. 140 132 18 47 123
+h 301 213 324
+h 301 79 271
+s 301 490 66
+s 302 439 178
+r 302 90 139 354 24 Yellow Blue
+q cep-quadra. 141 107 62 186 5
+s 303 441 487
+q cep-quadra. 142 415 258 49 78
+s 303 308 400
+c 304 2 449 483 Blue Yellow
+s 304 74 88
+c 305 15 318 461 Blue Yellow
+s 305 188 56
+h 306 481 376
+s 306 392 15
+h 306 1 376
+c 306 11 234 49 Blue Yellow
+q cep-quadra. 143 94 41 157 141
+s 306 196 364
+r 306 150 24 150 274 Yellow Blue
+r 306 131 91 379 262 Yellow Blue
+q cep-quadra. 144 273 447 71 40
+q cep-quadra. 145 461 178 92 69
+r 308 11 112 337 483 Yellow Blue
+s 308 176 125
+r 308 82 52 139 173 Yellow Blue
+c 308 5 201 5 Blue Yellow
+s 308 76 391
+s 308 441 358
+h 309 423 336
+h 309 209 381
+q cep-quadra. 146 33 108 49 64
+c 310 42 56 456 Blue Yellow
+q cep-quadra. 147 172 272 98 181
+r 311 57 114 330 313 Yellow Blue
+s 311 481 193
+h 311 362 494
+r 311 105 152 344 351 Yellow Blue
+q cep-quadra. 148 350 417 195 176
+c 312 1 431 464 Blue Yellow
+r 313 20 90 249 8 Yellow Blue
+c 313 46 179 381 Blue Yellow
+h 314 165 111
+s 314 266 16
+c 314 35 15 465 Blue Yellow
+h 315 51 477
+s 316 278 274
+h 316 135 335
+r 317 43 71 13 139 Yellow Blue
+q cep-quadra. 149 195 360 25 99
+c 318 40 249 137 Blue Yellow
+r 318 18 185 259 363 Yellow Blue
+q cep-quadra. 150 32 176 130 184
+h 319 97 438
+s 319 215 410
+q cep-quadra. 151 378 135 191 153
+r 320 70 117 424 373 Yellow Blue
+q cep-quadra. 152 129 8 58 75
+r 320 105 142 449 415 Yellow Blue
+q cep-quadra. 153 42 414 196 95
+r 320 126 107 9 456 Yellow Blue
+c 321 11 343 99 Blue Yellow
+c 322 2 61 126 Blue Yellow
+r 323 110 194 257 179 Yellow Blue
+s 324 87 265
+s 324 1 454
+r 325 139 44 48 201 Yellow Blue
+c 326 25 212 380 Blue Yellow
+q cep-quadra. 154 236 82 95 71
+h 326 455 26
+c 327 11 348 382 Blue Yellow
+h 327 98 385
+h 328 410 277
+r 329 79 10 222 124 Yellow Blue
+c 329 14 216 314 Blue Yellow
+r 330 26 37 473 4 Yellow Blue
+s 331 407 226
+c 332 6 330 364 Blue Yellow
+s 333 362 157
+s 333 205 304
+r 333 25 81 150 363 Yellow Blue
+q cep-quadra. 155 490 325 161 176
+q cep-quadra. 156 439 429 15 179
+c 334 28 339 326 Blue Yellow
+r 335 67 198 49 47 Yellow Blue
+r 335 144 125 452 20 Yellow Blue
+r 335 150 97 41 83 Yellow Blue
+c 335 2 102 358 Blue Yellow
+h 336 263 390
+s 337 16 117
+s 337 279 229
+r 337 64 24 150 213 Yellow Blue
+r 337 144 149 220 370 Yellow Blue
+q cep-quadra. 157 436 432 195 109
+h 337 275 190
+s 337 209 155
+r 337 27 188 199 280 Yellow Blue
+r 338 96 115 473 17 Yellow Blue
+h 339 378 275
+h 339 157 91
+q cep-quadra. 158 420 348 75 68
+s 339 291 35
+q cep-quadra. 159 219 93 46 177
+h 340 75 180
+h 340 255 21
+c 340 46 143 381 Blue Yellow
+c 340 31 86 312 Blue Yellow
+h 340 57 0
+h 340 397 260
+s 341 47 244
+s 341 298 387
+q cep-quadra. 160 205 251 91 17
+h 342 2 492
+s 342 89 444
+s 343 107 305
+r 344 94 157 331 141 Yellow Blue
+h 345 423 280
+c 345 2 142 320 Blue Yellow
+q cep-quadra. 161 143 26 150 54
+c 346 32 345 386 Blue Yellow
+s 346 281 303
+h 347 144 414
+s 347 272 374
+h 348 56 491
+s 349 470 73
+s 350 139 479
+r 351 199 158 6 330 Yellow Blue
+h 352 106 421
+r 352 116 125 205 47 Yellow Blue
+h 353 468 120
+s 353 381 7
+q cep-quadra. 162 459 162 74 134
+c 354 33 235 381 Blue Yellow
+s 354 345 7
+r 355 150 137 386 40 Yellow Blue
+c 356 27 74 402 Blue Yellow
+q cep-quadra. 163 88 125 67 23
+s 356 328 179
+s 356 416 49
+h 357 440 28
+c 358 24 432 307 Blue Yellow
+r 359 38 124 315 409 Yellow Blue
+h 360 435 434
+c 360 4 312 499 Blue Yellow
+c 360 23 304 98 Blue Yellow
+s 361 117 414
+q cep-quadra. 164 323 498 14 123
+h 361 485 428
+s 362 167 262
+h 363 346 411
+c 363 1 50 214 Blue Yellow
+r 363 88 36 406 354 Yellow Blue
+s 363 386 235
+q cep-quadra. 165 228 92 81 125
+r 365 138 125 201 309 Yellow Blue
+r 365 150 40 164 267 Yellow Blue
+h 366 68 299
+h 367 157 473
+h 367 462 199
+s 367 350 72
+s 367 497 98
+c 367 31 440 68 Blue Yellow
+h 367 101 310
+s 367 159 451
+s 368 352 425
+q cep-quadra. 166 232 130 0 137
+r 369 130 161 478 30 Yellow Blue
+q cep-quadra. 167 25 171 101 73
+s 370 140 127
+r 370 114 5 414 465 Yellow Blue
+h 371 241 364
+r 371 121 78 407 36 Yellow Blue
+s 372 158 129
+q cep-quadra. 168 450 373 54 42
+q cep-quadra. 169 464 423 194 32
+s 374 75 252
+q cep-quadra. 170 162 190 121 193
+r 374 73 41 444 443 Yellow Blue
+q cep-quadra. 171 97 77 93 13
+q cep-quadra. 172 241 331 37 163
+s 375 292 344
+h 375 283 206
+s 376 248 75
+s 376 304 191
+s 377 396 413
+s 378 346 386
+r 378 152 16 489 366 Yellow Blue
+s 378 93 208
+r 378 142 12 265 157 Yellow Blue
+h 378 171 169
+s 378 490 88
+h 378 73 452
+r 378 159 94 180 254 Yellow Blue
+s 378 461 331
+q cep-quadra. 173 26 209 118 190
+c 380 8 189 486 Blue Yellow
+s 381 174 474
+s 381 393 387
+r 382 185 104 222 437 Yellow Blue
+c 382 35 195 111 Blue Yellow
+r 382 126 22 186 256 Yellow Blue
+s 383 352 323
+h 384 81 278
+r 384 7 142 413 494 Yellow Blue
+q cep-quadra. 174 131 392 193 141
+h 385 47 48
+h 386 170 154
+r 386 75 187 275 3 Yellow Blue
+s 387 397 326
+c 387 8 188 476 Blue Yellow
+h 388 396 474
+c 389 44 69 245 Blue Yellow
+r 389 74 148 394 173 Yellow Blue
+c 389 39 85 142 Blue Yellow
+c 389 46 73 6 Blue Yellow
+s 389 386 405
+s 389 149 48
+h 389 351 244
+s 389 482 322
+q cep-quadra. 175 250 75 198 99
+c 391 35 109 240 Blue Yellow
+c 391 27 371 192 Blue Yellow
+q cep-quadra. 176 361 133 176 92
+s 392 113 267
+q cep-quadra. 177 51 413 34 26
+r 394 118 184 79 424 Yellow Blue
+q cep-quadra. 178 232 438 138 142
+c 394 39 235 477 Blue Yellow
+s 395 50 386
+r 396 93 115 451 144 Yellow Blue
+c 397 46 422 377 Blue Yellow
+r 397 157 60 173 59 Yellow Blue
+h 397 124 267
+r 397 189 62 228 442 Yellow Blue
+c 397 48 182 213 Blue Yellow
+s 397 256 235
+h 398 215 371
+q cep-quadra. 179 257 240 64 103
+r 399 73 37 314 338 Yellow Blue
+q cep-quadra. 180 290 79 86 34
+q cep-quadra. 181 145 11 173 149
+h 400 381 75
+s 401 433 473
+h 401 397 291
+s 401 422 5
+r 401 49 1 380 87 Yellow Blue
+h 401 138 218
+c 402 1 171 85 Blue Yellow
+c 402 35 322 183 Blue Yellow
+c 403 1 114 167 Blue Yellow
+r 403 29 141 430 154 Yellow Blue
+h 404 321 175
+c 404 38 10 461 Blue Yellow
+h 404 371 110
+h 404 252 214
+q cep-quadra. 182 214 74 129 46
+c 405 33 130 127 Blue Yellow
+q cep-quadra. 183 69 273 48 68
+r 407 86 101 421 293 Yellow Blue
+r 408 127 4 170 397 Yellow Blue
+r 408 174 97 50 231 Yellow Blue
+s 409 12 451
+s 409 492 260
+r 410 199 151 373 30 Yellow Blue
+s 411 381 116
+h 412 451 61
+h 412 297 456
+s 412 85 394
+h 413 323 190
+c 414 20 407 95 Blue Yellow
+r 414 189 89 335 18 Yellow Blue
+c 415 43 407 344 Blue Yellow
+h 415 17 171
+c 415 17 409 42 Blue Yellow
+s 415 310 376
+q cep-quadra. 184 11 430 14 19
+q cep-quadra. 185 445 89 77 99
+c 417 38 178 306 Blue Yellow
+r 417 56 151 351 470 Yellow Blue
+q cep-quadra. 186 464 332 157 140
+q cep-quadra. 187 13 414 75 152
+r 418 67 143 452 341 Yellow Blue
+h 418 179 388
+c 418 11 298 470 Blue Yellow
+r 418 134 48 81 143 Yellow Blue
+s 419 272 187
+r 419 27 125 437 145 Yellow Blue
+q cep-quadra. 188 144 186 65 127
+r 420 29 130 460 8 Yellow Blue
+r 420 140 161 6 352 Yellow Blue
+q cep-quadra. 189 132 92 128 17
+h 421 326 17
+h 422 171 384
+r 422 103 187 187 343 Yellow Blue
+h 422 475 325
+c 423 43 422 164 Blue Yellow
+r 424 62 57 198 356 Yellow Blue
+h 424 383 471
+q cep-quadra. 190 189 131 194 42
+h 424 180 314
+h 424 48 335
+c 424 5 55 2 Blue Yellow
+s 425 492 23
+s 425 140 178
+c 425 37 470 14 Blue Yellow
+c 425 19 182 454 Blue Yellow
+q cep-quadra. 191 109 93 105 80
+q cep-quadra. 192 260 344 2 22
+h 427 426 3
+c 427 13 260 396 Blue Yellow
+c 428 39 240 9 Blue Yellow
+s 429 403 409
+r 429 54 79 428 218 Yellow Blue
+h 430 226 215
+c 431 24 236 388 Blue Yellow
+h 432 395 125
+s 432 340 296
+h 433 62 455
+s 433 63 457
+s 434 195 384
+s 434 293 419
+h 434 486 345
+c 434 8 209 154 Blue Yellow
+s 434 419 367
+r 435 106 78 199 459 Yellow Blue
+s 435 329 412
+h 435 224 77
+q cep-quadra. 193 319 282 148 134
+q cep-quadra. 194 25 231 22 51
+q cep-quadra. 195 239 158 59 8
+r 438 114 183 286 171 Yellow Blue
+q cep-quadra. 196 496 273 65 68
+c 440 0 316 470 Blue Yellow
+q cep-quadra. 197 237 348 163 63
+q cep-quadra. 198 255 36 153 85
+s 442 77 6
+q cep-quadra. 199 126 279 64 46
+r 442 41 98 191 274 Yellow Blue
+c 442 28 270 108 Blue Yellow
+s 443 474 339
+h 443 423 199
+q cep-quadra. 200 66 375 44 125
+r 444 150 118 182 423 Yellow Blue
+c 444 23 43 333 Blue Yellow
+q cep-quadra. 201 98 250 128 136
+r 444 54 140 126 491 Yellow Blue
+h 444 369 488
+q cep-quadra. 202 440 77 109 58
+r 444 92 184 175 37 Yellow Blue
+s 444 367 0
+c 445 9 50 395 Blue Yellow
+s 445 124 312
+s 445 425 91
+h 446 251 450
+r 446 14 127 64 5 Yellow Blue
+h 447 279 69
+s 447 307 451
+s 447 208 41
+h 448 395 201
+r 449 67 1 294 95 Yellow Blue
+h 450 232 437
+q cep-quadra. 203 330 3 19 138
+h 451 180 80
+h 452 293 232
+h 452 109 79
+h 452 334 243
+s 453 288 439
+h 453 295 244
+r 453 186 93 118 429 Yellow Blue
+c 453 12 14 380 Blue Yellow
+c 454 39 340 227 Blue Yellow
+c 455 15 397 162 Blue Yellow
+c 456 4 175 62 Blue Yellow
+c 456 32 62 200 Blue Yellow
+s 456 369 282
+h 456 139 450
+q cep-quadra. 204 294 412 190 133
+h 457 65 174
+q cep-quadra. 205 344 230 24 130
+s 458 283 272
+h 458 14 130
+c 459 29 214 276 Blue Yellow
+h 460 424 318
+s 460 403 478
+c 460 39 243 456 Blue Yellow
+h 461 52 61
+h 462 271 228
+c 462 26 56 134 Blue Yellow
+h 462 355 50
+s 462 387 107
+s 462 205 48
+h 463 251 34
+q cep-quadra. 206 242 359 56 117
+q cep-quadra. 207 159 65 88 108
+r 463 59 104 208 26 Yellow Blue
+s 463 113 459
+c 464 7 302 85 Blue Yellow
+c 465 28 295 279 Blue Yellow
+h 466 373 126
+h 467 44 0
+q cep-quadra. 208 191 289 98 189
+h 467 421 478
+q cep-quadra. 209 138 457 153 56
+c 467 45 407 444 Blue Yellow
+q cep-quadra. 210 25 257 38 7
+s 467 359 263
+r 468 126 37 331 431 Yellow Blue
+r 468 50 45 433 223 Yellow Blue
+s 468 185 142
+c 469 47 162 483 Blue Yellow
+q cep-quadra. 211 266 468 45 50
+h 470 357 386
+h 471 180 330
+h 472 214 76
+h 472 309 66
+c 472 38 437 184 Blue Yellow
+h 473 409 319
+h 474 333 288
+s 475 118 95
+s 475 110 80
+s 475 436 478
+c 475 17 443 242 Blue Yellow
+h 476 136 31
+h 476 426 265
+q cep-quadra. 212 222 277 42 39
+s 477 182 47
+q cep-quadra. 213 192 228 168 36
+r 477 117 6 70 179 Yellow Blue
+r 477 116 167 373 156 Yellow Blue
+s 477 19 227
+s 477 238 417
+h 477 150 412
+r 478 94 179 138 223 Yellow Blue
+s 478 310 125
+c 478 45 357 271 Blue Yellow
+s 478 472 469
+r 478 81 97 147 383 Yellow Blue
+s 478 394 151
+c 478 1 434 462 Blue Yellow
+q cep-quadra. 214 215 309 81 127
+q cep-quadra. 215 205 445 81 141
+r 478 171 73 269 241 Yellow Blue
+s 478 233 40
+h 479 315 32
+c 479 0 77 102 Blue Yellow
+r 479 150 60 130 274 Yellow Blue
+h 480 397 451
+h 480 369 181
+r 480 1 108 12 78 Yellow Blue
+q cep-quadra. 216 416 297 62 6
+r 482 174 33 469 452 Yellow Blue
+s 482 139 78
+r 482 126 85 36 406 Yellow Blue
+h 482 373 291
+s 482 410 297
+s 482 247 144
+c 483 33 165 455 Blue Yellow
+c 483 20 220 263 Blue Yellow
+c 484 26 11 278 Blue Yellow
+q cep-quadra. 217 168 127 103 27
+r 485 84 52 279 385 Yellow Blue
+r 485 111 196 296 400 Yellow Blue
+r 485 160 52 438 38 Yellow Blue
+c 486 10 490 68 Blue Yellow
+r 486 131 165 349 140 Yellow Blue
+s 486 84 499
+r 487 42 78 56 302 Yellow Blue
+r 488 113 7 391 126 Yellow Blue
+r 488 105 26 457 19 Yellow Blue
+q cep-quadra. 218 421 185 158 160
+s 488 178 487
+q cep-quadra. 219 470 144 179 187
+h 489 133 287
+r 490 92 151 449 442 Yellow Blue
+h 491 224 93
+c 491 13 221 263 Blue Yellow
+r 491 46 129 15 261 Yellow Blue
+c 491 49 400 158 Blue Yellow
+c 492 23 391 266 Blue Yellow
+h 492 215 367
+r 493 194 191 55 185 Yellow Blue
+r 494 132 44 486 74 Yellow Blue
+r 495 29 12 473 304 Yellow Blue
+h 496 166 404
+q cep-quadra. 220 467 458 68 60
+c 497 36 363 70 Blue Yellow
+h 497 296 13
+r 497 23 4 438 175 Yellow Blue
+s 498 401 490
+r 498 69 23 12 297 Yellow Blue
+c 498 24 354 88 Blue Yellow
+q cep-quadra. 221 375 397 29 7
+c 499 15 141 42 Blue Yellow
+s 500 356 293
+q cep-quadra. 222 263 70 133 73
+h 501 315 131
+h 501 342 128
+h 501 269 158
+c 501 22 87 362 Blue Yellow
+q cep-quadra. 223 149 214 9 85
+c 502 28 279 9 Blue Yellow
+c 503 6 290 447 Blue Yellow
+q cep-quadra. 224 200 166 27 136
+h 503 259 251
+q cep-quadra. 225 276 336 167 12
+q cep-quadra. 226 389 60 11 70
+q cep-quadra. 227 101 246 12 35
+h 504 79 298
+h 504 339 115
+h 505 287 438
+s 505 291 120
+c 505 7 20 443 Blue Yellow
+r 505 77 192 492 86 Yellow Blue
+q cep-quadra. 228 145 18 79 10
+r 507 115 17 185 179 Yellow Blue
+s 508 494 386
+r 509 43 112 243 453 Yellow Blue
+c 510 22 228 185 Blue Yellow
+q cep-quadra. 229 350 425 115 195
+q cep-quadra. 230 0 286 121 82
+r 510 148 181 497 65 Yellow Blue
+q cep-quadra. 231 34 156 138 89
+h 510 334 11
+q cep-quadra. 232 270 58 89 161
+r 510 122 61 147 316 Yellow Blue
+c 511 11 291 85 Blue Yellow
+r 512 149 129 109 279 Yellow Blue
+s 512 243 159
+s 513 224 468
+r 514 16 23 340 490 Yellow Blue
+q cep-quadra. 233 443 497 141 129
+q cep-quadra. 234 162 428 170 129
+r 516 4 23 249 383 Yellow Blue
+c 517 15 223 135 Blue Yellow
+c 517 2 449 168 Blue Yellow
+h 517 125 35
+s 517 181 247
+r 517 49 139 469 147 Yellow Blue
+c 517 46 158 360 Blue Yellow
+r 517 168 193 416 28 Yellow Blue
+s 518 192 21
+c 519 3 429 461 Blue Yellow
+s 520 203 172
+s 520 420 295
+r 521 127 88 271 40 Yellow Blue
+s 522 16 469
+s 522 361 257
+h 523 307 113
+h 524 45 318
+s 525 293 405
+r 526 67 155 243 50 Yellow Blue
+s 526 141 89
+c 526 45 20 140 Blue Yellow
+h 527 212 468
+h 527 55 294
+c 528 10 186 131 Blue Yellow
+q cep-quadra. 235 421 43 14 64
+c 529 26 237 398 Blue Yellow
+s 530 233 491
+s 530 13 437
+r 531 62 0 293 51 Yellow Blue
+s 531 31 39
+s 532 204 1
+q cep-quadra. 236 287 438 166 158
+s 534 461 44
+s 535 162 372
+r 536 53 81 233 32 Yellow Blue
+s 537 139 303
+r 537 85 5 301 289 Yellow Blue
+r 538 150 43 179 32 Yellow Blue
+q cep-quadra. 237 141 38 143 11
+q cep-quadra. 238 330 266 1 155
+r 540 105 89 497 431 Yellow Blue
+r 540 107 14 359 486 Yellow Blue
+q cep-quadra. 239 157 23 139 113
+c 542 18 305 42 Blue Yellow
+h 542 3 48
+r 543 158 182 335 191 Yellow Blue
+s 544 216 306
+r 544 126 100 410 198 Yellow Blue
+r 544 61 121 394 369 Yellow Blue
+s 544 135 414
+r 545 16 81 132 389 Yellow Blue
+r 545 77 40 261 261 Yellow Blue
+h 545 149 37
+h 546 349 66
+c 547 10 32 381 Blue Yellow
+h 547 185 300
+s 547 82 312
+q cep-quadra. 240 129 0 98 93
+q cep-quadra. 241 389 57 45 108
+s 549 91 299
+h 549 319 150
+s 549 367 153
+c 550 43 127 205 Blue Yellow
+q cep-quadra. 242 313 51 178 35
+q cep-quadra. 243 150 355 0 99
+c 552 24 155 489 Blue Yellow
+r 552 67 158 388 337 Yellow Blue
+q cep-quadra. 244 64 429 82 80
+s 553 369 99
+r 553 55 185 313 280 Yellow Blue
+h 554 137 474
+h 555 173 484
+c 555 23 370 259 Blue Yellow
+s 556 464 371
+c 557 1 357 302 Blue Yellow
+h 557 496 84
+c 558 17 215 228 Blue Yellow
+h 558 490 171
+h 558 260 163
+r 558 68 176 433 266 Yellow Blue
+h 558 434 14
+s 558 471 10
+r 559 158 79 314 143 Yellow Blue
+h 560 350 411
+c 560 34 343 338 Blue Yellow
+h 561 358 474
+c 561 22 409 92 Blue Yellow
+h 562 352 110
+h 562 331 155
+h 563 116 23
+q cep-quadra. 245 232 458 170 182
+s 564 23 371
+c 564 21 11 302 Blue Yellow
+h 564 189 455
+c 565 48 85 318 Blue Yellow
+h 565 217 395
+s 566 40 466
+r 566 36 6 76 108 Yellow Blue
+r 567 151 48 69 125 Yellow Blue
+s 568 393 231
+c 569 38 212 155 Blue Yellow
+c 569 10 179 224 Blue Yellow
+s 569 271 263
+s 570 342 305
+h 570 68 88
+h 570 415 374
+s 570 492 14
+s 571 190 366
+h 571 341 102
+s 572 268 133
+q cep-quadra. 246 443 334 53 188
+h 573 276 38
+r 574 158 22 271 29 Yellow Blue
+q cep-quadra. 247 452 295 152 124
+q cep-quadra. 248 326 233 101 187
+c 575 42 7 13 Blue Yellow
+q cep-quadra. 249 291 143 199 64
+r 575 9 103 303 209 Yellow Blue
+s 576 16 381
+r 576 98 112 271 86 Yellow Blue
+r 577 71 34 156 173 Yellow Blue
+q cep-quadra. 250 382 325 17 83
+r 578 21 184 349 479 Yellow Blue
+r 578 82 155 242 319 Yellow Blue
+r 578 162 120 123 97 Yellow Blue
+r 579 10 115 198 151 Yellow Blue
+s 580 95 183
+s 580 308 222
+c 580 9 304 48 Blue Yellow
+c 580 35 298 14 Blue Yellow
+r 580 192 1 498 311 Yellow Blue
+s 581 127 360
+q cep-quadra. 251 425 452 156 60
+s 582 15 495
+q cep-quadra. 252 70 197 90 71
+q cep-quadra. 253 42 440 11 23
+s 585 145 115
+c 586 33 156 150 Blue Yellow
+r 586 116 97 69 126 Yellow Blue
+h 586 301 22
+c 586 31 219 244 Blue Yellow
+q cep-quadra. 254 252 214 3 125
+c 588 44 174 106 Blue Yellow
+c 589 1 346 75 Blue Yellow
+c 590 4 417 448 Blue Yellow
+r 591 128 198 233 322 Yellow Blue
+q cep-quadra. 255 318 255 174 190
+q cep-quadra. 256 174 116 4 33
+h 591 323 113
+r 592 141 29 245 325 Yellow Blue
+r 592 161 105 394 223 Yellow Blue
+r 593 82 18 309 470 Yellow Blue
+c 593 5 286 415 Blue Yellow
+s 594 12 399
+r 594 78 93 255 492 Yellow Blue
+q cep-quadra. 257 350 285 52 18
+c 595 38 191 306 Blue Yellow
+q cep-quadra. 258 288 189 183 133
+q cep-quadra. 259 458 377 137 4
+h 597 19 22
+h 597 60 127
+h 597 452 494
+h 598 410 438
+q cep-quadra. 260 486 393 41 62
+c 598 32 237 441 Blue Yellow
+c 598 38 112 310 Blue Yellow
+h 599 39 60
+c 600 17 488 176 Blue Yellow
+h 600 430 434
+r 601 76 93 174 480 Yellow Blue
+s 601 478 144
+h 601 390 306
+c 601 48 338 301 Blue Yellow
+c 602 27 443 116 Blue Yellow
+q cep-quadra. 261 55 417 4 24
+h 603 92 80
+q cep-quadra. 262 431 405 134 156
+c 603 8 389 491 Blue Yellow
+q cep-quadra. 263 386 248 38 198
+r 604 20 94 7 324 Yellow Blue
+h 604 97 207
+s 604 111 166
+h 605 184 159
+r 605 99 97 228 145 Yellow Blue
+h 606 186 377
+c 607 15 472 282 Blue Yellow
+q cep-quadra. 264 205 460 194 119
+r 608 165 82 180 166 Yellow Blue
+s 609 497 383
+h 610 484 289
+r 610 129 31 303 299 Yellow Blue
+s 610 454 101
+r 610 148 1 257 371 Yellow Blue
+q cep-quadra. 265 140 483 100 150
+q cep-quadra. 266 324 47 111 37
+s 611 58 234
+r 611 179 185 384 143 Yellow Blue
+q cep-quadra. 267 481 337 191 104
+c 611 4 107 283 Blue Yellow
+r 612 129 31 261 322 Yellow Blue
+s 612 307 324
+c 612 13 31 35 Blue Yellow
+h 613 465 369
+q cep-quadra. 268 219 16 9 108
+s 615 88 328
+h 616 474 229
+r 616 49 132 296 302 Yellow Blue
+q cep-quadra. 269 231 324 31 103
+h 617 181 89
+q cep-quadra. 270 44 49 2 103
+r 619 154 105 151 91 Yellow Blue
+s 620 183 316
+h 621 390 369
+r 621 144 62 463 394 Yellow Blue
+r 621 160 1 181 499 Yellow Blue
+q cep-quadra. 271 440 104 172 113
+h 622 111 29
+h 623 483 60
+q cep-quadra. 272 87 404 117 109
+s 623 50 451
+s 624 33 390
+h 624 90 201
+q cep-quadra. 273 417 169 115 79
+q cep-quadra. 274 436 330 120 141
+r 625 5 31 341 389 Yellow Blue
+q cep-quadra. 275 326 383 156 66
+s 627 63 83
+s 627 405 434
+r 627 173 118 260 77 Yellow Blue
+r 627 19 170 53 443 Yellow Blue
+q cep-quadra. 276 209 432 32 111
+q cep-quadra. 277 184 131 102 1
+c 628 42 300 465 Blue Yellow
+r 628 55 8 426 285 Yellow Blue
+c 628 46 96 37 Blue Yellow
+h 629 80 464
+h 630 316 465
+q cep-quadra. 278 113 208 50 39
+c 631 44 139 216 Blue Yellow
+c 632 7 338 97 Blue Yellow
+h 633 435 157
+s 633 348 474
+h 634 45 239
+c 635 42 98 251 Blue Yellow
+c 636 42 454 44 Blue Yellow
+c 636 27 288 346 Blue Yellow
+q cep-quadra. 279 495 148 51 13
+q cep-quadra. 280 27 439 37 192
+r 637 96 83 483 276 Yellow Blue
+q cep-quadra. 281 219 139 18 2
+r 637 58 32 6 145 Yellow Blue
+s 637 200 264
+s 638 320 7
+s 639 16 24
+q cep-quadra. 282 487 372 4 139
+h 641 379 148
+s 642 431 48
+q cep-quadra. 283 424 229 172 149
+h 644 144 399
+r 645 80 63 154 419 Yellow Blue
+s 646 183 342
+q cep-quadra. 284 422 391 3 108
+s 646 393 198
+r 647 52 85 426 191 Yellow Blue
+q cep-quadra. 285 231 463 115 75
+r 649 113 30 195 337 Yellow Blue
+s 650 324 131
+s 650 68 347
+s 650 96 398
+s 650 332 36
+q cep-quadra. 286 403 319 5 177
+r 652 176 182 104 405 Yellow Blue
+c 652 40 430 456 Blue Yellow
+q cep-quadra. 287 92 325 22 159
+s 653 374 65
+c 653 28 474 469 Blue Yellow
+s 653 339 158
+s 653 58 371
+c 654 35 311 272 Blue Yellow
+r 655 75 42 6 189 Yellow Blue
+s 655 205 487
+q cep-quadra. 288 18 299 124 8
+c 657 47 269 393 Blue Yellow
+q cep-quadra. 289 181 430 46 26
+s 658 3 45
+s 659 191 377
+s 660 343 335
+s 660 336 50
+c 660 44 295 182 Blue Yellow
+q cep-quadra. 290 413 222 82 158
+r 661 24 155 87 84 Yellow Blue
+r 662 11 148 230 298 Yellow Blue
+h 663 413 432
+h 664 412 402
+h 664 382 248
+s 665 227 167
+s 666 183 239
+h 666 307 487
+q cep-quadra. 291 276 95 199 71
+s 668 13 110
+h 668 295 168
+s 669 238 322
+s 670 349 424
+s 670 180 373
+s 670 320 77
+s 670 462 245
+h 670 424 32
+s 670 9 304
+c 671 12 2 328 Blue Yellow
+h 671 356 318
+c 672 45 482 172 Blue Yellow
+c 672 48 156 197 Blue Yellow
+r 672 31 17 490 110 Yellow Blue
+r 673 62 23 136 434 Yellow Blue
+r 673 155 44 266 219 Yellow Blue
+q cep-quadra. 292 196 103 91 81
+c 674 27 316 472 Blue Yellow
+r 675 158 95 192 164 Yellow Blue
+r 675 172 64 49 374 Yellow Blue
+s 675 364 169
+s 675 255 127
+s 675 90 8
+c 676 11 375 53 Blue Yellow
+r 676 97 20 320 448 Yellow Blue
+c 676 5 131 446 Blue Yellow
+h 676 295 421
+h 676 12 129
+c 676 17 424 73 Blue Yellow
+q cep-quadra. 293 154 494 106 164
+s 677 387 395
+s 678 354 401
+c 679 25 209 158 Blue Yellow
+q cep-quadra. 294 365 191 164 0
+c 679 17 331 333 Blue Yellow
+c 680 11 153 263 Blue Yellow
+h 680 380 195
+h 680 226 422
+c 680 45 125 316 Blue Yellow
+h 680 280 349
+q cep-quadra. 295 51 45 184 177
+h 682 24 49
+q cep-quadra. 296 115 428 123 74
+r 683 11 109 56 385 Yellow Blue
+s 683 125 483
+h 683 238 446
+c 683 38 488 205 Blue Yellow
+c 684 42 426 104 Blue Yellow
+h 685 8 313
+r 685 171 108 288 242 Yellow Blue
+r 685 6 75 155 142 Yellow Blue
+c 685 37 349 200 Blue Yellow
+c 686 16 410 333 Blue Yellow
+r 687 19 195 341 162 Yellow Blue
+c 687 35 219 58 Blue Yellow
+s 687 112 269
+r 687 48 163 253 239 Yellow Blue
+h 687 491 336
+h 687 196 154
+s 688 150 294
+q cep-quadra. 297 267 243 101 82
+s 688 104 44
+s 689 294 250
+r 689 194 82 115 426 Yellow Blue
+r 689 50 81 322 343 Yellow Blue
+h 689 213 159
+c 690 48 428 4 Blue Yellow
+r 690 55 142 328 422 Yellow Blue
+s 691 30 380
+q cep-quadra. 298 144 256 76 163
+s 691 360 254
+c 691 49 122 18 Blue Yellow
+s 692 427 471
+r 692 169 8 329 252 Yellow Blue
+c 693 31 396 407 Blue Yellow
+c 694 7 125 300 Blue Yellow
+h 695 312 457
+c 695 39 312 491 Blue Yellow
+r 696 13 113 72 146 Yellow Blue
+r 696 98 14 107 239 Yellow Blue
+q cep-quadra. 299 351 121 174 152
+s 697 298 486
+r 697 99 159 241 10 Yellow Blue
+q cep-quadra. 300 34 311 45 160
+c 697 23 11 410 Blue Yellow
+q cep-quadra. 301 292 434 71 94
+s 697 461 489
+h 697 408 89
+c 698 3 460 313 Blue Yellow
+r 698 148 99 115 374 Yellow Blue
+c 699 48 196 459 Blue Yellow
+h 699 13 96
+r 699 14 75 486 119 Yellow Blue
+r 699 110 162 56 62 Yellow Blue
+r 699 121 42 430 221 Yellow Blue
+s 700 138 314
+s 701 306 306
+h 701 215 377
+s 701 430 113
+r 702 165 175 209 196 Yellow Blue
+r 702 104 5 8 369 Yellow Blue
+s 702 72 440
+r 703 90 160 42 51 Yellow Blue
+q cep-quadra. 302 242 235 28 92
+r 704 78 164 83 89 Yellow Blue
+r 705 61 168 369 474 Yellow Blue
+c 706 3 427 438 Blue Yellow
+h 706 52 420
+h 706 197 72
+h 707 178 7
+s 707 221 244
+h 708 304 162
+c 709 24 461 484 Blue Yellow
+r 709 134 118 142 56 Yellow Blue
+c 709 29 205 344 Blue Yellow
+c 710 22 93 393 Blue Yellow
+c 711 35 30 283 Blue Yellow
+s 712 137 397
+h 712 492 289
+r 713 33 111 17 480 Yellow Blue
+h 713 478 114
+s 713 95 182
+c 714 27 374 26 Blue Yellow
+c 715 6 155 476 Blue Yellow
+c 715 3 420 128 Blue Yellow
+q cep-quadra. 303 357 356 57 103
+r 715 21 65 294 173 Yellow Blue
+r 716 118 141 115 21 Yellow Blue
+h 716 92 5
+q cep-quadra. 304 461 381 47 79
+q cep-quadra. 305 317 298 105 18
+q cep-quadra. 306 464 212 180 169
+q cep-quadra. 307 438 391 166 2
+c 718 26 391 60 Blue Yellow
+q cep-quadra. 308 45 472 197 173
+h 718 156 350
+c 718 18 199 44 Blue Yellow
+q cep-quadra. 309 50 93 67 56
+r 719 71 135 248 366 Yellow Blue
+q cep-quadra. 310 52 168 70 55
+s 719 153 224
+q cep-quadra. 311 60 321 142 93
+h 720 180 275
+r 720 167 3 349 94 Yellow Blue
+q cep-quadra. 312 94 89 134 99
+q cep-quadra. 313 153 284 69 11
+c 721 42 364 283 Blue Yellow
+h 722 184 219
+q cep-quadra. 314 219 252 53 146
+r 723 62 59 191 271 Yellow Blue
+r 723 72 102 312 348 Yellow Blue
+c 724 33 295 155 Blue Yellow
+c 725 20 266 127 Blue Yellow
+c 726 23 73 162 Blue Yellow
+r 726 167 51 273 411 Yellow Blue
+r 727 159 174 124 133 Yellow Blue
+s 727 327 400
+r 727 75 131 309 235 Yellow Blue
+h 728 127 457
+c 728 23 283 362 Blue Yellow
+h 729 345 169
+r 730 142 183 92 247 Yellow Blue
+q cep-quadra. 315 405 469 105 117
+q cep-quadra. 316 361 354 36 111
+h 731 189 163
+r 732 36 140 23 335 Yellow Blue
+r 732 95 69 186 156 Yellow Blue
+c 732 33 422 345 Blue Yellow
+s 732 40 136
+s 732 48 444
+s 732 127 390
+c 733 19 361 487 Blue Yellow
+c 734 33 463 77 Blue Yellow
+c 734 22 13 201 Blue Yellow
+r 734 28 190 309 269 Yellow Blue
+h 735 71 20
+s 736 217 129
+r 736 13 149 74 98 Yellow Blue
+q cep-quadra. 317 410 394 82 61
+h 737 330 7
+q cep-quadra. 318 311 168 175 78
+r 738 156 3 423 279 Yellow Blue
+q cep-quadra. 319 368 326 14 130
+c 738 8 371 289 Blue Yellow
+c 738 26 358 110 Blue Yellow
+c 739 41 311 11 Blue Yellow
+r 739 170 12 491 359 Yellow Blue
+s 740 151 368
+r 741 57 63 163 40 Yellow Blue
+q cep-quadra. 320 53 479 174 38
+s 741 158 404
+s 741 300 484
+r 741 185 146 394 452 Yellow Blue
+c 742 22 276 277 Blue Yellow
+s 742 313 181
+r 742 68 96 38 469 Yellow Blue
+h 742 21 167
+q cep-quadra. 321 208 414 90 59
+r 743 76 172 18 302 Yellow Blue
+c 743 46 182 131 Blue Yellow
+q cep-quadra. 322 385 46 44 69
+q cep-quadra. 323 375 361 198 63
+s 744 150 268
+r 744 90 21 229 183 Yellow Blue
+h 745 25 361
+q cep-quadra. 324 151 413 55 54
+c 745 11 54 495 Blue Yellow
+h 746 395 30
+s 747 120 6
+h 747 374 434
+s 747 151 266
+s 747 136 318
+h 748 476 109
+r 748 3 54 96 101 Yellow Blue
+q cep-quadra. 325 1 346 138 131
+q cep-quadra. 326 127 135 105 49
+s 749 462 323
+h 749 199 115
+q cep-quadra. 327 176 287 152 136
+s 749 93 368
+q cep-quadra. 328 260 263 168 60
+h 749 396 165
+q cep-quadra. 329 37 178 157 34
+h 751 131 433
+c 751 11 471 138 Blue Yellow
+c 752 33 195 317 Blue Yellow
+q cep-quadra. 330 191 385 118 98
+h 753 223 205
+s 753 12 430
+r 754 148 67 236 92 Yellow Blue
+c 755 42 150 417 Blue Yellow
+c 756 15 347 403 Blue Yellow
+c 756 33 163 444 Blue Yellow
+r 756 141 39 392 201 Yellow Blue
+h 756 190 48
+s 757 60 460
+r 758 63 120 311 197 Yellow Blue
+q cep-quadra. 331 332 124 38 4
+s 758 51 393
+c 759 38 397 291 Blue Yellow
+s 760 378 116
+r 760 155 47 9 137 Yellow Blue
+h 760 481 117
+h 760 92 456
+q cep-quadra. 332 435 89 49 18
+s 760 327 199
+s 760 333 123
+c 761 7 70 267 Blue Yellow
+q cep-quadra. 333 245 383 34 185
+r 763 6 23 41 407 Yellow Blue
+h 764 272 314
+c 764 22 447 45 Blue Yellow
+c 764 41 56 386 Blue Yellow
+s 764 276 370
+r 764 174 151 375 131 Yellow Blue
+c 764 0 328 237 Blue Yellow
+r 765 156 102 263 458 Yellow Blue
+q cep-quadra. 334 114 290 137 42
+h 766 76 301
+r 766 155 133 114 72 Yellow Blue
+c 766 15 372 301 Blue Yellow
+q cep-quadra. 335 315 158 166 125
+r 767 90 129 405 487 Yellow Blue
+h 767 63 340
+q cep-quadra. 336 281 413 46 190
+c 767 22 407 415 Blue Yellow
+q cep-quadra. 337 404 347 78 60
+s 767 168 322
+c 767 12 262 388 Blue Yellow
+r 768 191 16 445 192 Yellow Blue
+s 769 222 372
+c 769 34 305 99 Blue Yellow
+c 770 37 259 149 Blue Yellow
+h 771 474 480
+r 771 29 29 299 451 Yellow Blue
+s 772 408 30
+h 772 322 293
+s 773 234 212
+h 773 134 454
+h 773 330 273
+h 773 446 233
+c 774 34 389 283 Blue Yellow
+r 775 168 46 179 262 Yellow Blue
+h 775 112 74
+h 776 24 328
+s 776 21 220
+c 776 41 197 100 Blue Yellow
+q cep-quadra. 338 405 328 16 134
+s 778 259 36
+c 779 3 114 303 Blue Yellow
+c 779 31 304 5 Blue Yellow
+r 779 22 123 176 357 Yellow Blue
+c 779 18 379 217 Blue Yellow
+r 779 112 118 466 480 Yellow Blue
+c 780 15 426 100 Blue Yellow
+q cep-quadra. 339 233 353 90 14
+q cep-quadra. 340 191 217 156 18
+q cep-quadra. 341 411 115 80 178
+c 782 24 210 483 Blue Yellow
+c 782 43 50 328 Blue Yellow
+s 782 380 179
+r 783 193 123 287 210 Yellow Blue
+q cep-quadra. 342 347 39 73 100
+q cep-quadra. 343 99 254 174 139
+s 784 40 91
+q cep-quadra. 344 309 168 31 57
+s 785 472 123
+s 785 72 381
+q cep-quadra. 345 323 108 72 164
+h 787 360 295
+r 788 104 189 249 438 Yellow Blue
+h 788 382 73
+h 788 232 341
+s 789 188 267
+c 789 34 204 281 Blue Yellow
+r 789 86 68 345 288 Yellow Blue
+r 789 122 184 180 356 Yellow Blue
+h 789 204 353
+r 790 71 84 405 151 Yellow Blue
+h 790 434 228
+c 791 21 369 494 Blue Yellow
+q cep-quadra. 346 147 300 43 173
+r 793 87 190 157 237 Yellow Blue
+h 793 405 381
+q cep-quadra. 347 39 242 120 170
+c 794 20 155 281 Blue Yellow
+q cep-quadra. 348 400 226 59 105
+s 796 391 240
+r 796 45 109 83 292 Yellow Blue
+r 796 163 111 281 462 Yellow Blue
+r 797 91 175 236 368 Yellow Blue
+r 797 77 176 364 180 Yellow Blue
+q cep-quadra. 349 261 471 125 82
+h 797 443 46
+s 797 141 48
+c 797 21 434 292 Blue Yellow
+r 797 141 14 11 420 Yellow Blue
+q cep-quadra. 350 399 250 115 185
+c 798 31 318 240 Blue Yellow
+h 798 493 475
+h 798 471 26
+r 799 91 130 463 128 Yellow Blue
+q cep-quadra. 351 89 20 131 26
+c 799 33 230 138 Blue Yellow
+r 800 116 57 116 176 Yellow Blue
+r 800 101 165 360 223 Yellow Blue
+s 800 436 39
+h 801 87 166
+r 802 172 49 172 14 Yellow Blue
+c 802 6 283 396 Blue Yellow
+s 803 71 376
+s 803 45 109
+s 804 219 446
+q cep-quadra. 352 47 28 32 169
+q cep-quadra. 353 49 318 149 142
+s 805 35 5
+r 805 60 116 467 65 Yellow Blue
+q cep-quadra. 354 299 305 50 53
+s 807 156 15
+q cep-quadra. 355 396 36 68 34
+s 809 46 71
+c 809 42 21 279 Blue Yellow
+c 810 28 182 387 Blue Yellow
+h 810 6 97
+q cep-quadra. 356 215 433 189 58
+r 810 9 141 258 59 Yellow Blue
+q cep-quadra. 357 409 108 7 112
+c 810 3 37 106 Blue Yellow
+r 811 69 36 139 116 Yellow Blue
+h 811 341 205
+q cep-quadra. 358 331 137 196 125
+c 813 2 233 222 Blue Yellow
+q cep-quadra. 359 378 416 107 73
+h 814 332 75
+s 814 430 114
+s 815 135 242
+r 816 191 70 9 368 Yellow Blue
+h 817 206 7
+s 817 190 187
+c 818 26 349 333 Blue Yellow
+c 818 41 218 293 Blue Yellow
+h 818 223 490
+s 818 265 334
+s 819 498 336
+q cep-quadra. 360 120 194 116 38
+c 821 35 18 409 Blue Yellow
+c 821 22 394 444 Blue Yellow
+s 822 70 185
+h 823 407 132
+q cep-quadra. 361 357 253 0 177
+q cep-quadra. 362 237 214 153 86
+h 823 463 452
+c 823 43 34 125 Blue Yellow
+r 824 137 49 286 265 Yellow Blue
+h 824 447 433
+s 824 411 395
+r 824 7 101 137 495 Yellow Blue
+r 825 167 79 211 91 Yellow Blue
+c 825 36 426 136 Blue Yellow
+s 826 263 485
+h 826 103 346
+r 827 46 6 60 154 Yellow Blue
+r 827 25 105 469 411 Yellow Blue
+r 828 118 196 400 265 Yellow Blue
+h 828 423 256
+c 828 23 439 166 Blue Yellow
+q cep-quadra. 363 274 184 85 162
+q cep-quadra. 364 434 330 14 56
+c 829 13 165 373 Blue Yellow
+q cep-quadra. 365 88 61 21 9
+s 829 393 89
+c 830 12 340 126 Blue Yellow
+q cep-quadra. 366 372 274 53 165
+h 831 456 350
+c 831 14 183 81 Blue Yellow
+r 832 39 132 128 110 Yellow Blue
+c 832 30 185 316 Blue Yellow
+q cep-quadra. 367 248 138 21 173
+r 833 74 89 353 159 Yellow Blue
+s 834 481 163
+r 835 101 6 319 7 Yellow Blue
+r 835 67 23 277 456 Yellow Blue
+h 835 38 75
+c 836 48 250 377 Blue Yellow
+c 837 9 196 301 Blue Yellow
+c 837 12 80 411 Blue Yellow
+c 837 12 103 389 Blue Yellow
+h 838 379 16
+c 838 26 482 460 Blue Yellow
+c 838 10 68 47 Blue Yellow
+h 839 308 344
+h 839 120 131
+r 839 49 174 16 304 Yellow Blue
+s 839 372 55
+s 839 196 163
+q cep-quadra. 368 79 498 104 75
+q cep-quadra. 369 257 415 70 68
+h 840 189 280
+c 841 48 466 210 Blue Yellow
+s 841 467 109
+s 841 41 421
+r 841 33 34 427 140 Yellow Blue
+r 841 190 143 105 291 Yellow Blue
+c 841 6 199 203 Blue Yellow
+q cep-quadra. 370 41 171 16 28
+s 842 156 339
+c 843 2 176 22 Blue Yellow
+c 844 43 36 92 Blue Yellow
+q cep-quadra. 371 98 439 95 163
+h 845 478 260
+s 846 261 474
+c 846 49 166 32 Blue Yellow
+r 847 197 163 288 47 Yellow Blue
+c 848 32 245 458 Blue Yellow
+h 849 39 382
+r 850 175 4 292 407 Yellow Blue
+h 851 194 261
+s 851 89 119
+h 851 128 77
+c 852 19 441 292 Blue Yellow
+h 853 115 144
+s 853 135 73
+q cep-quadra. 372 256 114 82 65
+r 854 133 190 104 63 Yellow Blue
+q cep-quadra. 373 243 413 103 153
+r 855 16 81 499 189 Yellow Blue
+s 856 272 130
+h 856 182 174
+c 857 19 250 164 Blue Yellow
+s 857 93 287
+c 857 4 306 98 Blue Yellow
+s 858 417 461
+q cep-quadra. 374 129 124 8 184
+s 859 98 66
+q cep-quadra. 375 347 471 75 189
+c 860 39 80 405 Blue Yellow
+c 860 5 433 489 Blue Yellow
+h 861 311 120
+q cep-quadra. 376 34 130 51 86
+c 861 36 474 53 Blue Yellow
+r 861 2 166 99 201 Yellow Blue
+h 861 394 57
+c 861 6 323 444 Blue Yellow
+q cep-quadra. 377 158 287 27 25
+r 861 50 8 475 456 Yellow Blue
+c 862 5 185 39 Blue Yellow
+r 863 61 159 123 157 Yellow Blue
+c 863 17 52 282 Blue Yellow
+q cep-quadra. 378 34 247 94 128
+h 863 22 65
+h 864 138 277
+c 865 4 230 481 Blue Yellow
+c 866 34 310 174 Blue Yellow
+h 866 455 201
+r 867 199 152 337 183 Yellow Blue
+r 868 179 79 487 294 Yellow Blue
+r 869 165 116 317 232 Yellow Blue
+h 870 136 114
+q cep-quadra. 379 37 332 4 99
+r 871 56 151 239 104 Yellow Blue
+c 872 48 383 310 Blue Yellow
+s 873 9 56
+s 873 488 258
+q cep-quadra. 380 258 180 80 157
+h 873 342 496
+c 873 35 102 281 Blue Yellow
+r 874 141 61 97 131 Yellow Blue
+h 875 453 24
+q cep-quadra. 381 260 241 176 38
+h 877 101 278
+c 878 41 231 259 Blue Yellow
+s 879 159 174
+h 880 151 389
+c 881 31 244 44 Blue Yellow
+c 881 48 252 198 Blue Yellow
+r 881 190 35 341 23 Yellow Blue
+s 881 414 190
+c 882 40 147 338 Blue Yellow
+c 882 37 495 123 Blue Yellow
+q cep-quadra. 382 281 415 80 189
+r 882 125 95 297 55 Yellow Blue
+c 883 30 66 486 Blue Yellow
+r 884 118 102 105 379 Yellow Blue
+s 885 319 30
+r 886 179 188 224 467 Yellow Blue
+c 887 19 270 372 Blue Yellow
+c 887 1 417 131 Blue Yellow
+h 887 58 78
+r 888 107 167 310 310 Yellow Blue
+s 889 414 417
+h 889 32 183
+q cep-quadra. 383 115 78 46 122
+c 891 33 276 159 Blue Yellow
+s 892 47 422
+h 893 488 432
+c 894 22 310 32 Blue Yellow
+h 895 118 470
+q cep-quadra. 384 83 278 12 92
+q cep-quadra. 385 70 291 14 1
+s 895 203 13
+h 895 233 248
+c 895 33 133 376 Blue Yellow
+s 895 110 85
+q cep-quadra. 386 438 71 53 123
+h 896 229 279
+q cep-quadra. 387 218 175 54 144
+q cep-quadra. 388 50 322 80 199
+c 896 24 333 385 Blue Yellow
+q cep-quadra. 389 486 362 143 28
+h 898 430 397
+c 898 33 189 326 Blue Yellow
+c 899 38 344 377 Blue Yellow
+h 899 307 439
+s 899 38 154
+s 899 266 99
+r 899 155 119 221 382 Yellow Blue
+h 900 86 96
+h 901 371 298
+r 901 135 27 230 284 Yellow Blue
+s 901 272 423
+q cep-quadra. 390 414 111 85 21
+q cep-quadra. 391 365 154 156 130
+s 902 4 321
+r 902 196 55 183 243 Yellow Blue
+h 902 14 17
+h 903 298 341
+q cep-quadra. 392 103 244 192 111
+c 904 35 150 115 Blue Yellow
+r 904 186 114 23 7 Yellow Blue
+q cep-quadra. 393 1 481 138 106
+s 906 242 135
+s 906 495 309
+s 907 450 63
+h 907 463 90
+s 907 351 197
+s 907 9 79
+s 908 420 114
+q cep-quadra. 394 138 23 39 175
+h 909 265 164
+r 910 8 104 434 228 Yellow Blue
+r 910 135 45 153 0 Yellow Blue
+s 910 311 187
+q cep-quadra. 395 129 82 48 162
+r 910 130 161 118 54 Yellow Blue
+q cep-quadra. 396 212 447 183 196
+h 912 128 274
+s 913 302 157
+h 913 67 342
+h 913 64 344
+c 913 40 385 390 Blue Yellow
+r 914 58 53 139 182 Yellow Blue
+c 915 12 22 416 Blue Yellow
+s 916 261 178
+q cep-quadra. 397 42 174 32 83
+q cep-quadra. 398 412 40 162 42
+s 918 296 235
+s 919 319 373
+h 920 356 45
+s 921 323 142
+r 922 39 138 451 280 Yellow Blue
+c 922 20 72 82 Blue Yellow
+h 922 347 56
+r 922 112 36 129 40 Yellow Blue
+q cep-quadra. 399 263 189 92 131
+c 923 23 462 336 Blue Yellow
+q cep-quadra. 400 256 364 158 107
+c 923 18 50 248 Blue Yellow
+h 923 364 32
+r 924 110 89 468 28 Yellow Blue
+q cep-quadra. 401 120 280 103 64
+s 926 94 268
+c 927 23 22 73 Blue Yellow
+q cep-quadra. 402 279 50 68 76
+c 927 46 257 192 Blue Yellow
+r 928 168 176 438 3 Yellow Blue
+h 928 284 183
+c 929 2 226 51 Blue Yellow
+s 929 148 131
+s 929 267 170
+h 930 232 340
+s 930 146 193
+r 930 112 107 474 493 Yellow Blue
+s 931 425 407
+s 932 473 372
+h 932 496 336
+c 933 1 409 114 Blue Yellow
+s 934 172 238
+c 935 28 137 116 Blue Yellow
+c 935 6 415 333 Blue Yellow
+s 936 380 406
+s 936 114 245
+r 937 160 140 358 433 Yellow Blue
+s 937 488 368
+q cep-quadra. 403 456 328 127 122
+s 938 398 32
+h 938 362 325
+q cep-quadra. 404 345 428 135 102
+c 939 22 104 191 Blue Yellow
+r 939 105 103 282 164 Yellow Blue
+s 939 261 246
+r 939 143 30 462 212 Yellow Blue
+s 940 454 97
+q cep-quadra. 405 442 2 35 190
+c 940 24 214 223 Blue Yellow
+h 941 221 342
+r 941 47 92 69 52 Yellow Blue
+c 942 43 298 449 Blue Yellow
+c 943 34 302 167 Blue Yellow
+h 944 143 168
+c 945 0 434 488 Blue Yellow
+s 946 123 124
+h 947 290 161
+r 947 89 27 179 5 Yellow Blue
+r 948 79 192 170 326 Yellow Blue
+q cep-quadra. 406 392 42 134 170
+s 948 174 159
+q cep-quadra. 407 8 237 27 189
+h 948 295 134
+h 949 428 40
+s 949 368 411
+q cep-quadra. 408 139 394 24 83
+s 949 477 44
+q cep-quadra. 409 225 107 35 99
+s 950 266 107
+q cep-quadra. 410 88 382 3 90
+c 950 36 354 304 Blue Yellow
+s 950 220 224
+c 951 32 304 440 Blue Yellow
+h 951 331 1
+s 952 382 362
+h 952 480 364
+r 952 7 56 176 108 Yellow Blue
+c 952 38 262 209 Blue Yellow
+q cep-quadra. 411 200 486 141 128
+q cep-quadra. 412 362 237 94 81
+h 955 473 1
+c 955 20 251 150 Blue Yellow
+c 956 24 217 466 Blue Yellow
+h 956 24 7
+c 956 46 117 348 Blue Yellow
+h 957 18 275
+h 957 18 56
+c 958 25 52 111 Blue Yellow
+h 958 248 402
+s 959 296 13
+h 960 259 11
+h 961 476 181
+s 961 324 314
+r 961 102 175 105 122 Yellow Blue
+r 961 104 153 239 288 Yellow Blue
+r 961 26 71 327 494 Yellow Blue
+q cep-quadra. 413 119 78 110 45
+r 962 152 199 421 456 Yellow Blue
+h 962 155 249
+s 963 166 120
+s 963 465 310
+s 963 110 273
+s 964 281 342
+c 964 47 417 416 Blue Yellow
+s 964 212 29
+s 965 307 118
+c 965 19 346 283 Blue Yellow
+s 965 280 128
+s 966 277 285
+h 966 480 243
+h 966 280 36
+h 966 497 212
+r 967 2 15 320 299 Yellow Blue
+r 968 114 17 334 407 Yellow Blue
+r 968 188 21 179 222 Yellow Blue
+q cep-quadra. 414 345 440 111 179
+c 969 46 79 161 Blue Yellow
+h 969 379 182
+h 969 153 414
+s 969 317 430
+c 969 48 240 247 Blue Yellow
+q cep-quadra. 415 39 445 137 59
+q cep-quadra. 416 122 457 54 20
+s 970 159 129
+q cep-quadra. 417 174 331 75 52
+s 970 123 436
+c 970 23 289 97 Blue Yellow
+q cep-quadra. 418 47 327 145 147
+h 972 304 57
+h 973 183 23
+h 973 274 132
+r 973 38 58 289 183 Yellow Blue
+h 973 87 165
+h 973 265 86
+s 973 128 28
+c 974 1 400 211 Blue Yellow
+h 974 402 93
+r 974 83 0 66 58 Yellow Blue
+s 974 54 437
+r 974 25 19 235 117 Yellow Blue
+c 974 27 258 81 Blue Yellow
+h 974 319 455
+s 975 382 391
+s 975 47 260
+c 975 42 211 480 Blue Yellow
+h 975 336 211
+q cep-quadra. 419 215 316 71 198
+c 976 11 467 87 Blue Yellow
+r 976 175 135 445 116 Yellow Blue
+c 976 29 189 207 Blue Yellow
+q cep-quadra. 420 47 124 10 78
+c 977 27 49 496 Blue Yellow
+h 978 487 408
+h 978 24 292
+r 978 160 196 197 352 Yellow Blue
+q cep-quadra. 421 252 297 54 166
+s 980 46 456
+h 981 1 1
+c 981 18 453 195 Blue Yellow
+c 981 32 41 298 Blue Yellow
+r 982 141 25 167 238 Yellow Blue
+r 983 39 167 392 443 Yellow Blue
+h 984 489 173
+r 985 156 50 34 354 Yellow Blue
+c 985 22 279 499 Blue Yellow
+c 985 30 234 96 Blue Yellow
+r 985 150 58 458 254 Yellow Blue
+r 985 96 81 347 382 Yellow Blue
+r 986 19 80 48 175 Yellow Blue
+q cep-quadra. 422 472 436 44 105
+c 987 40 100 434 Blue Yellow
+s 988 2 91
+s 989 404 21
+s 990 38 32
+h 991 332 255
+c 992 8 294 305 Blue Yellow
+s 992 12 264
+c 993 9 19 380 Blue Yellow
+q cep-quadra. 423 384 322 40 97
+s 995 9 111
+s 995 286 85
+q cep-quadra. 424 337 84 95 0
+r 996 27 103 435 293 Yellow Blue
+c 996 35 392 168 Blue Yellow
+h 996 470 327
+c 996 3 419 190 Blue Yellow
+s 997 186 81
+c 998 34 111 393 Blue Yellow
+s 998 72 480
+q cep-quadra. 425 428 217 116 85
+q cep-quadra. 426 413 150 44 161
+q cep-quadra. 427 8 106 195 191
+q cep-quadra. 428 94 12 131 106
+q cep-quadra. 429 426 335 30 116
+c 999 34 81 424 Blue Yellow
+q cep-quadra. 430 207 147 79 73
+h 1000 149 125
+h 1000 338 434
+q cep-quadra. 431 56 335 126 196
+r 1001 55 160 42 88 Yellow Blue
+h 1001 11 309
+r 1001 102 92 27 462 Yellow Blue
+c 1001 2 389 265 Blue Yellow
+r 1001 179 30 298 393 Yellow Blue
+s 1001 439 32
+h 1001 141 239
+c 1001 31 390 295 Blue Yellow
+s 1001 46 417
+s 1002 497 459
+r 1003 118 100 127 435 Yellow Blue
+c 1003 42 97 488 Blue Yellow
+h 1004 112 186
+h 1004 96 474
+q cep-quadra. 432 435 398 24 49
+c 1005 8 9 72 Blue Yellow
+h 1006 357 445
+h 1006 31 177
+q cep-quadra. 433 367 316 126 65
+q cep-quadra. 434 334 57 60 100
+r 1007 196 92 462 482 Yellow Blue
+s 1007 402 31
+c 1007 35 315 133 Blue Yellow
+h 1008 240 465
+s 1008 227 18
+q cep-quadra. 435 20 223 154 44
+q cep-quadra. 436 492 473 21 148
+r 1010 29 132 107 152 Yellow Blue
+h 1011 71 112
+s 1012 467 485
+c 1012 4 143 115 Blue Yellow
+h 1012 382 486
+h 1013 470 360
+r 1014 199 155 47 445 Yellow Blue
+h 1015 88 136
+r 1016 152 14 212 478 Yellow Blue
+c 1016 10 320 276 Blue Yellow
+s 1016 64 497
+q cep-quadra. 437 317 450 184 20
+s 1017 119 107
+c 1017 42 348 207 Blue Yellow
+c 1018 0 291 388 Blue Yellow
+r 1019 181 14 169 104 Yellow Blue
+h 1020 246 66
+c 1020 23 444 169 Blue Yellow
+q cep-quadra. 438 189 250 144 158
+q cep-quadra. 439 120 93 13 96
+c 1021 4 7 277 Blue Yellow
+h 1022 225 383
+q cep-quadra. 440 318 210 97 105
+h 1023 430 465
+h 1023 373 206
+c 1023 45 12 66 Blue Yellow
+r 1024 53 132 399 241 Yellow Blue
+s 1024 466 357
+c 1025 45 117 41 Blue Yellow
+h 1025 311 298
+h 1025 92 388
+s 1026 346 362
+q cep-quadra. 441 387 31 50 6
+q cep-quadra. 442 4 372 127 137
+h 1026 391 7
+q cep-quadra. 443 285 279 9 2
+r 1026 158 129 200 228 Yellow Blue
+q cep-quadra. 444 31 386 153 16
+h 1027 111 311
+c 1027 21 341 283 Blue Yellow
+c 1027 28 419 167 Blue Yellow
+c 1027 0 166 139 Blue Yellow
+s 1027 304 233
+r 1028 195 34 12 123 Yellow Blue
+h 1028 230 46
+s 1029 164 129
+h 1030 224 420
+r 1030 56 69 125 2 Yellow Blue
+q cep-quadra. 445 155 271 7 3
+r 1032 60 77 341 278 Yellow Blue
+s 1033 177 138
+r 1034 184 55 363 465 Yellow Blue
+s 1035 327 214
+h 1035 8 441
+r 1035 148 21 427 43 Yellow Blue
+c 1035 44 237 248 Blue Yellow
+s 1035 298 360
+r 1035 24 4 371 399 Yellow Blue
+q cep-quadra. 446 336 341 4 63
+r 1037 159 197 356 57 Yellow Blue
+s 1037 339 213
+q cep-quadra. 447 120 53 36 163
+h 1038 51 374
+h 1038 179 19
+q cep-quadra. 448 214 239 68 137
+q cep-quadra. 449 6 37 5 95
+q cep-quadra. 450 99 318 90 175
+h 1039 217 481
+q cep-quadra. 451 179 488 80 129
+r 1039 106 81 159 251 Yellow Blue
+s 1040 144 127
+c 1041 21 215 209 Blue Yellow
+s 1042 262 354
+q cep-quadra. 452 167 324 10 157
+q cep-quadra. 453 169 184 110 26
+q cep-quadra. 454 65 393 193 158
+h 1043 291 20
+r 1044 119 142 458 164 Yellow Blue
+q cep-quadra. 455 238 411 1 172
+h 1045 254 371
+q cep-quadra. 456 139 377 49 181
+h 1046 454 354
+s 1046 299 363
+s 1047 44 352
+c 1048 22 368 475 Blue Yellow
+c 1048 9 40 482 Blue Yellow
+q cep-quadra. 457 429 126 130 53
+h 1049 429 451
+c 1049 14 222 26 Blue Yellow
+h 1050 250 357
+r 1050 198 4 50 450 Yellow Blue
+h 1050 466 148
+q cep-quadra. 458 294 438 49 91
+s 1051 6 42
+h 1051 225 253
+r 1051 26 30 170 32 Yellow Blue
+s 1051 264 354
+c 1052 33 134 135 Blue Yellow
+q cep-quadra. 459 27 237 40 93
+h 1052 475 374
+r 1052 37 175 166 382 Yellow Blue
+q cep-quadra. 460 239 267 59 99
+s 1052 351 381
+q cep-quadra. 461 338 367 123 149
+c 1053 14 429 90 Blue Yellow
+q cep-quadra. 462 301 180 49 20
+h 1053 23 359
+h 1054 484 120
+s 1054 319 2
+h 1054 457 471
+q cep-quadra. 463 498 397 139 53
+h 1056 224 349
+q cep-quadra. 464 244 310 190 39
+q cep-quadra. 465 54 90 192 89
+c 1057 37 391 213 Blue Yellow
+r 1058 149 191 148 255 Yellow Blue
+q cep-quadra. 466 223 57 136 179
+s 1059 13 127
+c 1060 37 343 441 Blue Yellow
+r 1061 137 83 418 335 Yellow Blue
+s 1062 75 313
+r 1062 184 93 294 31 Yellow Blue
+s 1063 190 44
+h 1064 159 212
+h 1064 474 314
+q cep-quadra. 467 84 282 55 145
+h 1065 405 30
+c 1065 3 82 276 Blue Yellow
+s 1065 323 164
+r 1066 29 185 64 317 Yellow Blue
+s 1067 79 96
+q cep-quadra. 468 223 165 74 86
+r 1068 176 15 460 291 Yellow Blue
+r 1068 115 76 104 356 Yellow Blue
+s 1068 465 301
+h 1068 236 151
+s 1068 395 406
+r 1068 3 103 352 190 Yellow Blue
+r 1068 35 127 77 461 Yellow Blue
+s 1069 290 494
+q cep-quadra. 469 204 384 121 15
+s 1069 44 248
+r 1069 71 7 357 235 Yellow Blue
+r 1070 121 1 488 186 Yellow Blue
+r 1071 172 4 26 273 Yellow Blue
+s 1072 212 431
+q cep-quadra. 470 64 159 71 18
+c 1073 47 222 117 Blue Yellow
+h 1073 65 357
+q cep-quadra. 471 287 462 121 106
+c 1074 47 193 90 Blue Yellow
+s 1075 293 160
+c 1075 18 23 407 Blue Yellow
+h 1075 121 85
+s 1075 347 282
+c 1075 34 445 268 Blue Yellow
+h 1076 102 142
+s 1076 139 449
+q cep-quadra. 472 253 243 143 82
+q cep-quadra. 473 377 237 73 80
+h 1078 371 209
+h 1078 390 281
+r 1079 79 128 361 136 Yellow Blue
+h 1080 62 280
+r 1081 30 30 188 163 Yellow Blue
+h 1081 83 346
+q cep-quadra. 474 281 9 95 65
+q cep-quadra. 475 313 184 53 115
+r 1081 145 148 4 411 Yellow Blue
+h 1082 158 171
+c 1082 16 119 40 Blue Yellow
+q cep-quadra. 476 391 82 155 134
+s 1083 115 453
+r 1084 195 110 115 291 Yellow Blue
+c 1084 31 279 260 Blue Yellow
+q cep-quadra. 477 483 94 145 199
+s 1084 288 497
+q cep-quadra. 478 319 394 27 52
+s 1085 47 489
+r 1085 97 74 373 180 Yellow Blue
+s 1086 315 398
+h 1087 309 108
+s 1087 27 459
+c 1087 5 432 312 Blue Yellow
+h 1087 485 303
+c 1087 27 491 435 Blue Yellow
+r 1087 65 73 241 373 Yellow Blue
+s 1088 130 272
+c 1088 24 262 498 Blue Yellow
+q cep-quadra. 479 281 139 196 149
+s 1089 246 113
+q cep-quadra. 480 54 235 124 81
+h 1091 306 275
+r 1092 107 39 183 71 Yellow Blue
+c 1092 4 91 163 Blue Yellow
+r 1092 178 188 482 417 Yellow Blue
+h 1093 323 249
+r 1093 126 112 382 464 Yellow Blue
+c 1093 10 89 121 Blue Yellow
+h 1094 334 48
+s 1094 192 436
+q cep-quadra. 481 295 270 7 198
+c 1095 42 276 296 Blue Yellow
+c 1095 10 81 415 Blue Yellow
+c 1096 30 52 187 Blue Yellow
+q cep-quadra. 482 231 480 52 89
+s 1097 357 65
+h 1097 186 308
+h 1098 184 133
+c 1098 28 305 308 Blue Yellow
+r 1099 103 77 128 476 Yellow Blue
+s 1100 119 363
+h 1100 339 85
+q cep-quadra. 483 321 293 132 171
+r 1101 185 107 70 421 Yellow Blue
+h 1101 393 135
+c 1101 47 443 11 Blue Yellow
+c 1101 21 307 92 Blue Yellow
+q cep-quadra. 484 367 475 43 113
+s 1102 480 23
+h 1102 419 252
+h 1102 160 102
+h 1102 18 33
+q cep-quadra. 485 120 84 17 187
+h 1103 120 319
+c 1104 26 402 54 Blue Yellow
+q cep-quadra. 486 22 34 42 184
+h 1104 445 80
+s 1105 221 470
+r 1105 52 109 205 116 Yellow Blue
+q cep-quadra. 487 316 353 104 122
+r 1105 33 20 72 115 Yellow Blue
+s 1106 358 67
+h 1106 388 47
+s 1106 67 52
+h 1106 277 335
+q cep-quadra. 488 325 403 118 82
+r 1107 10 119 452 209 Yellow Blue
+c 1107 5 156 302 Blue Yellow
+q cep-quadra. 489 428 470 37 16
+h 1107 477 196
+c 1108 2 455 396 Blue Yellow
+q cep-quadra. 490 260 167 28 54
+s 1109 453 240
+h 1110 53 382
+q cep-quadra. 491 65 48 138 181
+q cep-quadra. 492 171 380 158 28
+c 1112 8 407 441 Blue Yellow
+q cep-quadra. 493 340 492 157 81
+s 1112 401 482
+q cep-quadra. 494 16 277 31 71
+h 1113 336 14
+r 1114 89 117 10 353 Yellow Blue
+h 1115 247 185
+r 1116 196 181 68 356 Yellow Blue
+r 1116 114 158 209 87 Yellow Blue
+q cep-quadra. 495 498 6 64 92
+c 1116 0 487 402 Blue Yellow
+r 1117 84 68 142 196 Yellow Blue
+c 1117 38 382 183 Blue Yellow
+s 1118 277 188
+h 1118 221 219
+s 1119 495 223
+c 1119 42 294 341 Blue Yellow
+c 1120 35 50 50 Blue Yellow
+c 1120 18 6 283 Blue Yellow
+c 1120 18 91 29 Blue Yellow
+h 1120 52 418
+q cep-quadra. 496 64 23 4 175
+r 1120 18 177 148 468 Yellow Blue
+h 1121 447 450
+h 1121 236 230
+q cep-quadra. 497 406 412 91 95
+h 1121 282 249
+c 1122 27 266 320 Blue Yellow
+r 1123 19 73 487 192 Yellow Blue
+s 1123 82 41
+c 1124 30 83 105 Blue Yellow
+s 1124 188 385
+q cep-quadra. 498 384 438 100 162
+s 1124 270 172
+s 1124 342 316
+h 1124 378 189
+r 1125 63 86 321 155 Yellow Blue
+q cep-quadra. 499 451 151 107 104
+q cep-quadra. 500 174 349 107 49
+c 1127 31 229 33 Blue Yellow
+c 1127 19 166 252 Blue Yellow
+h 1128 175 114
+s 1129 397 51
+c 1130 39 282 365 Blue Yellow
+s 1130 156 141
+c 1131 8 156 62 Blue Yellow
+h 1132 295 122
+s 1133 487 89
+q cep-quadra. 501 448 419 16 49
+q cep-quadra. 502 138 136 100 136
+s 1133 232 166
+c 1134 47 180 483 Blue Yellow
+q cep-quadra. 503 209 389 41 50
+r 1136 36 90 267 407 Yellow Blue
+s 1137 177 211
+h 1138 131 45
+h 1139 322 435
+c 1139 32 130 209 Blue Yellow
+r 1139 170 76 499 408 Yellow Blue
+s 1140 157 198
+h 1140 216 49
+r 1141 97 183 422 273 Yellow Blue
+q cep-quadra. 504 184 259 134 105
+c 1141 4 252 29 Blue Yellow
+s 1142 497 440
+q cep-quadra. 505 448 79 95 10
+q cep-quadra. 506 211 301 102 139
+r 1144 100 65 227 295 Yellow Blue
+r 1144 199 139 107 205 Yellow Blue
+c 1144 9 205 105 Blue Yellow
+c 1144 6 310 150 Blue Yellow
+c 1144 20 380 216 Blue Yellow
+r 1144 69 193 308 305 Yellow Blue
+s 1144 329 360
+r 1144 125 16 21 300 Yellow Blue
+q cep-quadra. 507 393 247 20 65
+q cep-quadra. 508 459 198 62 170
+q cep-quadra. 509 447 14 168 148
+c 1145 10 319 157 Blue Yellow
+h 1145 294 222
+s 1145 178 8
+c 1145 13 262 382 Blue Yellow
+h 1145 362 281
+h 1146 278 275
+q cep-quadra. 510 92 173 180 70
+r 1148 93 13 246 280 Yellow Blue
+q cep-quadra. 511 183 282 63 58
+s 1150 199 68
+h 1150 440 3
+r 1151 26 0 217 99 Yellow Blue
+r 1152 198 55 439 267 Yellow Blue
+s 1152 315 179
+h 1153 414 395
+q cep-quadra. 512 465 47 37 14
+h 1154 193 173
+c 1155 10 496 87 Blue Yellow
+r 1156 3 23 255 267 Yellow Blue
+s 1157 223 4
+c 1158 45 118 195 Blue Yellow
+r 1159 34 115 459 465 Yellow Blue
+h 1159 359 422
+s 1159 45 64
+h 1159 97 3
+r 1159 171 72 209 267 Yellow Blue
+h 1159 298 125
+q cep-quadra. 513 200 340 151 187
+s 1160 342 220
+c 1160 0 124 106 Blue Yellow
+q cep-quadra. 514 336 296 20 132
+s 1161 183 86
+r 1162 163 105 460 159 Yellow Blue
+q cep-quadra. 515 149 53 38 149
+s 1163 227 391
+q cep-quadra. 516 55 90 178 84
+c 1164 15 348 293 Blue Yellow
+c 1165 33 355 354 Blue Yellow
+c 1165 37 242 22 Blue Yellow
+c 1165 6 240 77 Blue Yellow
+h 1166 429 410
+q cep-quadra. 517 72 448 178 163
+q cep-quadra. 518 400 6 112 153
+r 1167 3 112 451 154 Yellow Blue
+h 1167 78 53
+q cep-quadra. 519 24 368 51 83
+h 1167 2 487
+s 1167 414 52
+r 1168 96 175 31 424 Yellow Blue
+q cep-quadra. 520 213 313 86 118
+q cep-quadra. 521 47 178 144 8
+h 1168 209 408
+h 1168 390 415
+h 1169 378 88
+h 1169 189 361
+r 1169 150 22 10 103 Yellow Blue
+h 1170 156 285
+q cep-quadra. 522 420 344 144 166
+h 1171 186 403
+c 1171 12 65 456 Blue Yellow
+h 1172 243 228
+s 1172 218 457
+h 1173 304 202
+h 1173 173 122
+s 1174 456 318
+q cep-quadra. 523 341 81 137 35
+c 1175 5 383 451 Blue Yellow
+h 1176 87 362
+h 1177 48 35
+s 1177 51 298
+q cep-quadra. 524 285 115 127 13
+q cep-quadra. 525 63 5 111 48
+c 1179 45 356 168 Blue Yellow
+c 1180 15 484 233 Blue Yellow
+q cep-quadra. 526 322 280 133 13
+c 1181 14 162 136 Blue Yellow
+r 1181 27 70 195 423 Yellow Blue
+h 1181 437 276
+c 1182 37 0 61 Blue Yellow
+c 1182 45 350 263 Blue Yellow
+c 1182 9 23 191 Blue Yellow
+c 1183 28 177 120 Blue Yellow
+q cep-quadra. 527 0 43 61 174
+c 1184 9 373 324 Blue Yellow
+q cep-quadra. 528 329 166 78 40
+s 1185 444 136
+s 1186 368 415
+c 1186 17 460 393 Blue Yellow
+r 1186 98 71 115 197 Yellow Blue
+c 1187 1 67 234 Blue Yellow
+c 1187 4 473 207 Blue Yellow
+c 1188 9 107 309 Blue Yellow
+s 1189 398 387
+h 1189 489 294
+r 1190 12 16 317 430 Yellow Blue
+h 1191 6 247
+h 1192 453 208
+q cep-quadra. 529 320 427 15 106
+q cep-quadra. 530 396 436 127 192
+h 1192 484 417
+c 1193 16 112 163 Blue Yellow
+r 1193 105 186 407 315 Yellow Blue
+q cep-quadra. 531 436 39 170 21
+s 1194 2 298
+r 1195 198 194 233 457 Yellow Blue
+c 1195 48 259 193 Blue Yellow
+c 1196 6 376 361 Blue Yellow
+c 1197 8 306 404 Blue Yellow
+r 1197 79 191 100 350 Yellow Blue
+h 1198 115 142
+c 1198 14 276 143 Blue Yellow
+c 1199 24 473 261 Blue Yellow
+s 1199 466 254
+h 1199 86 133
+c 1199 23 280 110 Blue Yellow
+h 1199 54 234
+s 1200 480 196
+q cep-quadra. 532 0 319 41 43
+c 1202 11 91 413 Blue Yellow
+c 1202 5 378 213 Blue Yellow
+c 1203 34 335 240 Blue Yellow
+r 1204 174 94 484 76 Yellow Blue
+r 1204 152 65 259 44 Yellow Blue
+q cep-quadra. 533 434 152 67 162
+c 1205 11 110 139 Blue Yellow
+r 1205 9 146 69 119 Yellow Blue
+h 1205 175 374
+c 1205 46 433 227 Blue Yellow
+r 1205 11 42 126 330 Yellow Blue
+q cep-quadra. 534 184 374 96 11
+q cep-quadra. 535 53 310 179 87
+h 1207 21 181
+q cep-quadra. 536 392 281 78 148
+h 1208 188 255
+h 1208 325 259
+s 1209 219 379
+s 1209 240 145
+q cep-quadra. 537 209 231 13 9
+s 1211 122 389
+c 1211 1 330 20 Blue Yellow
+h 1212 356 149
+c 1212 29 303 325 Blue Yellow
+h 1213 210 483
+s 1213 247 405
+s 1214 66 418
+q cep-quadra. 538 262 61 8 87
+h 1215 273 444
+h 1216 253 478
+h 1216 475 465
+c 1216 7 394 375 Blue Yellow
+q cep-quadra. 539 269 138 99 150
+h 1216 414 304
+s 1216 477 446
+r 1217 9 56 36 149 Yellow Blue
+q cep-quadra. 540 480 361 44 169
+q cep-quadra. 541 309 388 84 27
+c 1218 23 58 167 Blue Yellow
+s 1219 355 349
+s 1219 1 350
+r 1219 142 127 14 310 Yellow Blue
+h 1220 437 354
+h 1221 476 498
+c 1221 26 414 35 Blue Yellow
+s 1222 490 363
+s 1223 458 227
+s 1224 60 102
+q cep-quadra. 542 330 349 105 117
+h 1225 297 118
+r 1225 152 193 486 225 Yellow Blue
+c 1225 43 205 141 Blue Yellow
+s 1225 90 302
+h 1226 165 237
+r 1226 191 55 188 177 Yellow Blue
+h 1226 52 94
+q cep-quadra. 543 457 216 133 108
+h 1226 211 346
+q cep-quadra. 544 190 333 160 123
+r 1226 30 4 220 307 Yellow Blue
+s 1227 98 298
+r 1227 9 79 257 446 Yellow Blue
+h 1227 296 195
+c 1228 8 143 476 Blue Yellow
+s 1229 144 27
+s 1229 109 398
+s 1229 64 95
+h 1229 138 301
+c 1229 11 299 381 Blue Yellow
+r 1230 137 158 47 66 Yellow Blue
+h 1230 168 0
+r 1231 89 72 164 166 Yellow Blue
+h 1232 199 193
+s 1232 127 105
+q cep-quadra. 545 307 169 97 117
+c 1233 12 34 481 Blue Yellow
+q cep-quadra. 546 154 336 29 166
+r 1234 29 143 263 164 Yellow Blue
+s 1235 294 161
+r 1235 65 156 24 194 Yellow Blue
+r 1236 31 53 120 487 Yellow Blue
+c 1236 34 487 247 Blue Yellow
+r 1236 183 184 480 490 Yellow Blue
+r 1237 127 81 409 29 Yellow Blue
+c 1238 19 81 458 Blue Yellow
+h 1239 292 145
+q cep-quadra. 547 23 111 199 56
+q cep-quadra. 548 344 369 186 12
+r 1241 12 186 473 172 Yellow Blue
+r 1241 96 152 489 327 Yellow Blue
+q cep-quadra. 549 294 84 66 151
+r 1242 40 144 427 168 Yellow Blue
+s 1243 358 469
+h 1243 390 74
+c 1243 29 291 339 Blue Yellow
+h 1243 212 455
+s 1243 324 43
+h 1243 167 393
+s 1243 495 332
+r 1243 126 19 322 238 Yellow Blue
+r 1244 14 178 451 417 Yellow Blue
+h 1244 387 275
+c 1244 44 396 199 Blue Yellow
+q cep-quadra. 550 453 115 47 158
+q cep-quadra. 551 346 138 23 139
+r 1245 15 120 191 213 Yellow Blue
+r 1245 184 115 288 448 Yellow Blue
+h 1246 194 131
+r 1247 30 139 436 4 Yellow Blue
+r 1248 142 91 142 153 Yellow Blue
+c 1248 18 276 94 Blue Yellow
+s 1249 248 269
+q cep-quadra. 552 322 349 79 141
+r 1250 85 199 453 48 Yellow Blue
+r 1251 122 177 243 58 Yellow Blue
+c 1251 36 432 331 Blue Yellow
+s 1251 17 20
+h 1251 288 16
+s 1251 268 458
+q cep-quadra. 553 463 379 197 133
+c 1252 41 330 127 Blue Yellow
+c 1252 32 125 187 Blue Yellow
+h 1253 15 401
+h 1254 32 50
+r 1254 160 49 438 251 Yellow Blue
+s 1254 131 142
+c 1255 8 85 120 Blue Yellow
+q cep-quadra. 554 91 192 128 136
+c 1256 35 318 344 Blue Yellow
+q cep-quadra. 555 61 403 101 181
+r 1258 18 41 485 447 Yellow Blue
+s 1259 60 312
+r 1260 31 91 412 430 Yellow Blue
+s 1260 449 368
+c 1260 43 282 379 Blue Yellow
+r 1260 195 194 285 495 Yellow Blue
+c 1260 47 224 313 Blue Yellow
+s 1261 274 487
+r 1262 122 134 34 294 Yellow Blue
+q cep-quadra. 556 186 50 186 121
+q cep-quadra. 557 75 462 21 49
+r 1264 157 40 349 466 Yellow Blue
+h 1264 411 399
+h 1264 56 374
+h 1264 65 317
+r 1265 192 54 418 299 Yellow Blue
+h 1266 382 327
+c 1266 27 355 435 Blue Yellow
+s 1266 311 277
+c 1266 43 24 189 Blue Yellow
+c 1266 33 265 60 Blue Yellow
+q cep-quadra. 558 115 183 180 78
+h 1266 467 273
+s 1266 359 227
+r 1266 100 11 345 306 Yellow Blue
+h 1266 288 65
+s 1266 34 220
+s 1266 314 300
+s 1266 33 196
+q cep-quadra. 559 291 94 52 91
+q cep-quadra. 560 46 420 126 53
+h 1268 226 316
+r 1268 148 170 110 336 Yellow Blue
+s 1269 477 79
+c 1269 38 30 198 Blue Yellow
+q cep-quadra. 561 406 376 28 58
+q cep-quadra. 562 333 198 88 41
+r 1270 74 10 111 76 Yellow Blue
+c 1271 5 434 73 Blue Yellow
+r 1272 164 112 177 499 Yellow Blue
+h 1273 452 344
+q cep-quadra. 563 264 372 162 36
+r 1274 146 56 354 232 Yellow Blue
+q cep-quadra. 564 458 22 169 52
+r 1274 138 26 335 33 Yellow Blue
+s 1275 299 179
+h 1276 275 135
+c 1277 8 217 173 Blue Yellow
+c 1277 26 296 368 Blue Yellow
+r 1278 152 76 415 64 Yellow Blue
+c 1279 18 36 396 Blue Yellow
+h 1279 303 224
+r 1280 40 23 369 185 Yellow Blue
+r 1280 194 39 410 324 Yellow Blue
+h 1281 126 305
+h 1282 369 302
+r 1283 66 114 406 208 Yellow Blue
+s 1283 107 147
+r 1284 57 91 393 307 Yellow Blue
+s 1285 320 278
+h 1285 356 275
+r 1285 178 174 20 254 Yellow Blue
+q cep-quadra. 565 429 430 15 163
+r 1286 193 77 449 438 Yellow Blue
+s 1286 23 414
+c 1286 18 379 335 Blue Yellow
+q cep-quadra. 566 382 62 37 47
+s 1288 66 129
+r 1288 64 189 327 278 Yellow Blue
+s 1288 367 333
+h 1288 319 141
+q cep-quadra. 567 356 12 189 154
+c 1289 15 56 18 Blue Yellow
+q cep-quadra. 568 304 122 162 189
+h 1291 128 291
+q cep-quadra. 569 112 43 148 152
+h 1292 2 336
+h 1292 282 423
+s 1293 86 315
+r 1293 184 28 361 453 Yellow Blue
+s 1293 10 62
+h 1293 475 268
+h 1293 332 392
+s 1293 153 31
+s 1294 423 222
+c 1295 3 449 13 Blue Yellow
+c 1296 19 300 332 Blue Yellow
+s 1296 99 228
+h 1296 490 423
+h 1296 157 59
+h 1296 346 246
+c 1296 5 29 477 Blue Yellow
+r 1296 159 148 135 167 Yellow Blue
+s 1297 85 244
+r 1297 176 74 156 44 Yellow Blue
+h 1297 377 211
+q cep-quadra. 570 61 236 69 196
+h 1297 236 284
+s 1297 329 20
+q cep-quadra. 571 81 379 124 149
+s 1297 177 346
+s 1297 119 460
+r 1297 68 74 88 278 Yellow Blue
+s 1297 75 150
+c 1297 30 379 439 Blue Yellow
+s 1298 496 356
+h 1298 467 188
+q cep-quadra. 572 73 23 50 131
+c 1298 40 211 200 Blue Yellow
+h 1298 407 170
+r 1298 4 6 412 228 Yellow Blue
+q cep-quadra. 573 17 379 164 38
+r 1298 62 178 162 410 Yellow Blue
+c 1298 32 472 133 Blue Yellow
+c 1298 21 160 254 Blue Yellow
+c 1299 34 217 322 Blue Yellow
+r 1299 160 93 445 454 Yellow Blue
+c 1299 21 343 339 Blue Yellow
+q cep-quadra. 574 301 196 61 160
+s 1300 15 326
+q cep-quadra. 575 317 278 66 20
+h 1302 231 400
+c 1302 42 239 494 Blue Yellow
+s 1302 116 416
+r 1302 78 173 484 227 Yellow Blue
+r 1303 12 191 5 239 Yellow Blue
+q cep-quadra. 576 295 319 58 90
+c 1305 40 65 75 Blue Yellow
+h 1305 244 5
+q cep-quadra. 577 477 369 73 149
+s 1307 445 326
+s 1308 378 62
+h 1309 1 86
+h 1309 484 360
+q cep-quadra. 578 179 24 0 4
+r 1309 160 40 216 79 Yellow Blue
+s 1309 162 194
+r 1310 118 127 267 117 Yellow Blue
+c 1310 1 452 44 Blue Yellow
+h 1310 486 482
+h 1310 138 302
+c 1311 25 66 494 Blue Yellow
+q cep-quadra. 579 375 28 84 167
+c 1312 48 475 272 Blue Yellow
+h 1312 113 67
+h 1312 443 374
+h 1313 317 187
+h 1313 69 416
+h 1313 470 292
+q cep-quadra. 580 440 117 173 175
+h 1314 142 56
+c 1314 39 196 329 Blue Yellow
+r 1315 196 72 211 75 Yellow Blue
+h 1316 250 273
+r 1316 18 32 109 473 Yellow Blue
+r 1317 84 191 348 321 Yellow Blue
+s 1318 189 102
+c 1318 40 31 134 Blue Yellow
+r 1318 114 183 396 163 Yellow Blue
+c 1319 32 339 189 Blue Yellow
+c 1319 27 250 356 Blue Yellow
+s 1319 415 243
+r 1320 123 27 485 370 Yellow Blue
+s 1320 226 123
+h 1321 435 97
+h 1321 219 423
+s 1322 137 138
+q cep-quadra. 581 409 467 1 123
+r 1323 170 43 341 146 Yellow Blue
+c 1323 31 197 495 Blue Yellow
+c 1323 22 407 492 Blue Yellow
+c 1323 24 16 77 Blue Yellow
+h 1324 466 357
+h 1324 478 172
+h 1325 44 71
+s 1326 22 392
+r 1327 157 194 421 175 Yellow Blue
+q cep-quadra. 582 235 327 28 119
+c 1327 1 101 88 Blue Yellow
+q cep-quadra. 583 35 287 30 61
+c 1327 17 21 172 Blue Yellow
+q cep-quadra. 584 43 384 111 91
+c 1327 49 276 101 Blue Yellow
+s 1327 240 255
+c 1327 6 280 303 Blue Yellow
+h 1328 396 459
+h 1328 150 215
+s 1329 379 78
+s 1329 295 50
+c 1329 26 398 296 Blue Yellow
+c 1329 21 235 101 Blue Yellow
+q cep-quadra. 585 31 457 193 94
+c 1330 46 250 369 Blue Yellow
+s 1330 166 63
+c 1330 35 12 109 Blue Yellow
+c 1330 23 269 423 Blue Yellow
+h 1331 108 271
+c 1331 49 288 263 Blue Yellow
+q cep-quadra. 586 363 59 67 109
+h 1333 141 428
+h 1334 191 237
+r 1334 45 79 88 299 Yellow Blue
+c 1334 4 276 206 Blue Yellow
+h 1335 188 58
+c 1335 12 23 40 Blue Yellow
+h 1335 24 418
+s 1335 358 350
+q cep-quadra. 587 462 275 7 55
+q cep-quadra. 588 277 19 93 60
+s 1337 38 50
+h 1338 28 379
+q cep-quadra. 589 390 362 178 60
+h 1339 222 237
+s 1340 278 314
+c 1340 31 310 219 Blue Yellow
+r 1341 36 31 472 456 Yellow Blue
+r 1342 66 83 327 123 Yellow Blue
+c 1342 13 145 369 Blue Yellow
+c 1343 39 46 334 Blue Yellow
+r 1343 192 136 251 248 Yellow Blue
+c 1344 33 208 117 Blue Yellow
+r 1344 123 187 449 327 Yellow Blue
+r 1344 23 50 56 193 Yellow Blue
+r 1344 29 0 20 416 Yellow Blue
+q cep-quadra. 590 6 437 115 2
+s 1344 116 395
+q cep-quadra. 591 351 81 141 89
+q cep-quadra. 592 164 322 114 155
+s 1346 291 110
+c 1346 18 439 150 Blue Yellow
+s 1346 153 41
+c 1347 42 400 53 Blue Yellow
+r 1347 41 124 485 51 Yellow Blue
+r 1347 12 104 445 76 Yellow Blue
+h 1347 304 161
+c 1347 33 116 257 Blue Yellow
+r 1348 120 189 187 356 Yellow Blue
+q cep-quadra. 593 3 492 13 97
+h 1348 196 447
+c 1348 18 392 323 Blue Yellow
+h 1348 52 135
+r 1348 100 72 40 304 Yellow Blue
+h 1349 70 252
+r 1349 64 105 292 499 Yellow Blue
+q cep-quadra. 594 357 305 110 163
+h 1350 456 431
+q cep-quadra. 595 185 190 150 132
+q cep-quadra. 596 270 188 31 63
+q cep-quadra. 597 433 365 50 16
+r 1350 66 185 231 107 Yellow Blue
+s 1350 323 193
+h 1350 255 325
+s 1350 456 130
+r 1350 83 26 156 273 Yellow Blue
+c 1350 30 250 216 Blue Yellow
+c 1351 39 30 418 Blue Yellow
+c 1351 43 465 241 Blue Yellow
+r 1352 196 125 223 485 Yellow Blue
+r 1353 27 1 365 248 Yellow Blue
+q cep-quadra. 598 406 117 172 155
+s 1354 341 276
+q cep-quadra. 599 205 434 147 33
+q cep-quadra. 600 102 428 12 188
+s 1355 20 29
+s 1356 114 413
+h 1357 400 495
+s 1357 288 193
+r 1357 101 106 353 418 Yellow Blue
+r 1358 190 178 448 87 Yellow Blue
+h 1358 282 481
+q cep-quadra. 601 330 457 122 133
+q cep-quadra. 602 414 455 78 91
+c 1359 23 0 156 Blue Yellow
+q cep-quadra. 603 281 292 161 0
+q cep-quadra. 604 394 238 100 13
+s 1360 497 424
+h 1360 264 281
+q cep-quadra. 605 104 43 18 51
+h 1361 290 413
+r 1361 38 72 197 466 Yellow Blue
+r 1361 40 8 281 60 Yellow Blue
+q cep-quadra. 606 211 291 149 90
+r 1362 0 170 59 306 Yellow Blue
+h 1362 33 337
+s 1362 467 37
+q cep-quadra. 607 34 165 157 116
+r 1362 188 160 369 379 Yellow Blue
+r 1363 34 191 180 305 Yellow Blue
+h 1364 347 256
+s 1364 82 298
+c 1364 30 161 254 Blue Yellow
+c 1365 4 286 417 Blue Yellow
+h 1365 406 215
+c 1366 35 372 378 Blue Yellow
+r 1367 147 108 451 231 Yellow Blue
+q cep-quadra. 608 490 252 128 6
+q cep-quadra. 609 493 433 141 50
+c 1368 12 113 395 Blue Yellow
+s 1368 273 150
+r 1369 39 98 233 93 Yellow Blue
+h 1370 446 133
+s 1371 266 375
+q cep-quadra. 610 429 312 46 144
+q cep-quadra. 611 208 272 101 112
+c 1373 29 107 217 Blue Yellow
+s 1373 201 131
+h 1374 92 62
+r 1375 177 145 93 174 Yellow Blue
+h 1376 493 465
+c 1377 42 107 464 Blue Yellow
+r 1378 44 106 284 347 Yellow Blue
+h 1378 64 12
+h 1379 382 177
+q cep-quadra. 612 451 80 48 159
+s 1380 479 444
+r 1381 104 3 240 76 Yellow Blue
+s 1381 387 489
+h 1382 384 355
+q cep-quadra. 613 199 428 147 28
+q cep-quadra. 614 228 215 141 136
+r 1383 139 133 254 182 Yellow Blue
+c 1383 46 296 63 Blue Yellow
+r 1383 173 74 293 128 Yellow Blue
+h 1384 8 41
+q cep-quadra. 615 256 83 144 196
+c 1386 21 432 383 Blue Yellow
+h 1386 141 209
+r 1386 165 60 178 137 Yellow Blue
+c 1387 9 44 364 Blue Yellow
+s 1387 328 107
+h 1387 102 48
+s 1388 392 439
+q cep-quadra. 616 175 5 67 65
+h 1389 457 362
+h 1390 91 248
+c 1390 10 423 460 Blue Yellow
+h 1390 301 467
+s 1391 41 367
+s 1391 268 138
+q cep-quadra. 617 470 196 34 111
+s 1391 442 331
+c 1392 12 272 494 Blue Yellow
+h 1392 450 91
+r 1392 94 160 167 402 Yellow Blue
+q cep-quadra. 618 85 394 30 92
+r 1393 10 133 416 311 Yellow Blue
+r 1393 145 78 86 86 Yellow Blue
+s 1394 278 364
+c 1394 37 279 373 Blue Yellow
+h 1394 234 131
+c 1394 17 23 185 Blue Yellow
+h 1394 34 487
+s 1395 234 401
+q cep-quadra. 619 96 150 167 73
+h 1396 313 253
+r 1396 190 119 317 131 Yellow Blue
+q cep-quadra. 620 37 31 45 52
+r 1397 31 6 224 425 Yellow Blue
+r 1397 71 87 201 130 Yellow Blue
+q cep-quadra. 621 428 102 178 111
+r 1397 2 53 361 365 Yellow Blue
+s 1397 239 484
+s 1397 61 7
+q cep-quadra. 622 456 438 111 135
+q cep-quadra. 623 233 63 128 127
+h 1399 479 245
+c 1399 31 188 414 Blue Yellow
+r 1400 66 84 476 381 Yellow Blue
+r 1401 3 72 235 62 Yellow Blue
+r 1402 192 152 439 177 Yellow Blue
+h 1403 462 303
+c 1403 19 155 217 Blue Yellow
+h 1403 61 396
+r 1404 164 144 339 403 Yellow Blue
+q cep-quadra. 624 205 220 114 50
+s 1405 349 197
+h 1406 296 313
+s 1406 337 426
+s 1407 328 158
+c 1407 7 190 345 Blue Yellow
+s 1407 457 323
+r 1407 99 59 499 402 Yellow Blue
+q cep-quadra. 625 293 181 189 142
+r 1407 172 60 489 446 Yellow Blue
+h 1408 180 150
+r 1408 137 97 384 239 Yellow Blue
+h 1408 238 5
+q cep-quadra. 626 129 135 47 46
+q cep-quadra. 627 152 201 111 10
+h 1410 242 201
+s 1411 293 135
+c 1411 21 499 207 Blue Yellow
+q cep-quadra. 628 55 364 195 119
+q cep-quadra. 629 480 324 117 168
+q cep-quadra. 630 91 423 146 145
+q cep-quadra. 631 489 441 188 39
+q cep-quadra. 632 176 449 71 25
+s 1413 1 2
+c 1414 28 493 305 Blue Yellow
+q cep-quadra. 633 330 110 78 154
+h 1415 187 74
+r 1416 37 14 81 42 Yellow Blue
+h 1417 490 400
+s 1418 342 447
+h 1419 381 175
+s 1419 318 434
+s 1419 12 204
+h 1419 104 474
+r 1420 100 4 293 144 Yellow Blue
+r 1420 12 167 47 330 Yellow Blue
+q cep-quadra. 634 180 318 123 65
+s 1421 289 138
+h 1422 92 47
+c 1423 45 211 394 Blue Yellow
+h 1424 472 273
+q cep-quadra. 635 470 459 68 90
+h 1426 99 137
+q cep-quadra. 636 7 449 145 6
+s 1426 268 9
+c 1427 45 142 132 Blue Yellow
+q cep-quadra. 637 91 214 42 164
+s 1429 370 342
+q cep-quadra. 638 136 433 181 140
+q cep-quadra. 639 485 92 101 83
+r 1430 66 168 340 426 Yellow Blue
+q cep-quadra. 640 344 212 179 20
+r 1432 3 73 482 200 Yellow Blue
+c 1432 2 277 375 Blue Yellow
+h 1432 339 153
+h 1432 469 496
+r 1432 182 141 495 248 Yellow Blue
+q cep-quadra. 641 213 339 35 110
+h 1432 428 418
+q cep-quadra. 642 151 51 17 196
+q cep-quadra. 643 137 168 142 110
+c 1432 28 348 489 Blue Yellow
+h 1432 68 289
+c 1433 25 396 459 Blue Yellow
+c 1434 0 483 483 Blue Yellow
+r 1434 152 92 269 95 Yellow Blue
+q cep-quadra. 644 130 430 181 63
+c 1434 29 488 347 Blue Yellow
+c 1435 45 30 7 Blue Yellow
+h 1435 90 173
+r 1436 163 130 261 169 Yellow Blue
+s 1437 264 472
+c 1438 27 295 327 Blue Yellow
+r 1439 192 146 3 326 Yellow Blue
+r 1440 101 82 374 185 Yellow Blue
+q cep-quadra. 645 455 128 120 115
+q cep-quadra. 646 75 398 191 60
+q cep-quadra. 647 331 69 4 24
+h 1440 170 5
+r 1440 74 8 326 28 Yellow Blue
+s 1441 143 341
+s 1441 64 152
+c 1441 13 418 288 Blue Yellow
+q cep-quadra. 648 39 147 155 64
+q cep-quadra. 649 188 328 13 169
+c 1441 20 289 146 Blue Yellow
+r 1442 10 42 265 345 Yellow Blue
+h 1443 413 216
+q cep-quadra. 650 210 360 154 41
+c 1443 30 190 306 Blue Yellow
+r 1443 98 66 293 487 Yellow Blue
+r 1443 148 49 24 28 Yellow Blue
+s 1443 153 352
+h 1443 465 387
+q cep-quadra. 651 222 123 136 125
+q cep-quadra. 652 283 285 191 83
+c 1444 35 219 75 Blue Yellow
+q cep-quadra. 653 168 392 187 65
+q cep-quadra. 654 301 372 50 189
+c 1446 34 44 382 Blue Yellow
+s 1447 170 21
+q cep-quadra. 655 389 179 144 172
+r 1447 19 51 380 473 Yellow Blue
+h 1447 3 381
+s 1447 468 124
+s 1447 486 463
+h 1447 161 73
+c 1447 13 339 6 Blue Yellow
+c 1447 14 21 191 Blue Yellow
+r 1447 17 100 74 366 Yellow Blue
+h 1447 140 426
+r 1447 105 142 1 272 Yellow Blue
+q cep-quadra. 656 222 459 185 17
+s 1448 27 297
+r 1448 66 142 103 444 Yellow Blue
+q cep-quadra. 657 168 56 31 100
+s 1448 70 420
+c 1448 10 390 487 Blue Yellow
+h 1448 415 87
+s 1449 312 237
+r 1449 148 165 294 26 Yellow Blue
+s 1450 272 45
+c 1451 31 278 168 Blue Yellow
+s 1451 6 491
+h 1452 340 105
+s 1452 301 86
+q cep-quadra. 658 299 415 42 174
+h 1453 389 54
+s 1453 439 471
+q cep-quadra. 659 463 134 118 112
+c 1453 42 220 202 Blue Yellow
+s 1453 291 166
+q cep-quadra. 660 65 67 23 28
+c 1453 29 239 61 Blue Yellow
+q cep-quadra. 661 494 374 30 174
+r 1455 49 135 261 215 Yellow Blue
+q cep-quadra. 662 77 445 135 142
+h 1455 415 229
+c 1455 2 301 107 Blue Yellow
+q cep-quadra. 663 317 45 66 28
+h 1456 117 113
+s 1456 488 232
+r 1456 88 5 84 319 Yellow Blue
+h 1457 183 156
+r 1458 13 61 329 101 Yellow Blue
+r 1458 81 69 379 472 Yellow Blue
+h 1459 476 314
+s 1459 68 97
+q cep-quadra. 664 209 182 110 193
+r 1460 83 1 468 316 Yellow Blue
+r 1461 136 188 69 315 Yellow Blue
+q cep-quadra. 665 19 335 0 28
+c 1461 38 120 482 Blue Yellow
+c 1462 40 280 228 Blue Yellow
+h 1463 446 69
+s 1463 377 368
+c 1463 45 440 170 Blue Yellow
+s 1463 41 481
+q cep-quadra. 666 251 161 193 183
+q cep-quadra. 667 408 143 149 117
+c 1465 2 263 95 Blue Yellow
+q cep-quadra. 668 478 165 184 176
+r 1467 143 44 459 296 Yellow Blue
+r 1467 1 189 498 190 Yellow Blue
+s 1467 171 293
+s 1468 456 272
+s 1468 146 481
+r 1468 14 103 385 88 Yellow Blue
+r 1468 157 195 56 97 Yellow Blue
+r 1468 4 75 96 253 Yellow Blue
+c 1469 26 366 383 Blue Yellow
+r 1470 187 25 33 71 Yellow Blue
+s 1470 243 447
+c 1470 36 477 279 Blue Yellow
+q cep-quadra. 669 478 341 6 71
+s 1472 224 149
+c 1473 42 476 42 Blue Yellow
+c 1474 17 128 218 Blue Yellow
+c 1474 12 273 20 Blue Yellow
+s 1474 179 133
+r 1475 128 171 398 309 Yellow Blue
+q cep-quadra. 670 195 394 91 122
+q cep-quadra. 671 220 259 9 151
+c 1477 8 171 208 Blue Yellow
+s 1477 371 69
+q cep-quadra. 672 131 485 22 178
+s 1478 328 379
+c 1479 42 46 40 Blue Yellow
+r 1479 66 130 450 291 Yellow Blue
+s 1480 110 9
+s 1481 216 210
+s 1482 395 261
+c 1482 25 446 38 Blue Yellow
+h 1483 135 499
+s 1484 291 318
+h 1485 292 86
+h 1485 435 138
+s 1486 261 39
+h 1486 296 72
+q cep-quadra. 673 132 168 176 131
+c 1487 44 136 164 Blue Yellow
+r 1487 15 176 132 342 Yellow Blue
+s 1487 279 386
+r 1488 184 189 20 53 Yellow Blue
+h 1489 480 219
+r 1490 134 87 457 218 Yellow Blue
+s 1491 33 388
+s 1491 476 112
+s 1492 53 130
+s 1493 102 247
+s 1493 169 126
+q cep-quadra. 674 445 364 14 17
+q cep-quadra. 675 171 113 149 16
+q cep-quadra. 676 100 49 42 128
+c 1493 0 151 21 Blue Yellow
+r 1493 80 20 347 220 Yellow Blue
+c 1493 20 220 323 Blue Yellow
+s 1493 411 408
+r 1494 156 104 365 69 Yellow Blue
+h 1494 398 237
+h 1495 286 133
+r 1496 174 168 21 418 Yellow Blue
+c 1496 5 26 135 Blue Yellow
+s 1497 232 167
+s 1498 92 316
+r 1499 17 46 388 121 Yellow Blue
+s 1499 66 292
+r 1500 38 30 15 489 Yellow Blue
+c 1500 33 50 311 Blue Yellow
+s 1500 373 412
+r 1501 115 40 32 157 Yellow Blue
+r 1501 49 118 303 437 Yellow Blue
+r 1501 9 39 267 377 Yellow Blue
+c 1501 3 188 299 Blue Yellow
+c 1501 27 346 232 Blue Yellow
+h 1501 348 225
+s 1501 1 394
+q cep-quadra. 677 461 304 161 46
+s 1502 105 446
+s 1502 73 325
+h 1502 133 68
+h 1502 119 27
+h 1502 341 361
+h 1502 441 162
+s 1503 135 402
+r 1503 147 119 259 97 Yellow Blue
+c 1503 33 73 365 Blue Yellow
+r 1504 197 108 288 291 Yellow Blue
+s 1504 122 353
+q cep-quadra. 678 109 234 75 107
+c 1506 22 68 98 Blue Yellow
+h 1506 266 126
+s 1507 59 421
+s 1507 365 124
+c 1507 33 61 492 Blue Yellow
+c 1507 49 346 104 Blue Yellow
+c 1507 14 450 262 Blue Yellow
+c 1507 10 323 303 Blue Yellow
+h 1507 340 393
+c 1508 36 322 216 Blue Yellow
+h 1508 367 159
+q cep-quadra. 679 164 276 117 137
+q cep-quadra. 680 80 459 59 114
+h 1510 39 7
+s 1511 76 370
+h 1512 445 425
+q cep-quadra. 681 345 213 19 55
+s 1513 2 407
+s 1514 44 307
+q cep-quadra. 682 95 284 89 114
+h 1514 235 398
+h 1514 390 25
+r 1515 127 16 43 315 Yellow Blue
+h 1516 398 393
+r 1517 74 148 277 125 Yellow Blue
+s 1517 258 34
+r 1517 87 132 211 9 Yellow Blue
+c 1517 28 136 18 Blue Yellow
+s 1518 416 112
+r 1519 101 120 112 390 Yellow Blue
+s 1519 427 342
+s 1520 201 298
+q cep-quadra. 683 100 384 74 165
+c 1521 15 344 132 Blue Yellow
+s 1521 88 456
+c 1522 3 266 205 Blue Yellow
+q cep-quadra. 684 71 319 14 134
+h 1522 102 208
+q cep-quadra. 685 464 257 106 73
+h 1523 1 111
+h 1523 274 383
+c 1524 45 137 326 Blue Yellow
+h 1525 349 270
+c 1525 22 198 56 Blue Yellow
+r 1525 103 193 349 310 Yellow Blue
+r 1526 22 196 364 211 Yellow Blue
+h 1526 335 221
+s 1527 74 17
+r 1527 53 46 463 60 Yellow Blue
+r 1528 39 61 168 414 Yellow Blue
+h 1528 310 239
+h 1528 339 451
+q cep-quadra. 686 401 54 106 63
+s 1529 162 411
+h 1530 306 238
+q cep-quadra. 687 241 383 68 140
+h 1531 94 12
+q cep-quadra. 688 314 118 187 26
+c 1531 33 159 19 Blue Yellow
+r 1531 152 58 301 278 Yellow Blue
+q cep-quadra. 689 299 417 32 158
+q cep-quadra. 690 48 300 24 117
+r 1532 8 70 119 460 Yellow Blue
+h 1532 331 304
+r 1532 105 174 436 200 Yellow Blue
+r 1533 102 143 410 345 Yellow Blue
+h 1534 215 125
+c 1534 9 257 385 Blue Yellow
+h 1535 112 439
+c 1536 25 20 317 Blue Yellow
+q cep-quadra. 691 494 472 111 107
+r 1537 80 135 95 256 Yellow Blue
+q cep-quadra. 692 437 11 40 47
+r 1538 39 3 160 249 Yellow Blue
+s 1538 225 436
+s 1539 66 262
+q cep-quadra. 693 198 118 79 30
+r 1541 152 61 203 232 Yellow Blue
+h 1542 344 458
+q cep-quadra. 694 408 188 106 70
+r 1543 33 71 297 177 Yellow Blue
+c 1543 15 398 202 Blue Yellow
+q cep-quadra. 695 313 20 23 190
+c 1543 18 217 260 Blue Yellow
+s 1543 374 278
+r 1544 48 89 358 64 Yellow Blue
+h 1544 199 403
+h 1544 66 2
+q cep-quadra. 696 343 431 191 175
+r 1546 30 99 72 194 Yellow Blue
+c 1547 34 251 154 Blue Yellow
+r 1548 34 197 39 112 Yellow Blue
+s 1548 226 359
+q cep-quadra. 697 325 255 77 43
+h 1549 470 262
+q cep-quadra. 698 71 62 27 30
+h 1550 236 247
+s 1551 45 437
+c 1551 29 339 91 Blue Yellow
+c 1551 11 238 119 Blue Yellow
+r 1551 141 71 95 255 Yellow Blue
+s 1551 13 20
+r 1552 59 83 396 412 Yellow Blue
+c 1553 45 192 381 Blue Yellow
+r 1553 74 169 0 222 Yellow Blue
+h 1553 98 308
+c 1554 33 448 212 Blue Yellow
+s 1554 68 391
+q cep-quadra. 699 420 476 50 120
+c 1556 9 382 340 Blue Yellow
+r 1557 49 22 40 348 Yellow Blue
+q cep-quadra. 700 204 44 160 54
+q cep-quadra. 701 220 497 103 72
+s 1557 166 5
+q cep-quadra. 702 76 73 49 77
+h 1558 6 71
+r 1558 147 86 228 205 Yellow Blue
+c 1559 42 360 187 Blue Yellow
+s 1559 29 65
+s 1559 458 304
+c 1559 24 421 311 Blue Yellow
+r 1559 29 56 128 75 Yellow Blue
+h 1560 268 65
+h 1560 64 60
+c 1560 1 396 49 Blue Yellow
+s 1560 435 109
+s 1561 29 1
+c 1561 8 132 62 Blue Yellow
+c 1562 31 460 372 Blue Yellow
+h 1563 6 189
+q cep-quadra. 703 409 98 189 163
+q cep-quadra. 704 464 116 100 198
+h 1565 211 238
+h 1565 394 422
+r 1565 76 127 40 111 Yellow Blue
+h 1565 228 306
+r 1566 164 109 257 49 Yellow Blue
+r 1567 137 176 286 409 Yellow Blue
+h 1568 264 5
+c 1569 32 380 340 Blue Yellow
+c 1569 1 99 220 Blue Yellow
+s 1569 259 73
+c 1570 47 324 412 Blue Yellow
+h 1570 22 148
+s 1570 230 263
+r 1571 0 195 433 432 Yellow Blue
+s 1571 296 385
+h 1572 288 99
+s 1572 186 214
+h 1572 385 377
+h 1573 41 113
+s 1573 135 441
+c 1574 18 247 317 Blue Yellow
+s 1574 20 457
+q cep-quadra. 705 280 385 179 2
+h 1574 407 391
+q cep-quadra. 706 384 93 94 158
+r 1575 136 75 171 99 Yellow Blue
+h 1575 220 376
+h 1575 70 255
+r 1576 62 82 419 233 Yellow Blue
+c 1576 18 470 24 Blue Yellow
+c 1577 7 166 95 Blue Yellow
+h 1578 198 431
+r 1578 96 145 32 166 Yellow Blue
+q cep-quadra. 707 3 455 6 14
+s 1578 29 147
+q cep-quadra. 708 149 116 54 88
+r 1579 129 160 376 450 Yellow Blue
+q cep-quadra. 709 323 336 98 89
+h 1579 15 360
+r 1579 168 57 42 103 Yellow Blue
+h 1580 305 243
+c 1580 40 335 179 Blue Yellow
+c 1581 18 366 87 Blue Yellow
+q cep-quadra. 710 495 138 38 0
+h 1582 198 362
+r 1583 142 152 226 455 Yellow Blue
+c 1584 38 298 400 Blue Yellow
+c 1584 35 478 467 Blue Yellow
+h 1584 481 497
+q cep-quadra. 711 286 410 163 104
+h 1584 467 108
+s 1584 21 475
+q cep-quadra. 712 68 87 45 42
+r 1585 96 197 135 49 Yellow Blue
+s 1585 419 199
+q cep-quadra. 713 470 339 56 157
+c 1585 36 457 353 Blue Yellow
+h 1585 187 439
+h 1585 282 198
+c 1585 3 318 374 Blue Yellow
+h 1585 163 310
+r 1585 64 124 391 19 Yellow Blue
+q cep-quadra. 714 460 472 45 120
+q cep-quadra. 715 146 82 83 74
+h 1585 88 192
+q cep-quadra. 716 320 160 36 89
+c 1586 43 2 114 Blue Yellow
+q cep-quadra. 717 439 283 185 25
+c 1586 37 243 337 Blue Yellow
+c 1587 12 221 55 Blue Yellow
+h 1588 35 315
+c 1588 49 91 30 Blue Yellow
+r 1588 39 165 73 15 Yellow Blue
+s 1589 76 328
+q cep-quadra. 718 18 99 1 144
+h 1590 437 14
+h 1590 26 192
+h 1591 167 343
+s 1591 240 161
+h 1592 198 192
+c 1593 34 23 147 Blue Yellow
+s 1593 401 80
+h 1594 467 13
+h 1594 191 369
+q cep-quadra. 719 222 124 47 167
+q cep-quadra. 720 123 284 79 8
+r 1596 17 63 428 449 Yellow Blue
+c 1596 10 393 411 Blue Yellow
+r 1596 24 138 145 114 Yellow Blue
+q cep-quadra. 721 358 300 152 21
+s 1597 315 3
+h 1598 250 212
+s 1599 331 251
+h 1600 94 93
+h 1600 150 262
+s 1600 230 263
+c 1601 27 139 386 Blue Yellow
+q cep-quadra. 722 3 426 51 56
+q cep-quadra. 723 84 125 87 67
+r 1602 137 115 278 363 Yellow Blue
+q cep-quadra. 724 207 123 4 15
+c 1602 3 310 258 Blue Yellow
+r 1602 124 183 183 258 Yellow Blue
+q cep-quadra. 725 459 128 29 134
+s 1603 241 129
+s 1603 406 393
+q cep-quadra. 726 470 113 3 48
+h 1605 80 336
+h 1606 74 231
+c 1607 5 465 291 Blue Yellow
+q cep-quadra. 727 329 462 96 194
+s 1608 409 145
+c 1609 0 80 110 Blue Yellow
+h 1609 365 317
+s 1609 239 110
+s 1610 375 143
+h 1610 301 186
+q cep-quadra. 728 229 382 2 38
+r 1610 152 55 485 449 Yellow Blue
+r 1611 64 165 475 130 Yellow Blue
+c 1611 27 292 379 Blue Yellow
+c 1612 18 66 169 Blue Yellow
+h 1612 250 201
+c 1613 13 442 389 Blue Yellow
+r 1614 75 90 173 423 Yellow Blue
+c 1614 48 451 256 Blue Yellow
+c 1614 2 317 30 Blue Yellow
+s 1614 381 142
+q cep-quadra. 729 305 254 10 49
+c 1616 18 302 154 Blue Yellow
+s 1617 65 2
+r 1617 37 155 437 212 Yellow Blue
+q cep-quadra. 730 142 283 71 4
+r 1617 11 134 445 430 Yellow Blue
+r 1617 112 77 27 408 Yellow Blue
+c 1617 26 451 220 Blue Yellow
+q cep-quadra. 731 90 175 157 187
+q cep-quadra. 732 115 478 156 45
+c 1620 16 126 460 Blue Yellow
+c 1620 13 292 445 Blue Yellow
+q cep-quadra. 733 20 301 122 2
+h 1620 321 432
+h 1620 72 454
+h 1620 241 281
+h 1621 93 374
+r 1622 67 183 282 362 Yellow Blue
+q cep-quadra. 734 177 459 191 11
+h 1623 38 121
+c 1623 13 492 132 Blue Yellow
+h 1623 300 218
+r 1624 55 62 78 34 Yellow Blue
+q cep-quadra. 735 281 328 178 103
+h 1624 394 482
+s 1624 286 360
+c 1625 6 349 229 Blue Yellow
+c 1626 40 414 207 Blue Yellow
+r 1626 142 97 135 413 Yellow Blue
+q cep-quadra. 736 118 441 132 20
+s 1627 159 147
+r 1627 67 65 409 184 Yellow Blue
+r 1627 55 100 81 486 Yellow Blue
+h 1627 60 373
+s 1628 27 338
+r 1628 94 170 67 239 Yellow Blue
+c 1628 5 313 364 Blue Yellow
+q cep-quadra. 737 303 288 121 89
+q cep-quadra. 738 56 281 104 23
+q cep-quadra. 739 297 315 176 90
+c 1631 3 347 389 Blue Yellow
+h 1631 387 45
+h 1631 238 171
+r 1631 77 142 105 371 Yellow Blue
+r 1631 180 28 270 277 Yellow Blue
+c 1632 10 318 336 Blue Yellow
+q cep-quadra. 740 367 111 37 180
+s 1634 219 11
+c 1634 12 136 4 Blue Yellow
+h 1634 468 7
+h 1635 393 180
+q cep-quadra. 741 108 456 26 153
+h 1635 445 162
+q cep-quadra. 742 124 134 153 81
+r 1635 50 121 143 185 Yellow Blue
+c 1635 41 207 54 Blue Yellow
+r 1635 157 81 279 39 Yellow Blue
+r 1635 5 162 173 474 Yellow Blue
+c 1636 40 393 29 Blue Yellow
+q cep-quadra. 743 155 408 47 74
+c 1637 34 407 359 Blue Yellow
+r 1638 139 149 315 275 Yellow Blue
+q cep-quadra. 744 157 31 53 193
+h 1640 18 247
+c 1640 18 332 383 Blue Yellow
+r 1641 19 30 192 372 Yellow Blue
+c 1641 2 119 217 Blue Yellow
+q cep-quadra. 745 35 478 192 65
+s 1642 336 84
+h 1642 326 85
+q cep-quadra. 746 437 24 177 60
+c 1644 49 322 304 Blue Yellow
+s 1645 165 211
+r 1645 130 161 370 436 Yellow Blue
+r 1646 72 68 55 357 Yellow Blue
+s 1646 471 117
+h 1646 152 314
+q cep-quadra. 747 213 438 74 159
+h 1648 81 439
+q cep-quadra. 748 159 491 18 61
+h 1649 6 198
+c 1649 5 165 295 Blue Yellow
+q cep-quadra. 749 308 26 8 19
+q cep-quadra. 750 329 102 35 72
+h 1650 46 220
+q cep-quadra. 751 349 123 54 156
+c 1651 2 22 386 Blue Yellow
+s 1652 359 10
+h 1652 255 53
+c 1652 8 177 295 Blue Yellow
+s 1652 442 208
+c 1652 41 334 436 Blue Yellow
+q cep-quadra. 752 195 206 110 190
+s 1653 316 124
+h 1654 279 299
+s 1655 200 317
+s 1656 22 498
+s 1656 373 88
+c 1657 36 445 37 Blue Yellow
+c 1657 33 395 165 Blue Yellow
+r 1657 51 196 20 65 Yellow Blue
+q cep-quadra. 753 175 102 126 14
+q cep-quadra. 754 137 62 63 51
+q cep-quadra. 755 423 63 159 26
+h 1658 185 361
+q cep-quadra. 756 461 429 177 37
+h 1659 177 96
+c 1659 49 349 6 Blue Yellow
+r 1660 105 60 174 350 Yellow Blue
+q cep-quadra. 757 498 225 90 93
+s 1661 300 205
+c 1662 39 345 492 Blue Yellow
+q cep-quadra. 758 27 490 91 2
+c 1663 43 303 349 Blue Yellow
+s 1663 403 69
+r 1664 150 15 5 173 Yellow Blue
+r 1664 10 30 309 70 Yellow Blue
+q cep-quadra. 759 21 189 52 197
+h 1665 3 46
+s 1665 401 188
+c 1666 11 232 381 Blue Yellow
+c 1667 17 103 223 Blue Yellow
+q cep-quadra. 760 483 303 54 3
+h 1668 237 203
+h 1669 321 496
+c 1669 43 267 400 Blue Yellow
+q cep-quadra. 761 130 34 53 141
+q cep-quadra. 762 82 62 183 190
+s 1670 244 146
+s 1671 220 276
+h 1672 36 30
+c 1673 34 315 127 Blue Yellow
+h 1674 403 133
+h 1674 301 72
+q cep-quadra. 763 292 81 179 68
+h 1674 30 59
+r 1674 75 193 143 83 Yellow Blue
+q cep-quadra. 764 336 100 183 130
+h 1675 52 43
+s 1675 293 400
+s 1675 421 487
+q cep-quadra. 765 429 174 158 78
+r 1676 183 10 0 75 Yellow Blue
+s 1677 43 264
+s 1678 288 293
+r 1678 67 135 193 17 Yellow Blue
+r 1678 168 90 253 437 Yellow Blue
+c 1678 12 272 110 Blue Yellow
+h 1678 123 213
+h 1678 49 432
+r 1678 84 192 365 461 Yellow Blue
+c 1678 20 482 437 Blue Yellow
+s 1679 328 438
+r 1680 78 23 225 153 Yellow Blue
+q cep-quadra. 766 34 51 130 126
+c 1680 6 494 285 Blue Yellow
+h 1680 246 32
+h 1680 202 199
+h 1680 406 437
+r 1680 121 113 429 446 Yellow Blue
+r 1681 124 122 483 397 Yellow Blue
+h 1682 406 438
+s 1682 113 37
+s 1682 221 7
+h 1683 122 256
+h 1683 262 17
+h 1683 412 384
+r 1684 53 152 461 61 Yellow Blue
+q cep-quadra. 767 295 253 147 131
+h 1685 447 229
+q cep-quadra. 768 156 117 56 93
+q cep-quadra. 769 467 154 82 163
+q cep-quadra. 770 139 275 149 23
+c 1687 42 260 128 Blue Yellow
+s 1687 32 126
+q cep-quadra. 771 270 423 57 31
+s 1688 265 226
+r 1688 128 33 116 344 Yellow Blue
+s 1689 445 228
+h 1690 309 134
+r 1690 62 28 351 400 Yellow Blue
+r 1690 75 109 13 268 Yellow Blue
+h 1690 413 448
+s 1690 217 20
+s 1691 329 7
+q cep-quadra. 772 109 195 6 54
+s 1692 494 201
+s 1693 386 263
+c 1693 27 438 478 Blue Yellow
+h 1694 138 322
+h 1695 494 250
+r 1695 2 109 199 294 Yellow Blue
+r 1696 64 43 335 317 Yellow Blue
+s 1696 40 40
+s 1697 106 148
+h 1697 450 157
+r 1697 168 37 467 403 Yellow Blue
+r 1697 27 73 143 195 Yellow Blue
+c 1697 40 440 113 Blue Yellow
+h 1697 267 247
+r 1698 169 60 329 272 Yellow Blue
+h 1699 131 446
+r 1699 138 27 444 103 Yellow Blue
+c 1700 30 407 89 Blue Yellow
+h 1700 114 428
+s 1701 447 439
+c 1701 0 27 25 Blue Yellow
+q cep-quadra. 773 215 313 77 66
+c 1702 39 181 333 Blue Yellow
+h 1702 249 491
+q cep-quadra. 774 446 283 8 123
+c 1703 31 66 433 Blue Yellow
+q cep-quadra. 775 286 228 77 50
+s 1703 201 102
+r 1703 80 86 26 422 Yellow Blue
+s 1703 366 98
+s 1704 350 483
+c 1704 48 194 437 Blue Yellow
+c 1704 7 184 481 Blue Yellow
+h 1705 168 461
+r 1705 188 56 25 290 Yellow Blue
+h 1705 281 227
+h 1705 71 56
+r 1706 196 85 404 69 Yellow Blue
+h 1707 97 146
+r 1707 194 15 394 342 Yellow Blue
+q cep-quadra. 776 264 282 103 88
+h 1708 251 202
+s 1709 155 312
+q cep-quadra. 777 407 186 146 8
+q cep-quadra. 778 142 400 79 188
+q cep-quadra. 779 462 38 63 50
+h 1711 430 74
+c 1712 6 219 216 Blue Yellow
+h 1713 320 438
+q cep-quadra. 780 462 10 172 6
+q cep-quadra. 781 305 221 172 158
+r 1713 199 3 220 330 Yellow Blue
+h 1714 224 177
+q cep-quadra. 782 274 397 184 3
+h 1715 397 11
+q cep-quadra. 783 225 164 11 8
+q cep-quadra. 784 354 76 61 190
+s 1716 64 29
+h 1717 406 303
+s 1717 372 314
+s 1717 243 25
+s 1717 143 242
+r 1718 177 84 397 83 Yellow Blue
+q cep-quadra. 785 11 386 58 60
+c 1720 47 316 293 Blue Yellow
+q cep-quadra. 786 60 125 180 41
+h 1720 484 369
+q cep-quadra. 787 461 207 151 15
+h 1720 20 270
+h 1720 10 159
+h 1721 319 185
+r 1721 6 149 373 222 Yellow Blue
+c 1722 25 142 382 Blue Yellow
+h 1722 436 206
+h 1723 48 424
+h 1723 229 311
+r 1723 106 15 97 251 Yellow Blue
+s 1724 498 369
+q cep-quadra. 788 485 363 127 163
+c 1725 35 21 345 Blue Yellow
+r 1726 55 187 312 397 Yellow Blue
+h 1726 21 96
+s 1727 231 288
+c 1727 44 378 139 Blue Yellow
+r 1727 123 51 22 157 Yellow Blue
+r 1727 197 137 464 465 Yellow Blue
+c 1728 48 485 236 Blue Yellow
+c 1729 49 493 66 Blue Yellow
+h 1729 417 102
+c 1729 30 492 42 Blue Yellow
+q cep-quadra. 789 157 329 103 110
+c 1730 4 346 103 Blue Yellow
+q cep-quadra. 790 47 102 112 86
+r 1730 75 78 197 477 Yellow Blue
+s 1731 3 47
+s 1731 367 159
+c 1732 48 169 451 Blue Yellow
+c 1733 41 353 156 Blue Yellow
+s 1733 278 438
+c 1734 44 17 136 Blue Yellow
+c 1734 17 170 448 Blue Yellow
+h 1735 85 412
+r 1735 158 51 106 57 Yellow Blue
+s 1735 54 400
+q cep-quadra. 791 70 310 50 180
+r 1735 25 103 87 474 Yellow Blue
+c 1736 48 498 259 Blue Yellow
+s 1737 24 129
+q cep-quadra. 792 14 312 11 100
+s 1738 319 441
+h 1739 184 489
+q cep-quadra. 793 20 451 133 125
+s 1739 147 445
+h 1740 453 487
+c 1740 29 59 418 Blue Yellow
+h 1740 2 172
+h 1741 345 152
+s 1741 91 390
+s 1742 237 56
+h 1742 248 267
+c 1743 35 38 81 Blue Yellow
+h 1744 405 18
+q cep-quadra. 794 90 94 117 4
+c 1745 26 120 70 Blue Yellow
+h 1745 441 19
+c 1745 34 369 7 Blue Yellow
+h 1746 216 380
+r 1746 167 106 136 411 Yellow Blue
+c 1746 43 455 283 Blue Yellow
+s 1747 314 329
+c 1748 11 43 308 Blue Yellow
+h 1748 112 458
+c 1748 24 401 178 Blue Yellow
+c 1748 48 348 199 Blue Yellow
+h 1749 320 493
+c 1749 35 42 468 Blue Yellow
+q cep-quadra. 795 76 201 154 19
+r 1750 29 181 105 374 Yellow Blue
+h 1750 391 401
+q cep-quadra. 796 212 355 57 38
+h 1751 253 456
+h 1751 257 30
+c 1751 2 260 25 Blue Yellow
+c 1751 5 418 434 Blue Yellow
+c 1751 22 400 171 Blue Yellow
+c 1751 1 258 321 Blue Yellow
+q cep-quadra. 797 44 120 138 14
+q cep-quadra. 798 415 29 193 155
+c 1752 47 200 331 Blue Yellow
+r 1752 79 171 159 98 Yellow Blue
+s 1753 264 327
+h 1753 30 416
+h 1753 404 66
+h 1754 65 174
+q cep-quadra. 799 236 423 93 64
+h 1754 78 251
+r 1754 189 132 480 463 Yellow Blue
+q cep-quadra. 800 315 58 9 111
+h 1754 155 303
+h 1754 388 114
+h 1755 111 464
+h 1756 180 99
+s 1756 32 156
+c 1757 12 332 277 Blue Yellow
+q cep-quadra. 801 301 404 193 95
+h 1758 389 15
+r 1758 2 14 378 317 Yellow Blue
+h 1758 390 83
+q cep-quadra. 802 198 492 41 3
+h 1759 48 124
+s 1759 242 407
+q cep-quadra. 803 315 312 116 2
+c 1760 15 30 86 Blue Yellow
+s 1761 460 291
+h 1762 405 161
+c 1763 45 488 438 Blue Yellow
+q cep-quadra. 804 61 46 32 21
+r 1763 10 59 75 126 Yellow Blue
+q cep-quadra. 805 288 355 19 114
+r 1764 20 29 177 151 Yellow Blue
+r 1765 0 88 51 245 Yellow Blue
+s 1765 400 244
+c 1766 31 303 174 Blue Yellow
+r 1767 54 22 81 210 Yellow Blue
+q cep-quadra. 806 479 346 122 17
+r 1767 128 116 106 438 Yellow Blue
+s 1768 380 167
+h 1768 67 415
+h 1768 320 369
+r 1768 173 42 84 251 Yellow Blue
+c 1769 0 18 454 Blue Yellow
+r 1770 106 13 344 93 Yellow Blue
+r 1770 142 75 65 462 Yellow Blue
+h 1771 197 134
+c 1771 40 483 175 Blue Yellow
+r 1771 151 123 86 395 Yellow Blue
+h 1772 429 458
+q cep-quadra. 807 256 182 92 178
+s 1774 190 301
+r 1774 117 191 243 469 Yellow Blue
+r 1775 69 41 376 71 Yellow Blue
+q cep-quadra. 808 68 430 80 163
+s 1776 138 176
+h 1777 405 185
+r 1778 84 96 225 212 Yellow Blue
+s 1778 124 230
+r 1778 156 183 125 62 Yellow Blue
+c 1779 30 372 11 Blue Yellow
+c 1779 19 458 284 Blue Yellow
+s 1779 303 341
+c 1779 31 32 391 Blue Yellow
+h 1779 360 445
+c 1779 27 407 484 Blue Yellow
+r 1779 130 50 410 462 Yellow Blue
+c 1780 46 415 371 Blue Yellow
+c 1780 0 22 201 Blue Yellow
+h 1781 141 216
+r 1781 11 4 160 75 Yellow Blue
+h 1781 370 346
+h 1781 344 418
+c 1782 5 61 54 Blue Yellow
+h 1782 97 487
+h 1783 8 344
+c 1784 15 209 253 Blue Yellow
+q cep-quadra. 809 455 404 186 7
+q cep-quadra. 810 270 131 99 85
+q cep-quadra. 811 176 391 104 134
+q cep-quadra. 812 413 468 92 145
+c 1787 24 466 48 Blue Yellow
+r 1788 63 33 37 252 Yellow Blue
+h 1788 201 155
+h 1788 284 212
+c 1789 25 394 446 Blue Yellow
+s 1789 308 117
+r 1789 9 148 196 131 Yellow Blue
+h 1789 22 247
+h 1790 59 473
+q cep-quadra. 813 487 188 78 191
+s 1791 394 220
+r 1791 195 117 275 399 Yellow Blue
+c 1792 44 384 38 Blue Yellow
+s 1793 410 79
+s 1793 383 146
+s 1793 172 305
+c 1793 32 352 43 Blue Yellow
+h 1794 263 321
+h 1795 251 85
+r 1795 134 135 105 252 Yellow Blue
+h 1796 32 142
+h 1796 247 404
+r 1797 185 76 184 403 Yellow Blue
+r 1797 79 82 17 387 Yellow Blue
+r 1797 73 47 15 489 Yellow Blue
+c 1797 27 303 237 Blue Yellow
+c 1797 47 449 333 Blue Yellow
+r 1797 159 30 236 96 Yellow Blue
+q cep-quadra. 814 322 249 22 47
+c 1798 41 454 41 Blue Yellow
+h 1799 72 473
+q cep-quadra. 815 389 100 173 170
+r 1801 118 178 8 249 Yellow Blue
+q cep-quadra. 816 407 343 182 64
+q cep-quadra. 817 336 169 31 51
+r 1802 76 19 130 374 Yellow Blue
+h 1802 375 111
+s 1802 472 448
+q cep-quadra. 818 86 481 140 154
+h 1803 383 49
+r 1803 56 83 385 107 Yellow Blue
+s 1803 19 480
+h 1804 420 135
+h 1804 303 140
+q cep-quadra. 819 293 133 141 176
+c 1805 34 298 138 Blue Yellow
+c 1805 20 425 339 Blue Yellow
+h 1805 161 287
+s 1805 35 378
+h 1805 68 132
+c 1805 37 408 73 Blue Yellow
+q cep-quadra. 820 11 98 1 69
+r 1806 5 129 299 290 Yellow Blue
+h 1806 384 279
+s 1807 221 453
+s 1808 347 262
+s 1808 23 359
+r 1808 106 129 453 196 Yellow Blue
+c 1809 24 239 9 Blue Yellow
+r 1809 17 69 232 390 Yellow Blue
+r 1809 63 140 128 416 Yellow Blue
+r 1809 44 103 373 205 Yellow Blue
+s 1810 225 489
+c 1810 38 81 149 Blue Yellow
+h 1811 451 141
+s 1811 206 186
+h 1811 49 337
+s 1811 163 140
+q cep-quadra. 821 218 108 172 153
+c 1812 7 434 212 Blue Yellow
+r 1812 53 113 468 150 Yellow Blue
+c 1813 28 344 8 Blue Yellow
+q cep-quadra. 822 405 462 186 155
+s 1815 59 337
+h 1815 118 63
+q cep-quadra. 823 149 113 111 190
+q cep-quadra. 824 413 29 100 125
+q cep-quadra. 825 130 291 165 72
+r 1817 24 109 206 65 Yellow Blue
+c 1818 20 381 80 Blue Yellow
+h 1819 81 462
+q cep-quadra. 826 352 311 43 75
+h 1820 269 24
+q cep-quadra. 827 173 445 34 40
+s 1821 307 178
+q cep-quadra. 828 451 111 137 15
+r 1823 194 155 198 156 Yellow Blue
+r 1824 159 11 356 135 Yellow Blue
+q cep-quadra. 829 173 480 138 142
+c 1825 48 42 88 Blue Yellow
+s 1826 139 86
+s 1826 218 321
+r 1826 35 27 421 311 Yellow Blue
+c 1827 46 207 387 Blue Yellow
+c 1828 40 116 396 Blue Yellow
+c 1828 10 27 20 Blue Yellow
+h 1829 224 302
+s 1830 93 210
+c 1831 28 466 36 Blue Yellow
+c 1831 34 392 57 Blue Yellow
+r 1832 35 36 455 39 Yellow Blue
+r 1832 34 89 417 11 Yellow Blue
+q cep-quadra. 830 361 407 13 98
+h 1833 341 363
+q cep-quadra. 831 375 326 120 34
+q cep-quadra. 832 302 415 79 129
+s 1835 88 399
+r 1835 176 133 231 400 Yellow Blue
+s 1836 87 160
+c 1836 32 205 428 Blue Yellow
+c 1836 7 28 56 Blue Yellow
+q cep-quadra. 833 102 31 123 124
+s 1836 449 7
+q cep-quadra. 834 43 154 167 22
+s 1838 35 329
+h 1838 394 254
+q cep-quadra. 835 496 129 175 197
+r 1838 17 58 169 54 Yellow Blue
+r 1838 83 116 260 104 Yellow Blue
+s 1838 314 333
+q cep-quadra. 836 288 193 144 119
+q cep-quadra. 837 340 296 35 186
+h 1838 84 342
+s 1838 249 452
+r 1838 37 177 169 135 Yellow Blue
+h 1839 346 52
+c 1839 34 207 197 Blue Yellow
+r 1839 173 176 278 16 Yellow Blue
+s 1839 307 490
+c 1839 38 436 227 Blue Yellow
+q cep-quadra. 838 375 295 168 107
+q cep-quadra. 839 342 227 186 151
+r 1841 113 152 318 39 Yellow Blue
+c 1841 45 294 271 Blue Yellow
+s 1841 396 92
+r 1841 129 13 447 220 Yellow Blue
+c 1841 47 247 37 Blue Yellow
+r 1842 117 147 202 50 Yellow Blue
+c 1842 18 343 96 Blue Yellow
+h 1843 283 60
+s 1843 220 197
+s 1844 474 84
+c 1845 25 173 55 Blue Yellow
+c 1846 47 458 177 Blue Yellow
+s 1847 175 295
+q cep-quadra. 840 218 341 44 42
+c 1847 2 218 126 Blue Yellow
+s 1848 322 222
+s 1849 374 384
+c 1849 46 435 459 Blue Yellow
+c 1849 13 150 458 Blue Yellow
+r 1850 114 171 115 278 Yellow Blue
+s 1851 291 170
+r 1851 19 31 171 443 Yellow Blue
+r 1851 19 86 41 46 Yellow Blue
+c 1852 35 178 397 Blue Yellow
+h 1852 343 381
+q cep-quadra. 841 450 326 77 178
+h 1854 50 296
+q cep-quadra. 842 172 344 176 92
+h 1855 252 44
+q cep-quadra. 843 268 183 74 136
+q cep-quadra. 844 157 391 22 139
+q cep-quadra. 845 133 376 100 111
+r 1857 175 85 217 447 Yellow Blue
+r 1858 154 147 184 483 Yellow Blue
+s 1859 431 86
+r 1859 181 13 243 124 Yellow Blue
+s 1859 253 247
+q cep-quadra. 846 246 142 132 36
+c 1859 9 105 52 Blue Yellow
+r 1859 138 61 337 334 Yellow Blue
+s 1859 262 353
+h 1859 449 317
+r 1859 48 9 313 236 Yellow Blue
+h 1860 224 308
+r 1860 90 58 256 56 Yellow Blue
+r 1861 28 168 417 22 Yellow Blue
+h 1861 235 56
+r 1861 43 23 373 165 Yellow Blue
+c 1862 11 213 151 Blue Yellow
+h 1863 391 322
+c 1864 46 97 287 Blue Yellow
+r 1864 150 20 59 343 Yellow Blue
+r 1865 192 110 388 397 Yellow Blue
+h 1865 314 85
+q cep-quadra. 847 288 341 95 40
+h 1867 37 471
+q cep-quadra. 848 45 237 188 79
+c 1867 25 493 229 Blue Yellow
+s 1868 475 334
+h 1869 326 468
+q cep-quadra. 849 326 374 20 189
+c 1870 38 36 104 Blue Yellow
+r 1871 51 39 228 342 Yellow Blue
+r 1872 174 54 119 148 Yellow Blue
+q cep-quadra. 850 239 455 192 131
+s 1872 261 99
+r 1873 5 44 15 90 Yellow Blue
+r 1873 116 26 418 112 Yellow Blue
+c 1873 7 194 29 Blue Yellow
+q cep-quadra. 851 144 307 187 130
+r 1874 193 62 131 295 Yellow Blue
+s 1874 263 66
+c 1875 14 14 276 Blue Yellow
+s 1876 209 417
+c 1876 41 229 26 Blue Yellow
+q cep-quadra. 852 108 16 65 1
+r 1877 184 69 328 292 Yellow Blue
+s 1877 463 78
+s 1878 191 128
+q cep-quadra. 853 91 356 114 173
+q cep-quadra. 854 359 223 59 164
+s 1878 353 30
+q cep-quadra. 855 271 132 117 179
+s 1878 309 1
+s 1879 370 300
+s 1880 461 128
+r 1881 143 183 339 229 Yellow Blue
+s 1881 338 58
+c 1882 48 134 440 Blue Yellow
+h 1883 488 451
+c 1884 37 405 111 Blue Yellow
+s 1885 237 461
+s 1885 148 100
+q cep-quadra. 856 99 142 179 71
+h 1886 200 9
+c 1886 14 326 179 Blue Yellow
+r 1887 30 109 97 1 Yellow Blue
+c 1887 7 112 92 Blue Yellow
+h 1887 43 143
+q cep-quadra. 857 498 46 169 92
+c 1889 9 292 140 Blue Yellow
+s 1890 145 291
+q cep-quadra. 858 230 433 36 66
+q cep-quadra. 859 243 5 151 194
+s 1890 469 176
+h 1890 287 99
+r 1891 41 181 17 484 Yellow Blue
+s 1891 248 187
+q cep-quadra. 860 130 46 158 129
+s 1893 171 299
+r 1894 199 48 262 346 Yellow Blue
+r 1895 49 77 492 115 Yellow Blue
+s 1895 0 188
+h 1895 488 7
+s 1895 400 223
+c 1896 16 106 486 Blue Yellow
+r 1896 161 78 18 262 Yellow Blue
+c 1896 32 281 199 Blue Yellow
+s 1897 408 294
+c 1897 41 29 237 Blue Yellow
+q cep-quadra. 861 357 194 132 48
+r 1898 114 25 387 154 Yellow Blue
+q cep-quadra. 862 324 165 113 67
+h 1899 189 250
+s 1899 408 307
+s 1900 480 122
+s 1901 235 431
+h 1901 266 58
+s 1902 298 296
+r 1903 61 197 479 146 Yellow Blue
+h 1904 164 314
+q cep-quadra. 863 189 418 134 11
+s 1904 306 443
+h 1905 411 249
+h 1905 208 192
+c 1905 38 337 302 Blue Yellow
+s 1905 373 12
+s 1906 443 247
+q cep-quadra. 864 213 412 39 87
+h 1908 343 194
+s 1909 480 362
+s 1909 333 80
+h 1910 78 356
+q cep-quadra. 865 127 286 30 57
+c 1910 14 157 359 Blue Yellow
+q cep-quadra. 866 154 264 1 85
+h 1911 276 454
+s 1911 259 492
+r 1911 175 9 441 72 Yellow Blue
+c 1911 42 29 177 Blue Yellow
+s 1911 458 145
+r 1912 57 29 344 378 Yellow Blue
+s 1912 114 309
+q cep-quadra. 867 365 404 133 162
+s 1913 72 146
+q cep-quadra. 868 265 11 9 76
+q cep-quadra. 869 288 118 14 118
+s 1914 209 30
+r 1914 46 124 296 334 Yellow Blue
+q cep-quadra. 870 22 316 79 36
+q cep-quadra. 871 481 435 34 69
+c 1915 10 21 80 Blue Yellow
+h 1916 363 299
+h 1917 117 213
+h 1917 474 328
+r 1918 2 136 391 272 Yellow Blue
+c 1918 32 59 320 Blue Yellow
+s 1919 264 358
+c 1919 24 229 463 Blue Yellow
+c 1919 32 419 349 Blue Yellow
+h 1919 150 398
+r 1920 128 93 432 93 Yellow Blue
+s 1920 433 306
+s 1921 273 486
+h 1921 127 223
+c 1921 6 61 492 Blue Yellow
+h 1922 248 167
+q cep-quadra. 872 499 289 26 108
+h 1922 418 138
+s 1922 263 224
+c 1922 36 298 200 Blue Yellow
+h 1922 126 381
+h 1923 312 269
+q cep-quadra. 873 453 411 41 172
+q cep-quadra. 874 244 273 156 137
+q cep-quadra. 875 478 142 144 187
+r 1925 60 48 349 401 Yellow Blue
+c 1925 1 461 19 Blue Yellow
+s 1926 328 464
+q cep-quadra. 876 478 122 50 46
+h 1927 424 95
+c 1928 23 20 249 Blue Yellow
+h 1928 48 160
+s 1928 410 189
+c 1928 44 420 244 Blue Yellow
+h 1928 270 344
+r 1929 101 148 483 269 Yellow Blue
+r 1929 95 134 291 240 Yellow Blue
+r 1929 5 6 366 31 Yellow Blue
+c 1929 5 364 188 Blue Yellow
+q cep-quadra. 877 174 458 4 66
+r 1930 113 150 309 278 Yellow Blue
+s 1930 49 347
+s 1930 470 374
+r 1931 124 90 149 285 Yellow Blue
+r 1931 94 64 174 311 Yellow Blue
+r 1932 0 30 432 199 Yellow Blue
+q cep-quadra. 878 359 349 76 19
+r 1934 171 50 477 346 Yellow Blue
+r 1934 127 196 384 235 Yellow Blue
+s 1935 328 232
+h 1935 284 418
+h 1935 130 185
+h 1936 381 388
+c 1937 3 72 141 Blue Yellow
+c 1938 16 478 498 Blue Yellow
+q cep-quadra. 879 338 492 45 167
+s 1940 464 1
+c 1940 49 290 332 Blue Yellow
+s 1941 475 288
+r 1941 90 5 248 3 Yellow Blue
+r 1942 22 182 225 413 Yellow Blue
+s 1943 209 170
+q cep-quadra. 880 219 230 127 180
+r 1943 23 173 107 96 Yellow Blue
+q cep-quadra. 881 436 223 44 58
+c 1943 28 256 4 Blue Yellow
+h 1943 173 367
+q cep-quadra. 882 439 242 102 161
+r 1943 174 108 289 102 Yellow Blue
+c 1944 25 220 415 Blue Yellow
+c 1945 5 237 302 Blue Yellow
+s 1946 467 138
+s 1947 364 445
+c 1947 10 467 55 Blue Yellow
+c 1948 31 10 382 Blue Yellow
+s 1949 109 125
+h 1949 397 13
+r 1949 132 14 204 446 Yellow Blue
+r 1949 131 38 302 389 Yellow Blue
+q cep-quadra. 883 86 208 164 75
+h 1949 243 45
+q cep-quadra. 884 154 342 65 52
+c 1949 7 50 180 Blue Yellow
+r 1949 54 168 471 483 Yellow Blue
+q cep-quadra. 885 490 344 144 56
+r 1950 182 177 105 303 Yellow Blue
+h 1951 108 340
+s 1951 122 193
+r 1951 129 103 124 394 Yellow Blue
+h 1951 480 465
+s 1951 347 167
+c 1952 9 216 225 Blue Yellow
+q cep-quadra. 886 346 306 65 146
+h 1954 33 272
+h 1955 146 162
+h 1956 113 367
+s 1956 445 468
+r 1956 100 172 214 20 Yellow Blue
+s 1956 422 47
+r 1956 113 171 459 138 Yellow Blue
+s 1956 111 272
+q cep-quadra. 887 11 223 172 108
+s 1956 80 212
+r 1956 105 47 337 284 Yellow Blue
+c 1956 13 287 368 Blue Yellow
+q cep-quadra. 888 34 475 25 21
+r 1956 28 198 192 52 Yellow Blue
+c 1957 4 108 275 Blue Yellow
+h 1958 412 171
+s 1958 317 376
+s 1959 300 495
+r 1959 177 142 26 297 Yellow Blue
+r 1959 123 112 488 7 Yellow Blue
+r 1960 119 55 399 485 Yellow Blue
+q cep-quadra. 889 447 444 137 127
+r 1962 141 195 125 158 Yellow Blue
+r 1962 165 88 214 447 Yellow Blue
+r 1963 17 102 414 247 Yellow Blue
+r 1964 153 165 205 19 Yellow Blue
+h 1964 207 107
+s 1964 232 282
+h 1964 213 268
+h 1964 397 83
+q cep-quadra. 890 376 37 127 114
+q cep-quadra. 891 240 179 190 112
+h 1966 54 280
+q cep-quadra. 892 160 434 9 142
+h 1967 272 46
+s 1967 492 68
+c 1967 8 207 285 Blue Yellow
+h 1968 372 113
+c 1968 31 13 412 Blue Yellow
+h 1969 112 484
+s 1970 297 32
+c 1971 32 201 2 Blue Yellow
+q cep-quadra. 893 469 258 104 56
+c 1973 31 358 56 Blue Yellow
+r 1974 102 152 207 196 Yellow Blue
+c 1974 45 145 204 Blue Yellow
+h 1974 490 321
+s 1975 95 363
+r 1976 19 129 188 480 Yellow Blue
+h 1976 193 317
+h 1976 40 295
+c 1976 8 175 89 Blue Yellow
+s 1976 38 157
+s 1976 143 277
+c 1976 15 312 230 Blue Yellow
+r 1976 184 9 11 208 Yellow Blue
+r 1977 143 164 128 126 Yellow Blue
+h 1977 7 436
+h 1978 472 250
+q cep-quadra. 894 46 137 0 82
+h 1979 412 447
+r 1980 182 75 245 203 Yellow Blue
+c 1980 16 417 79 Blue Yellow
+c 1981 21 266 474 Blue Yellow
+s 1982 386 434
+q cep-quadra. 895 382 471 105 185
+q cep-quadra. 896 125 3 56 155
+q cep-quadra. 897 284 452 55 108
+h 1984 255 458
+r 1985 96 109 396 299 Yellow Blue
+h 1985 417 394
+s 1986 173 165
+h 1986 187 419
+q cep-quadra. 898 59 422 40 15
+h 1988 494 297
+r 1989 187 110 113 484 Yellow Blue
+q cep-quadra. 899 238 416 186 146
+r 1989 41 67 282 313 Yellow Blue
+q cep-quadra. 900 192 382 32 38
+q cep-quadra. 901 201 275 47 100
+r 1991 175 151 13 374 Yellow Blue
+s 1992 488 101
+s 1992 327 245
+s 1993 310 369
+r 1994 49 129 115 30 Yellow Blue
+h 1994 302 8
+r 1994 70 40 15 336 Yellow Blue
+r 1994 48 153 133 11 Yellow Blue
+r 1994 123 183 121 28 Yellow Blue
+s 1994 456 42
+s 1994 370 393
+r 1994 185 80 4 488 Yellow Blue
+s 1995 336 59
+c 1995 26 364 327 Blue Yellow
+h 1996 15 56
+c 1996 4 214 460 Blue Yellow
+r 1996 168 177 104 99 Yellow Blue
+r 1997 111 26 111 355 Yellow Blue
+c 1997 41 336 112 Blue Yellow
+q cep-quadra. 902 427 335 110 90
+c 1997 15 230 151 Blue Yellow
+c 1997 7 299 333 Blue Yellow
+r 1997 92 10 250 199 Yellow Blue
+s 1998 292 224
+s 1998 397 193
+q cep-quadra. 903 267 319 78 159
+r 1998 69 105 267 211 Yellow Blue
+c 1999 48 51 270 Blue Yellow
+q cep-quadra. 904 390 336 197 110
+s 2000 220 261
+c 2001 45 298 275 Blue Yellow
+q cep-quadra. 905 19 111 156 7
+r 2002 105 94 144 82 Yellow Blue
+c 2003 26 400 498 Blue Yellow
+q cep-quadra. 906 288 223 141 79
+s 2003 184 373
+s 2003 255 61
+q cep-quadra. 907 198 23 123 127
+q cep-quadra. 908 32 165 126 31
+h 2004 138 203
+c 2004 15 127 0 Blue Yellow
+r 2005 22 18 374 411 Yellow Blue
+c 2006 18 482 192 Blue Yellow
+q cep-quadra. 909 260 80 148 24
+r 2007 182 90 408 217 Yellow Blue
+q cep-quadra. 910 188 480 120 107
+s 2008 192 230
+s 2008 205 399
+r 2008 157 140 187 467 Yellow Blue
+q cep-quadra. 911 5 34 95 190
+q cep-quadra. 912 401 460 187 199
+r 2009 168 116 420 347 Yellow Blue
+s 2009 249 191
+r 2009 14 33 33 437 Yellow Blue
+h 2010 293 219
+q cep-quadra. 913 70 18 101 121
+s 2011 493 107
+h 2011 369 139
+q cep-quadra. 914 51 421 2 89
+q cep-quadra. 915 158 373 167 45
+h 2012 303 174
+h 2012 395 348
+s 2013 223 409
+s 2013 488 209
+s 2013 388 282
+h 2013 406 440
+h 2013 274 106
+c 2014 17 420 163 Blue Yellow
+q cep-quadra. 916 356 483 140 10
+q cep-quadra. 917 459 499 58 23
+r 2015 105 7 162 185 Yellow Blue
+s 2015 327 134
+s 2016 157 367
+h 2016 149 165
+q cep-quadra. 918 399 175 11 37
+s 2017 376 338
+c 2018 17 308 429 Blue Yellow
+q cep-quadra. 919 235 344 108 78
+r 2018 180 27 111 436 Yellow Blue
+c 2018 3 421 48 Blue Yellow
+c 2019 35 155 381 Blue Yellow
+r 2019 67 134 320 28 Yellow Blue
+q cep-quadra. 920 91 248 153 122
+s 2020 221 326
+c 2020 6 238 7 Blue Yellow
+q cep-quadra. 921 266 473 130 193
+h 2020 452 64
+c 2021 18 240 248 Blue Yellow
+q cep-quadra. 922 33 6 123 61
+q cep-quadra. 923 111 50 142 158
+s 2022 234 470
+r 2023 152 164 60 142 Yellow Blue
+r 2023 83 55 39 7 Yellow Blue
+r 2023 173 84 265 444 Yellow Blue
+c 2024 43 8 186 Blue Yellow
+r 2024 43 41 117 461 Yellow Blue
+c 2024 15 128 489 Blue Yellow
+h 2024 225 405
+c 2025 37 453 401 Blue Yellow
+s 2026 394 50
+c 2027 42 179 250 Blue Yellow
+s 2027 134 203
+r 2027 31 155 88 253 Yellow Blue
+q cep-quadra. 924 457 216 94 33
+s 2027 309 194
+s 2028 265 85
+h 2028 334 394
+q cep-quadra. 925 82 241 127 78
+h 2028 487 453
+s 2028 99 50
+c 2029 26 71 182 Blue Yellow
+q cep-quadra. 926 344 276 16 185
+h 2030 445 41
+h 2030 345 175
+c 2031 28 374 67 Blue Yellow
+s 2032 343 57
+r 2032 106 162 60 356 Yellow Blue
+h 2033 279 0
+h 2033 493 300
+r 2033 99 36 36 114 Yellow Blue
+h 2034 431 475
+q cep-quadra. 927 276 387 156 163
+h 2034 418 304
+q cep-quadra. 928 194 70 166 105
+q cep-quadra. 929 119 361 19 69
+r 2036 71 54 149 378 Yellow Blue
+h 2036 359 473
+h 2036 159 254
+r 2036 166 181 227 255 Yellow Blue
+h 2036 209 144
+q cep-quadra. 930 132 397 163 174
+h 2036 490 249
+r 2036 6 15 300 75 Yellow Blue
+r 2036 76 156 250 329 Yellow Blue
+q cep-quadra. 931 359 102 133 82
+s 2037 433 362
+q cep-quadra. 932 3 212 38 81
+c 2038 47 457 210 Blue Yellow
+r 2038 120 12 491 374 Yellow Blue
+h 2038 262 141
+q cep-quadra. 933 112 179 57 119
+c 2038 0 51 279 Blue Yellow
+h 2038 180 266
+r 2039 64 10 62 416 Yellow Blue
+h 2039 110 73
+c 2039 24 170 63 Blue Yellow
+s 2039 224 49
+c 2040 3 359 39 Blue Yellow
+r 2040 146 128 211 50 Yellow Blue
+h 2040 138 485
+c 2040 17 304 441 Blue Yellow
+q cep-quadra. 934 14 10 14 109
+c 2041 28 348 489 Blue Yellow
+h 2041 4 130
+c 2042 11 67 177 Blue Yellow
+s 2043 251 212
+s 2043 242 173
+c 2043 36 421 354 Blue Yellow
+r 2044 171 195 231 220 Yellow Blue
+r 2045 93 183 334 99 Yellow Blue
+q cep-quadra. 935 215 147 29 32
+r 2047 29 74 267 167 Yellow Blue
+r 2047 0 183 1 349 Yellow Blue
+s 2048 452 322
+c 2048 45 154 83 Blue Yellow
+s 2049 455 480
+q cep-quadra. 936 71 155 57 196
+q cep-quadra. 937 82 4 36 98
+q cep-quadra. 938 428 95 42 35
+s 2051 363 27
+q cep-quadra. 939 138 377 45 7
+r 2052 168 14 280 329 Yellow Blue
+s 2053 55 495
+h 2054 107 197
+h 2055 227 349
+r 2055 172 168 259 305 Yellow Blue
+r 2055 44 114 331 243 Yellow Blue
+h 2056 416 433
+s 2057 60 452
+c 2057 28 132 488 Blue Yellow
+s 2057 29 190
+s 2058 44 482
+c 2059 15 230 499 Blue Yellow
+r 2059 192 130 53 254 Yellow Blue
+h 2059 393 335
+q cep-quadra. 940 312 251 8 5
+q cep-quadra. 941 102 303 161 136
+c 2060 48 153 41 Blue Yellow
+c 2060 27 355 437 Blue Yellow
+s 2060 471 269
+h 2060 364 264
+q cep-quadra. 942 75 7 24 94
+r 2061 198 11 339 82 Yellow Blue
+h 2061 142 233
+r 2062 33 14 318 380 Yellow Blue
+q cep-quadra. 943 28 131 112 112
+q cep-quadra. 944 393 375 165 173
+r 2064 97 76 436 84 Yellow Blue
+q cep-quadra. 945 235 24 103 169
+q cep-quadra. 946 284 326 100 168
+q cep-quadra. 947 363 343 90 3
+r 2065 64 167 435 311 Yellow Blue
+c 2066 9 474 443 Blue Yellow
+r 2066 60 68 235 198 Yellow Blue
+s 2067 58 382
+c 2068 10 160 106 Blue Yellow
+r 2069 127 187 257 194 Yellow Blue
+q cep-quadra. 948 204 86 128 191
+c 2071 2 17 27 Blue Yellow
+c 2071 22 80 253 Blue Yellow
+c 2071 5 38 184 Blue Yellow
+s 2071 156 325
+q cep-quadra. 949 190 389 148 98
+s 2072 35 469
+h 2073 417 343
+c 2074 47 288 185 Blue Yellow
+q cep-quadra. 950 490 372 4 107
+r 2076 183 84 123 55 Yellow Blue
+r 2077 82 94 437 362 Yellow Blue
+c 2077 29 358 169 Blue Yellow
+s 2077 260 234
+r 2078 91 168 263 460 Yellow Blue
+r 2078 128 87 306 235 Yellow Blue
+s 2078 312 387
+r 2078 113 56 395 274 Yellow Blue
+c 2079 5 385 89 Blue Yellow
+r 2079 84 55 394 434 Yellow Blue
+h 2079 348 138
+q cep-quadra. 951 296 419 81 135
+c 2080 24 461 271 Blue Yellow
+r 2080 189 79 188 94 Yellow Blue
+q cep-quadra. 952 33 323 67 135
+h 2081 4 399
+q cep-quadra. 953 207 401 10 96
+q cep-quadra. 954 323 133 60 72
+h 2081 30 299
+h 2081 287 357
+c 2081 19 283 417 Blue Yellow
+h 2082 154 476
+c 2083 6 473 314 Blue Yellow
+r 2084 128 48 297 276 Yellow Blue
+r 2085 77 181 282 483 Yellow Blue
+q cep-quadra. 955 419 117 133 154
+s 2086 45 452
+q cep-quadra. 956 113 61 65 63
+h 2086 169 249
+r 2086 170 33 337 23 Yellow Blue
+q cep-quadra. 957 295 59 129 25
+q cep-quadra. 958 62 97 121 36
+h 2088 381 406
+c 2088 37 475 146 Blue Yellow
+h 2089 331 237
+h 2089 323 458
+c 2090 48 166 496 Blue Yellow
+s 2090 366 209
+c 2090 19 25 332 Blue Yellow
+s 2090 32 304
+h 2091 146 262
+c 2092 28 191 111 Blue Yellow
+q cep-quadra. 959 394 65 17 56
+r 2094 118 65 178 94 Yellow Blue
+r 2094 160 29 392 251 Yellow Blue
+s 2094 333 66
+s 2094 160 400
+s 2094 238 364
+r 2094 136 37 410 397 Yellow Blue
+r 2095 140 146 168 281 Yellow Blue
+s 2096 491 318
+h 2096 286 405
+r 2096 75 141 483 50 Yellow Blue
+r 2096 15 109 275 268 Yellow Blue
+c 2097 1 195 114 Blue Yellow
+r 2097 92 198 233 433 Yellow Blue
+q cep-quadra. 960 122 374 172 95
+s 2098 35 120
+c 2099 1 492 40 Blue Yellow
+r 2099 195 43 21 278 Yellow Blue
+q cep-quadra. 961 133 401 123 134
+h 2100 443 434
+q cep-quadra. 962 90 121 192 167
+c 2101 4 494 272 Blue Yellow
+r 2101 165 126 326 485 Yellow Blue
+r 2102 45 98 395 141 Yellow Blue
+r 2102 79 124 488 431 Yellow Blue
+r 2102 64 79 399 389 Yellow Blue
+q cep-quadra. 963 388 342 111 74
+q cep-quadra. 964 397 27 188 192
+h 2104 134 497
+q cep-quadra. 965 232 118 69 120
+h 2105 266 350
+r 2105 23 146 372 159 Yellow Blue
+q cep-quadra. 966 299 111 115 138
+c 2105 49 122 295 Blue Yellow
+r 2106 97 72 132 9 Yellow Blue
+r 2107 58 24 238 424 Yellow Blue
+r 2107 126 182 262 334 Yellow Blue
+r 2108 145 77 133 46 Yellow Blue
+h 2109 423 124
+c 2109 36 257 31 Blue Yellow
+q cep-quadra. 967 106 434 133 185
+r 2111 64 163 96 380 Yellow Blue
+h 2111 297 421
+c 2111 6 28 233 Blue Yellow
+r 2112 86 80 56 31 Yellow Blue
+q cep-quadra. 968 461 234 158 13
+c 2113 14 217 138 Blue Yellow
+r 2114 145 87 496 104 Yellow Blue
+s 2114 332 288
+q cep-quadra. 969 496 85 115 41
+q cep-quadra. 970 385 85 59 91
+r 2114 73 147 9 332 Yellow Blue
+h 2114 225 89
+c 2115 21 356 286 Blue Yellow
+r 2116 95 139 100 226 Yellow Blue
+q cep-quadra. 971 37 122 108 176
+c 2117 20 360 90 Blue Yellow
+h 2117 14 34
+s 2117 445 441
+s 2117 388 137
+c 2117 19 433 354 Blue Yellow
+h 2117 109 168
+r 2117 97 152 78 191 Yellow Blue
+s 2117 37 234
+c 2117 14 95 312 Blue Yellow
+r 2118 42 154 107 426 Yellow Blue
+h 2119 448 42
+q cep-quadra. 972 134 374 59 108
+r 2119 40 129 129 333 Yellow Blue
+r 2120 182 30 245 435 Yellow Blue
+s 2120 160 438
+r 2121 35 93 43 305 Yellow Blue
+c 2121 21 88 186 Blue Yellow
+q cep-quadra. 973 278 448 105 181
+s 2121 364 77
+r 2121 56 55 429 410 Yellow Blue
+s 2122 278 209
+r 2122 176 184 268 20 Yellow Blue
+h 2122 182 194
+q cep-quadra. 974 79 178 156 182
+h 2122 26 346
+h 2123 40 331
+q cep-quadra. 975 211 184 194 142
+c 2124 45 175 25 Blue Yellow
+c 2124 12 80 407 Blue Yellow
+c 2125 20 458 108 Blue Yellow
+r 2125 70 114 79 225 Yellow Blue
+r 2125 112 23 25 289 Yellow Blue
+q cep-quadra. 976 248 65 118 53
+r 2126 166 128 112 272 Yellow Blue
+r 2126 184 124 387 244 Yellow Blue
+q cep-quadra. 977 169 156 149 102
+c 2127 24 206 447 Blue Yellow
+s 2128 53 452
+h 2128 254 260
+r 2128 183 176 371 76 Yellow Blue
+c 2128 13 419 28 Blue Yellow
+s 2128 17 108
+c 2129 46 411 237 Blue Yellow
+r 2129 133 120 347 416 Yellow Blue
+h 2129 57 337
+q cep-quadra. 978 432 253 178 62
+r 2130 68 19 249 275 Yellow Blue
+r 2130 52 35 3 245 Yellow Blue
+q cep-quadra. 979 367 58 123 191
+h 2131 388 438
+r 2132 122 113 47 406 Yellow Blue
+h 2132 462 369
+c 2133 27 15 12 Blue Yellow
+r 2134 32 181 393 214 Yellow Blue
+r 2135 173 59 318 189 Yellow Blue
+h 2135 422 63
+c 2135 26 261 440 Blue Yellow
+q cep-quadra. 980 429 11 10 187
+q cep-quadra. 981 52 425 126 28
+c 2137 47 389 283 Blue Yellow
+s 2138 424 495
+r 2138 165 165 17 107 Yellow Blue
+q cep-quadra. 982 307 450 180 134
+h 2138 359 443
+h 2138 332 445
+c 2139 9 303 203 Blue Yellow
+c 2139 48 311 287 Blue Yellow
+r 2139 144 108 222 307 Yellow Blue
+r 2140 148 67 171 308 Yellow Blue
+c 2140 27 9 448 Blue Yellow
+r 2140 159 81 217 281 Yellow Blue
+h 2140 39 481
+q cep-quadra. 983 460 238 166 182
+q cep-quadra. 984 237 15 189 173
+q cep-quadra. 985 406 471 98 88
+r 2143 157 37 99 261 Yellow Blue
+q cep-quadra. 986 66 154 22 5
+s 2144 62 364
+s 2144 292 399
+s 2145 172 221
+h 2145 348 341
+s 2145 484 363
+q cep-quadra. 987 354 118 166 86
+c 2146 2 463 293 Blue Yellow
+q cep-quadra. 988 397 470 135 67
+s 2146 29 112
+h 2147 425 426
+q cep-quadra. 989 122 88 8 111
+r 2148 27 72 435 12 Yellow Blue
+r 2148 45 122 401 364 Yellow Blue
+c 2148 45 238 487 Blue Yellow
+h 2149 4 372
+q cep-quadra. 990 436 48 99 193
+h 2151 326 373
+q cep-quadra. 991 228 111 100 55
+q cep-quadra. 992 338 263 28 100
+r 2152 175 180 92 83 Yellow Blue
+r 2153 104 156 65 284 Yellow Blue
+s 2154 2 338
+h 2154 175 170
+q cep-quadra. 993 285 361 127 103
+r 2155 182 161 432 161 Yellow Blue
+h 2155 303 390
+r 2156 59 46 272 463 Yellow Blue
+h 2157 298 9
+s 2157 415 320
+q cep-quadra. 994 25 240 117 150
+h 2158 401 16
+h 2158 58 41
+h 2158 475 233
+c 2158 36 133 111 Blue Yellow
+s 2158 369 299
+s 2158 242 401
+h 2158 333 478
+q cep-quadra. 995 458 118 28 15
+q cep-quadra. 996 149 373 10 108
+h 2159 405 404
+s 2159 257 421
+q cep-quadra. 997 40 463 23 163
+q cep-quadra. 998 484 483 50 16
+s 2159 54 196
+h 2159 258 9
+r 2159 197 23 101 202 Yellow Blue
+h 2159 38 286
+q cep-quadra. 999 132 479 4 2
+r 2160 18 28 461 330 Yellow Blue
+s 2161 95 126
+r 2161 50 149 136 440 Yellow Blue
+q cep-quadra. 1000 367 97 101 28
+q cep-quadra. 1001 297 38 141 88
+c 2162 26 459 134 Blue Yellow
+s 2162 304 429
+r 2163 76 142 53 216 Yellow Blue
+r 2163 185 59 422 16 Yellow Blue
+c 2163 30 460 80 Blue Yellow
+h 2163 102 372
+h 2163 274 339
+c 2163 19 256 198 Blue Yellow
+r 2164 35 27 342 484 Yellow Blue
+q cep-quadra. 1002 111 18 89 84
+q cep-quadra. 1003 319 198 106 185
+r 2164 159 74 30 45 Yellow Blue
+h 2164 410 468
+h 2165 485 334
+s 2165 419 230
+q cep-quadra. 1004 339 161 47 82
+r 2165 44 135 137 464 Yellow Blue
+c 2165 48 32 281 Blue Yellow
+s 2166 184 481
+r 2166 62 151 406 162 Yellow Blue
+q cep-quadra. 1005 344 238 50 45
+q cep-quadra. 1006 417 4 103 47
+r 2169 134 67 132 493 Yellow Blue
+r 2169 47 104 92 423 Yellow Blue
+r 2169 64 139 23 463 Yellow Blue
+q cep-quadra. 1007 351 419 188 126
+r 2169 183 12 2 301 Yellow Blue
+c 2169 29 176 213 Blue Yellow
+q cep-quadra. 1008 271 313 162 7
+q cep-quadra. 1009 25 141 187 114
+h 2171 284 487
+h 2171 478 251
+h 2171 364 285
+s 2172 319 89
+c 2173 21 58 234 Blue Yellow
+q cep-quadra. 1010 465 248 60 23
+r 2174 31 112 61 254 Yellow Blue
+q cep-quadra. 1011 363 174 133 121
+c 2176 1 465 112 Blue Yellow
+r 2177 101 134 415 471 Yellow Blue
+h 2177 299 103
+h 2178 432 238
+h 2178 410 124
+r 2179 50 102 190 435 Yellow Blue
+s 2179 233 152
+h 2179 226 14
+q cep-quadra. 1012 221 402 132 87
+c 2180 1 32 10 Blue Yellow
+h 2181 454 493
+c 2181 19 443 466 Blue Yellow
+h 2181 251 142
+c 2181 29 172 188 Blue Yellow
+q cep-quadra. 1013 243 488 95 146
+r 2181 29 126 15 301 Yellow Blue
+q cep-quadra. 1014 226 284 146 84
+c 2182 44 440 289 Blue Yellow
+q cep-quadra. 1015 177 164 3 59
+s 2183 498 115
+q cep-quadra. 1016 276 414 195 117
+r 2184 115 79 481 171 Yellow Blue
+q cep-quadra. 1017 177 107 121 146
+q cep-quadra. 1018 452 465 62 64
+q cep-quadra. 1019 34 109 142 86
+s 2186 293 402
+r 2187 71 186 226 63 Yellow Blue
+s 2187 407 62
+s 2188 134 190
+q cep-quadra. 1020 376 370 128 66
+c 2188 8 3 111 Blue Yellow
+s 2188 96 324
+c 2188 49 474 128 Blue Yellow
+h 2188 375 349
+q cep-quadra. 1021 356 291 140 112
+c 2189 15 353 1 Blue Yellow
+s 2189 322 56
+r 2189 194 6 359 496 Yellow Blue
+r 2189 21 63 166 16 Yellow Blue
+q cep-quadra. 1022 202 340 186 165
+r 2190 6 28 32 39 Yellow Blue
+s 2190 24 242
+s 2190 216 24
+h 2191 162 86
+r 2192 163 71 13 440 Yellow Blue
+s 2193 290 408
+h 2193 265 408
+s 2194 348 150
+s 2195 306 128
+r 2195 33 87 118 299 Yellow Blue
+h 2195 453 133
+q cep-quadra. 1023 114 333 120 13
+r 2195 13 60 337 467 Yellow Blue
+r 2195 81 118 477 203 Yellow Blue
+r 2195 59 123 271 96 Yellow Blue
+r 2195 132 132 136 470 Yellow Blue
+c 2195 33 163 317 Blue Yellow
+s 2195 139 435
+s 2196 185 207
+h 2197 100 104
+c 2198 25 93 167 Blue Yellow
+c 2198 37 170 313 Blue Yellow
+c 2199 1 408 315 Blue Yellow
+r 2200 26 10 432 392 Yellow Blue
+s 2201 10 196
+c 2202 39 315 381 Blue Yellow
+r 2203 141 146 175 93 Yellow Blue
+c 2203 30 187 306 Blue Yellow
+r 2203 196 76 33 340 Yellow Blue
+c 2204 19 365 40 Blue Yellow
+h 2205 203 227
+r 2206 98 116 473 451 Yellow Blue
+s 2207 72 107
+s 2207 46 428
+h 2207 475 298
+h 2207 188 20
+c 2208 41 13 479 Blue Yellow
+r 2209 2 128 361 33 Yellow Blue
+r 2210 44 26 158 234 Yellow Blue
+h 2211 265 30
+c 2211 35 487 479 Blue Yellow
+h 2211 244 459
+q cep-quadra. 1024 106 354 89 55
+c 2213 46 267 296 Blue Yellow
+q cep-quadra. 1025 270 262 113 25
+s 2213 121 265
+c 2213 43 27 103 Blue Yellow
+r 2214 36 155 167 431 Yellow Blue
+s 2214 142 26
+s 2214 210 168
+h 2215 68 261
+c 2216 39 93 148 Blue Yellow
+c 2216 3 346 84 Blue Yellow
+c 2217 18 320 58 Blue Yellow
+r 2218 183 165 273 120 Yellow Blue
+s 2218 331 297
+s 2218 491 139
+h 2218 375 289
+r 2219 62 45 16 358 Yellow Blue
+h 2219 177 121
+r 2219 115 186 391 100 Yellow Blue
+s 2219 121 105
+h 2220 79 192
+q cep-quadra. 1026 111 159 117 185
+c 2222 12 406 31 Blue Yellow
+h 2222 97 377
+s 2223 81 119
+q cep-quadra. 1027 29 480 159 185
+c 2224 47 408 270 Blue Yellow
+q cep-quadra. 1028 266 4 161 177
+h 2225 450 115
+h 2226 28 65
+c 2226 37 370 259 Blue Yellow
+c 2227 44 475 346 Blue Yellow
+r 2227 163 178 364 251 Yellow Blue
+h 2227 120 469
+c 2227 30 269 289 Blue Yellow
+q cep-quadra. 1029 308 166 181 143
+q cep-quadra. 1030 436 323 173 155
+h 2229 285 153
+h 2230 429 263
+q cep-quadra. 1031 375 476 104 128
+c 2230 45 183 59 Blue Yellow
+h 2230 430 128
+q cep-quadra. 1032 476 116 12 9
+r 2230 189 6 430 310 Yellow Blue
+c 2230 11 274 98 Blue Yellow
+s 2230 70 486
+q cep-quadra. 1033 173 304 6 93
+h 2231 39 27
+q cep-quadra. 1034 76 217 125 142
+r 2232 124 197 84 179 Yellow Blue
+r 2232 174 113 161 441 Yellow Blue
+r 2232 0 96 409 184 Yellow Blue
+s 2232 58 172
+r 2233 195 0 191 412 Yellow Blue
+h 2233 435 201
+r 2234 107 104 467 333 Yellow Blue
+r 2234 50 33 68 155 Yellow Blue
+s 2234 334 177
+s 2234 148 130
+h 2234 457 292
+h 2234 50 86
+r 2235 54 64 122 310 Yellow Blue
+s 2236 316 498
+h 2237 101 127
+h 2238 28 313
+q cep-quadra. 1035 74 16 199 4
+r 2239 182 155 179 303 Yellow Blue
+h 2240 297 289
+r 2240 124 87 260 371 Yellow Blue
+h 2240 241 317
+r 2241 63 155 218 137 Yellow Blue
+q cep-quadra. 1036 30 434 145 163
+q cep-quadra. 1037 284 395 110 96
+s 2244 350 279
+h 2244 319 416
+s 2245 333 399
+q cep-quadra. 1038 144 49 118 62
+r 2246 100 34 281 484 Yellow Blue
+q cep-quadra. 1039 454 380 146 143
+c 2248 49 468 376 Blue Yellow
+r 2249 163 190 39 381 Yellow Blue
+h 2249 188 203
+s 2249 10 455
+r 2249 98 174 424 259 Yellow Blue
+h 2249 154 83
+h 2250 483 364
+s 2250 107 39
+r 2250 67 111 101 250 Yellow Blue
+s 2251 348 400
+h 2251 388 225
+q cep-quadra. 1040 42 310 22 116
+r 2253 198 132 117 347 Yellow Blue
+c 2253 4 103 453 Blue Yellow
+h 2253 34 306
+q cep-quadra. 1041 422 125 77 153
+s 2253 186 351
+h 2253 371 359
+s 2253 354 141
+h 2253 419 403
+r 2254 31 154 494 450 Yellow Blue
+c 2255 3 62 172 Blue Yellow
+q cep-quadra. 1042 430 485 95 128
+q cep-quadra. 1043 393 285 116 73
+c 2255 0 282 371 Blue Yellow
+h 2256 92 277
+q cep-quadra. 1044 444 88 112 184
+h 2258 475 405
+s 2259 484 127
+c 2260 40 222 393 Blue Yellow
+c 2261 1 338 164 Blue Yellow
+r 2261 79 194 353 29 Yellow Blue
+s 2261 171 312
+r 2261 150 65 126 167 Yellow Blue
+q cep-quadra. 1045 178 450 195 53
+s 2262 151 419
+q cep-quadra. 1046 208 13 80 27
+h 2263 280 247
+h 2264 210 476
+s 2264 480 300
+r 2265 170 84 94 114 Yellow Blue
+r 2266 1 152 307 106 Yellow Blue
+s 2267 439 487
+c 2268 40 236 87 Blue Yellow
+s 2268 221 257
+s 2268 116 84
+h 2268 193 299
+h 2268 444 26
+h 2269 122 89
+q cep-quadra. 1047 460 48 13 31
+s 2270 197 266
+r 2271 112 115 197 109 Yellow Blue
+h 2272 479 211
+r 2273 52 123 80 37 Yellow Blue
+q cep-quadra. 1048 461 221 18 74
+s 2274 480 373
+h 2274 22 229
+h 2275 8 132
+s 2275 391 136
+r 2275 184 199 105 299 Yellow Blue
+q cep-quadra. 1049 232 390 132 188
+s 2275 179 415
+q cep-quadra. 1050 252 253 4 28
+s 2276 160 1
+r 2276 196 57 144 279 Yellow Blue
+s 2277 159 435
+h 2277 77 215
+h 2278 257 149
+c 2279 3 397 396 Blue Yellow
+q cep-quadra. 1051 383 142 92 55
+h 2280 341 383
+q cep-quadra. 1052 117 137 102 187
+c 2281 17 450 110 Blue Yellow
+q cep-quadra. 1053 85 125 62 141
+r 2282 50 97 334 396 Yellow Blue
+r 2283 164 7 30 406 Yellow Blue
+h 2283 468 457
+q cep-quadra. 1054 50 27 84 178
+s 2283 253 151
+h 2283 487 444
+h 2284 19 139
+q cep-quadra. 1055 114 351 31 61
+h 2285 150 408
+r 2286 156 37 152 147 Yellow Blue
+h 2286 24 408
+s 2287 327 290
+s 2288 205 233
+s 2288 259 310
+q cep-quadra. 1056 367 448 43 189
+c 2289 9 75 284 Blue Yellow
+r 2290 142 90 165 384 Yellow Blue
+c 2291 39 229 1 Blue Yellow
+s 2291 97 98
+r 2292 168 6 311 211 Yellow Blue
+c 2293 26 219 473 Blue Yellow
+r 2294 19 72 498 199 Yellow Blue
+h 2294 103 18
+r 2294 26 55 434 429 Yellow Blue
+c 2295 1 159 111 Blue Yellow
+q cep-quadra. 1057 195 306 37 23
+q cep-quadra. 1058 178 89 174 142
+r 2296 34 6 78 200 Yellow Blue
+c 2296 29 44 161 Blue Yellow
+h 2297 243 273
+h 2298 253 256
+r 2298 49 5 61 318 Yellow Blue
+c 2298 12 244 277 Blue Yellow
+s 2298 396 282
+h 2298 309 70
+r 2298 136 134 481 217 Yellow Blue
+q cep-quadra. 1059 318 126 28 32
+h 2298 487 373
+q cep-quadra. 1060 363 181 131 145
+q cep-quadra. 1061 368 302 193 161
+q cep-quadra. 1062 134 385 146 4
+s 2299 481 343
+c 2300 23 192 96 Blue Yellow
+h 2301 24 181
+s 2302 210 405
+s 2303 245 5
+s 2303 336 183
+s 2303 288 64
+q cep-quadra. 1063 257 202 65 166
+h 2304 5 103
+s 2304 468 284
+c 2305 48 444 269 Blue Yellow
+r 2306 180 112 396 242 Yellow Blue
+r 2306 73 74 344 79 Yellow Blue
+q cep-quadra. 1064 81 478 9 51
+h 2306 427 458
+c 2307 27 77 305 Blue Yellow
+c 2307 31 98 211 Blue Yellow
+q cep-quadra. 1065 267 454 82 12
+h 2308 320 199
+h 2308 107 173
+r 2308 197 139 93 131 Yellow Blue
+h 2308 135 486
+h 2308 80 130
+s 2308 436 189
+h 2308 116 260
+q cep-quadra. 1066 364 38 116 47
+r 2308 95 92 446 380 Yellow Blue
+q cep-quadra. 1067 119 249 152 79
+q cep-quadra. 1068 123 142 90 17
+h 2310 111 493
+s 2311 9 67
+s 2311 404 256
+q cep-quadra. 1069 338 325 65 99
+r 2311 71 124 241 60 Yellow Blue
+h 2311 171 339
+h 2311 151 4
+s 2312 28 175
+s 2312 199 306
+q cep-quadra. 1070 363 213 77 22
+c 2312 40 155 479 Blue Yellow
+s 2313 405 214
+r 2314 34 121 138 384 Yellow Blue
+s 2314 58 176
+h 2315 291 151
+c 2315 23 94 468 Blue Yellow
+q cep-quadra. 1071 416 483 84 122
+r 2316 52 22 306 251 Yellow Blue
+r 2317 85 103 438 156 Yellow Blue
+h 2317 419 294
+q cep-quadra. 1072 231 178 7 182
+q cep-quadra. 1073 200 339 119 125
+q cep-quadra. 1074 276 321 60 131
+c 2319 23 457 458 Blue Yellow
+s 2320 484 319
+h 2320 106 170
+h 2320 207 163
+c 2320 45 39 167 Blue Yellow
+s 2320 421 260
+h 2321 143 411
+c 2322 49 345 376 Blue Yellow
+q cep-quadra. 1075 105 358 69 98
+h 2323 194 97
+r 2323 85 198 386 7 Yellow Blue
+h 2323 333 31
+h 2324 460 23
+c 2324 16 265 450 Blue Yellow
+c 2324 4 130 442 Blue Yellow
+h 2324 79 385
+s 2325 435 184
+h 2325 52 249
+q cep-quadra. 1076 225 178 156 72
+h 2326 71 495
+s 2326 107 495
+q cep-quadra. 1077 461 160 117 114
+r 2326 82 96 457 186 Yellow Blue
+h 2327 64 4
+s 2328 189 354
+h 2328 154 310
+s 2328 473 475
+q cep-quadra. 1078 201 370 70 75
+c 2328 32 280 464 Blue Yellow
+s 2329 495 309
+r 2330 57 108 368 80 Yellow Blue
+r 2331 65 40 106 228 Yellow Blue
+h 2332 201 436
+q cep-quadra. 1079 337 123 172 81
+c 2332 20 198 270 Blue Yellow
+r 2333 117 114 19 186 Yellow Blue
+c 2334 35 127 300 Blue Yellow
+c 2334 25 250 123 Blue Yellow
+r 2334 69 102 67 231 Yellow Blue
+r 2334 109 99 21 380 Yellow Blue
+s 2335 153 115
+r 2336 35 130 429 95 Yellow Blue
+r 2336 173 183 387 105 Yellow Blue
+r 2336 176 89 459 256 Yellow Blue
+c 2336 30 156 227 Blue Yellow
+h 2336 452 461
+r 2336 111 175 365 306 Yellow Blue
+c 2337 1 289 257 Blue Yellow
+c 2338 1 102 263 Blue Yellow
+r 2339 5 104 173 76 Yellow Blue
+q cep-quadra. 1080 87 91 185 179
+s 2340 374 383
+c 2341 39 228 38 Blue Yellow
+h 2342 497 125
+q cep-quadra. 1081 129 478 107 47
+r 2342 113 176 475 421 Yellow Blue
+q cep-quadra. 1082 291 372 192 178
+h 2343 344 330
+s 2343 153 131
+r 2343 41 165 316 439 Yellow Blue
+q cep-quadra. 1083 340 17 87 148
+s 2344 59 446
+h 2345 122 189
+q cep-quadra. 1084 298 112 107 47
+h 2345 415 172
+q cep-quadra. 1085 284 7 91 159
+h 2345 20 132
+s 2346 307 253
+c 2347 47 246 113 Blue Yellow
+s 2347 160 284
+s 2347 212 109
+h 2347 424 466
+q cep-quadra. 1086 408 165 191 130
+h 2348 222 446
+s 2348 318 43
+q cep-quadra. 1087 359 258 26 75
+h 2349 467 59
+r 2350 90 71 44 196 Yellow Blue
+r 2350 142 126 48 2 Yellow Blue
+r 2350 8 53 358 214 Yellow Blue
+r 2350 133 20 337 375 Yellow Blue
+s 2350 94 211
+c 2351 24 154 445 Blue Yellow
+h 2351 243 488
+r 2351 118 9 240 89 Yellow Blue
+h 2351 247 467
+s 2352 287 84
+r 2353 34 55 209 432 Yellow Blue
+r 2353 139 193 48 155 Yellow Blue
+s 2353 202 53
+h 2353 133 126
+r 2354 171 155 304 180 Yellow Blue
+h 2355 462 21
+h 2356 353 37
+h 2357 297 216
+s 2358 150 150
+s 2358 54 383
+c 2358 3 184 139 Blue Yellow
+h 2359 34 255
+s 2359 39 366
+c 2359 30 423 187 Blue Yellow
+q cep-quadra. 1088 94 463 1 129
+c 2359 16 206 482 Blue Yellow
+q cep-quadra. 1089 270 107 98 78
+r 2359 13 5 359 101 Yellow Blue
+s 2359 358 436
+h 2359 212 297
+h 2359 173 192
+h 2360 357 456
+s 2360 302 41
+r 2360 166 124 25 79 Yellow Blue
+r 2360 123 16 383 102 Yellow Blue
+s 2360 71 254
+s 2361 239 116
+s 2361 365 12
+s 2362 374 497
+s 2362 442 479
+c 2362 19 152 186 Blue Yellow
+c 2362 5 392 46 Blue Yellow
+s 2362 32 76
+h 2363 230 315
+c 2364 30 265 399 Blue Yellow
+c 2364 15 478 349 Blue Yellow
+r 2365 131 104 69 22 Yellow Blue
+s 2365 167 490
+c 2366 12 21 303 Blue Yellow
+s 2367 95 44
+s 2367 209 312
+q cep-quadra. 1090 416 71 137 39
+h 2368 89 499
+h 2368 69 74
+r 2369 64 198 93 14 Yellow Blue
+c 2370 24 419 384 Blue Yellow
+q cep-quadra. 1091 200 371 47 26
+c 2371 1 442 448 Blue Yellow
+r 2371 145 191 344 435 Yellow Blue
+s 2371 132 201
+c 2371 36 315 219 Blue Yellow
+c 2372 46 343 61 Blue Yellow
+r 2372 19 99 138 307 Yellow Blue
+h 2372 186 282
+q cep-quadra. 1092 322 468 66 199
+q cep-quadra. 1093 440 412 198 20
+r 2374 10 20 174 391 Yellow Blue
+q cep-quadra. 1094 93 39 41 39
+r 2376 48 180 302 82 Yellow Blue
+h 2376 176 344
+h 2377 419 365
+c 2377 29 416 45 Blue Yellow
+h 2378 182 231
+c 2378 15 357 222 Blue Yellow
+r 2378 62 183 473 400 Yellow Blue
+c 2379 3 325 489 Blue Yellow
+h 2379 121 367
+q cep-quadra. 1095 463 3 124 152
+c 2380 25 135 65 Blue Yellow
+r 2380 148 2 319 256 Yellow Blue
+h 2380 335 330
+q cep-quadra. 1096 252 163 6 23
+h 2380 250 360
+c 2380 11 40 347 Blue Yellow
+q cep-quadra. 1097 334 288 55 75
+r 2381 8 1 167 265 Yellow Blue
+c 2381 43 482 184 Blue Yellow
+c 2381 25 271 212 Blue Yellow
+c 2382 44 417 67 Blue Yellow
+c 2382 8 316 193 Blue Yellow
+q cep-quadra. 1098 178 179 168 28
+s 2383 335 400
+s 2383 499 408
+s 2384 141 434
+r 2385 166 199 151 235 Yellow Blue
+h 2386 47 174
+s 2387 392 226
+s 2387 105 203
+r 2388 147 22 289 103 Yellow Blue
+r 2389 30 41 133 297 Yellow Blue
+q cep-quadra. 1099 364 382 5 76
+s 2389 39 266
+h 2390 259 92
+r 2391 125 66 361 454 Yellow Blue
+s 2392 370 491
+r 2392 76 110 252 444 Yellow Blue
+s 2392 167 256
+c 2392 0 47 369 Blue Yellow
+s 2393 277 181
+s 2394 48 330
+c 2394 38 365 420 Blue Yellow
+s 2395 294 99
+r 2396 193 25 298 8 Yellow Blue
+s 2396 357 198
+s 2396 84 437
+r 2397 89 43 385 140 Yellow Blue
+c 2397 32 139 320 Blue Yellow
+c 2398 25 458 348 Blue Yellow
+s 2398 32 60
+q cep-quadra. 1100 108 56 189 149
+c 2399 5 3 15 Blue Yellow
+h 2399 378 175
+c 2399 34 189 268 Blue Yellow
+h 2399 75 207
+h 2400 22 402
+c 2400 39 349 199 Blue Yellow
+s 2400 235 60
+s 2401 469 396
+r 2401 85 73 50 62 Yellow Blue
+c 2401 30 477 274 Blue Yellow
+c 2401 39 109 433 Blue Yellow
+s 2401 15 42
+q cep-quadra. 1101 63 146 174 159
+s 2403 82 275
+q cep-quadra. 1102 177 352 173 94
+q cep-quadra. 1103 321 81 151 79
+s 2404 100 10
+q cep-quadra. 1104 136 307 66 36
+h 2405 404 281
+c 2405 17 349 463 Blue Yellow
+q cep-quadra. 1105 11 463 63 172
+c 2405 7 106 82 Blue Yellow
+q cep-quadra. 1106 46 354 78 198
+c 2406 47 365 12 Blue Yellow
+h 2406 445 75
+c 2407 10 66 131 Blue Yellow
+q cep-quadra. 1107 115 225 156 197
+q cep-quadra. 1108 309 318 53 22
+c 2409 46 318 265 Blue Yellow
+s 2410 457 174
+r 2410 191 57 404 192 Yellow Blue
+h 2410 164 441
+q cep-quadra. 1109 190 332 64 196
+s 2411 333 291
+s 2412 279 324
+c 2413 4 225 244 Blue Yellow
+s 2414 125 360
+s 2414 275 36
+r 2415 127 187 98 383 Yellow Blue
+c 2415 37 393 391 Blue Yellow
+r 2415 114 54 476 133 Yellow Blue
+q cep-quadra. 1110 244 376 127 192
+r 2416 74 186 493 16 Yellow Blue
+s 2417 251 256
+r 2418 53 87 395 148 Yellow Blue
+h 2418 497 274
+c 2418 23 290 203 Blue Yellow
+s 2419 469 308
+s 2420 136 146
+s 2421 269 445
+q cep-quadra. 1111 72 205 168 150
+q cep-quadra. 1112 221 204 115 23
+h 2423 357 450
+q cep-quadra. 1113 459 68 143 166
+c 2425 16 191 215 Blue Yellow
+c 2425 44 67 118 Blue Yellow
+c 2426 7 437 301 Blue Yellow
+c 2426 2 93 74 Blue Yellow
+c 2427 30 213 189 Blue Yellow
+s 2427 352 114
+s 2427 62 243
+q cep-quadra. 1114 162 78 185 149
+r 2428 101 130 157 124 Yellow Blue
+r 2429 141 2 31 234 Yellow Blue
+r 2430 18 128 433 309 Yellow Blue
+q cep-quadra. 1115 375 400 25 189
+c 2431 31 498 421 Blue Yellow
+c 2432 33 23 32 Blue Yellow
+h 2433 30 407
+c 2434 39 108 379 Blue Yellow
+r 2435 174 21 429 440 Yellow Blue
+s 2435 98 442
+r 2436 34 195 56 466 Yellow Blue
+s 2436 468 115
+c 2436 32 463 388 Blue Yellow
+c 2436 30 118 408 Blue Yellow
+c 2437 42 303 373 Blue Yellow
+r 2438 144 124 160 457 Yellow Blue
+q cep-quadra. 1116 362 288 176 72
+c 2440 7 392 204 Blue Yellow
+q cep-quadra. 1117 388 464 142 77
+s 2440 78 215
+h 2440 206 218
+r 2441 19 182 225 99 Yellow Blue
+s 2442 412 25
+c 2443 9 109 228 Blue Yellow
+c 2443 49 284 406 Blue Yellow
+r 2444 129 48 305 13 Yellow Blue
+c 2444 6 377 299 Blue Yellow
+h 2444 117 120
+h 2444 18 96
+q cep-quadra. 1118 160 424 61 165
+s 2445 497 280
+c 2446 48 455 417 Blue Yellow
+q cep-quadra. 1119 26 185 190 139
+s 2446 221 125
+r 2447 33 111 363 64 Yellow Blue
+q cep-quadra. 1120 402 293 113 128
+s 2447 344 130
+q cep-quadra. 1121 403 386 110 76
+c 2448 38 150 496 Blue Yellow
+q cep-quadra. 1122 209 456 190 3
+q cep-quadra. 1123 425 465 66 69
+r 2450 133 121 16 302 Yellow Blue
+c 2450 25 492 408 Blue Yellow
+q cep-quadra. 1124 461 24 119 153
+r 2451 176 63 378 267 Yellow Blue
+s 2452 482 342
+s 2453 153 5
+r 2453 74 5 415 465 Yellow Blue
+c 2453 22 15 95 Blue Yellow
+s 2453 445 301
+r 2453 143 188 414 185 Yellow Blue
+r 2453 53 108 271 153 Yellow Blue
+s 2454 77 379
+s 2454 433 483
+s 2455 454 195
+r 2455 23 87 354 7 Yellow Blue
+h 2455 202 274
+c 2455 24 115 170 Blue Yellow
+c 2456 46 216 92 Blue Yellow
+q cep-quadra. 1125 358 137 101 107
+r 2457 32 56 109 34 Yellow Blue
+s 2457 300 340
+c 2457 11 344 136 Blue Yellow
+s 2457 454 213
+c 2457 19 364 290 Blue Yellow
+r 2458 9 171 114 354 Yellow Blue
+s 2459 299 340
+r 2460 113 8 82 107 Yellow Blue
+r 2460 85 87 82 328 Yellow Blue
+q cep-quadra. 1126 359 326 167 64
+h 2461 446 279
+h 2461 369 259
+q cep-quadra. 1127 209 97 78 78
+r 2462 86 113 430 332 Yellow Blue
+h 2463 97 271
+c 2464 10 62 389 Blue Yellow
+h 2464 26 265
+q cep-quadra. 1128 493 157 85 67
+h 2464 224 115
+r 2464 84 6 155 472 Yellow Blue
+c 2465 9 251 255 Blue Yellow
+c 2466 3 442 23 Blue Yellow
+h 2467 66 27
+q cep-quadra. 1129 456 230 124 10
+c 2467 34 266 106 Blue Yellow
+h 2468 292 251
+c 2468 23 475 465 Blue Yellow
+c 2469 10 326 319 Blue Yellow
+q cep-quadra. 1130 19 177 192 17
+h 2470 485 56
+q cep-quadra. 1131 456 240 13 105
+r 2471 79 42 33 53 Yellow Blue
+r 2472 137 139 317 123 Yellow Blue
+c 2472 22 45 12 Blue Yellow
+q cep-quadra. 1132 324 400 185 136
+h 2472 114 144
+r 2472 139 158 26 141 Yellow Blue
+s 2472 63 193
+q cep-quadra. 1133 380 310 62 24
+h 2474 62 147
+c 2474 2 268 441 Blue Yellow
+c 2474 4 186 335 Blue Yellow
+s 2474 412 236
+h 2474 69 78
+s 2474 118 338
+r 2475 120 22 99 147 Yellow Blue
+h 2475 101 470
+h 2475 440 321
+c 2475 29 293 303 Blue Yellow
+q cep-quadra. 1134 474 253 119 30
+q cep-quadra. 1135 313 264 72 178
+r 2476 41 123 453 10 Yellow Blue
+q cep-quadra. 1136 173 284 122 40
+c 2478 15 340 18 Blue Yellow
+h 2479 307 118
+q cep-quadra. 1137 80 473 38 127
+r 2480 142 113 160 42 Yellow Blue
+c 2481 8 468 46 Blue Yellow
+r 2481 6 19 374 456 Yellow Blue
+c 2482 31 124 413 Blue Yellow
+c 2483 1 476 145 Blue Yellow
+r 2483 178 19 382 180 Yellow Blue
+s 2484 412 16
+q cep-quadra. 1138 416 139 167 191
+c 2484 32 483 360 Blue Yellow
+r 2485 155 121 328 354 Yellow Blue
+s 2486 121 286
+q cep-quadra. 1139 139 251 30 146
+h 2486 115 415
+c 2486 23 492 52 Blue Yellow
+h 2487 125 180
+r 2487 62 92 266 312 Yellow Blue
+q cep-quadra. 1140 333 5 140 116
+s 2489 12 459
+h 2490 139 26
+r 2491 176 159 403 225 Yellow Blue
+h 2491 21 478
+h 2491 6 205
+r 2492 79 55 61 87 Yellow Blue
+c 2493 33 128 412 Blue Yellow
+r 2494 30 177 395 319 Yellow Blue
+h 2494 145 269
+r 2495 7 81 444 388 Yellow Blue
+q cep-quadra. 1141 445 229 72 124
+c 2495 23 489 368 Blue Yellow
+q cep-quadra. 1142 120 293 142 177
+c 2495 25 124 292 Blue Yellow
+c 2496 34 306 190 Blue Yellow
+c 2496 45 329 320 Blue Yellow
+s 2496 488 422
+r 2496 94 13 432 228 Yellow Blue
+s 2496 178 305
+q cep-quadra. 1143 100 16 117 60
+h 2498 117 98
+s 2498 131 252
+s 2498 476 256
+s 2498 128 345
+s 2498 164 174
+c 2498 4 412 204 Blue Yellow
+h 2499 323 154
+c 2500 45 53 85 Blue Yellow
+h 2500 397 344
+h 2501 309 342
+c 2502 48 306 442 Blue Yellow
+h 2502 51 188
+h 2502 59 213
+c 2503 8 456 254 Blue Yellow
+h 2504 48 293
+h 2505 29 18
+r 2506 22 175 245 306 Yellow Blue
+s 2507 185 486
+h 2507 58 91
+h 2507 250 6
+q cep-quadra. 1144 68 201 178 169
+s 2507 456 33
+r 2507 131 12 393 398 Yellow Blue
+s 2507 134 76
+q cep-quadra. 1145 284 38 120 85
+c 2508 15 94 407 Blue Yellow
+s 2508 268 456
+c 2508 40 298 141 Blue Yellow
+q cep-quadra. 1146 305 295 180 12
+r 2510 179 134 208 18 Yellow Blue
+q cep-quadra. 1147 390 99 116 34
+c 2511 9 185 462 Blue Yellow
+c 2512 47 165 186 Blue Yellow
+r 2512 25 3 307 361 Yellow Blue
+q cep-quadra. 1148 385 185 98 100
+c 2512 1 250 421 Blue Yellow
+s 2513 333 282
+r 2513 40 18 238 415 Yellow Blue
+s 2514 344 275
+h 2515 70 361
+c 2516 2 498 341 Blue Yellow
+r 2517 140 61 345 359 Yellow Blue
+q cep-quadra. 1149 202 453 172 1
+s 2517 449 411
+h 2517 389 418
+c 2518 40 101 147 Blue Yellow
+s 2519 56 262
+s 2520 110 11
+c 2520 21 189 29 Blue Yellow
+r 2521 130 137 112 167 Yellow Blue
+s 2521 275 421
+q cep-quadra. 1150 167 41 17 145
+q cep-quadra. 1151 5 170 105 52
+h 2521 177 21
+q cep-quadra. 1152 298 327 97 155
+q cep-quadra. 1153 273 118 134 123
+h 2522 6 159
+c 2522 11 161 424 Blue Yellow
+r 2522 3 100 234 324 Yellow Blue
+q cep-quadra. 1154 188 337 120 185
+r 2522 181 76 377 422 Yellow Blue
+c 2523 17 145 97 Blue Yellow
+s 2524 369 249
+r 2525 39 181 80 464 Yellow Blue
+c 2526 25 193 31 Blue Yellow
+q cep-quadra. 1155 257 475 136 165
+q cep-quadra. 1156 498 410 38 45
+q cep-quadra. 1157 63 94 196 178
+r 2529 47 82 168 69 Yellow Blue
+r 2530 21 130 186 446 Yellow Blue
+q cep-quadra. 1158 492 411 148 178
+h 2532 399 381
+q cep-quadra. 1159 448 311 39 86
+h 2534 119 106
+s 2534 287 278
+h 2534 286 214
+h 2534 461 3
+q cep-quadra. 1160 259 268 92 150
+r 2534 14 150 496 279 Yellow Blue
+h 2535 297 318
+q cep-quadra. 1161 474 76 66 127
+h 2536 261 407
+q cep-quadra. 1162 393 91 24 82
+h 2537 140 10
+q cep-quadra. 1163 464 400 109 4
+c 2538 49 471 134 Blue Yellow
+q cep-quadra. 1164 201 346 33 112
+h 2538 403 190
+s 2539 418 104
+h 2539 259 357
+r 2539 56 16 78 297 Yellow Blue
+s 2540 481 413
+h 2541 76 280
+c 2541 0 462 235 Blue Yellow
+s 2542 491 185
+c 2543 40 36 56 Blue Yellow
+s 2543 363 393
+s 2543 38 185
+q cep-quadra. 1165 1 415 46 35
+c 2544 44 380 371 Blue Yellow
+c 2544 13 372 355 Blue Yellow
+r 2544 147 133 312 59 Yellow Blue
+h 2545 408 466
+r 2546 25 89 452 344 Yellow Blue
+q cep-quadra. 1166 58 152 117 188
+h 2548 9 402
+q cep-quadra. 1167 444 266 54 75
+s 2549 388 231
+r 2550 109 146 59 458 Yellow Blue
+c 2550 46 265 476 Blue Yellow
+r 2551 90 152 499 203 Yellow Blue
+c 2552 29 4 384 Blue Yellow
+c 2552 21 203 167 Blue Yellow
+h 2552 313 378
+q cep-quadra. 1168 195 207 196 87
+s 2553 251 250
+h 2553 300 437
+q cep-quadra. 1169 275 397 66 76
+c 2554 31 427 325 Blue Yellow
+h 2555 343 5
+r 2555 118 196 73 45 Yellow Blue
+s 2555 419 213
+s 2556 220 481
+h 2557 53 108
+s 2557 15 208
+s 2558 77 25
+q cep-quadra. 1170 21 2 114 62
+h 2560 6 17
+c 2561 12 278 27 Blue Yellow
+s 2562 348 487
+r 2562 162 143 181 188 Yellow Blue
+r 2563 18 14 259 0 Yellow Blue
+s 2563 290 460
+s 2564 27 144
+r 2565 24 186 52 458 Yellow Blue
+h 2566 49 399
+c 2566 2 217 147 Blue Yellow
+c 2566 31 251 413 Blue Yellow
+c 2567 20 237 122 Blue Yellow
+h 2567 417 17
+c 2567 22 43 203 Blue Yellow
+r 2568 55 91 94 359 Yellow Blue
+r 2568 87 197 267 80 Yellow Blue
+h 2569 417 127
+c 2570 0 146 18 Blue Yellow
+r 2570 17 66 24 385 Yellow Blue
+h 2571 61 180
+q cep-quadra. 1171 164 410 183 69
+s 2572 494 498
+c 2573 19 184 336 Blue Yellow
+c 2574 7 347 316 Blue Yellow
+c 2574 9 2 179 Blue Yellow
+q cep-quadra. 1172 473 438 50 11
+c 2575 31 348 64 Blue Yellow
+q cep-quadra. 1173 17 196 174 95
+h 2576 267 381
+r 2577 143 72 134 82 Yellow Blue
+r 2577 164 67 0 495 Yellow Blue
+c 2578 49 433 104 Blue Yellow
+c 2579 13 1 234 Blue Yellow
+c 2579 20 282 376 Blue Yellow
+s 2580 88 214
+r 2581 166 139 178 28 Yellow Blue
+s 2582 103 88
+c 2582 48 451 27 Blue Yellow
+s 2583 19 428
+h 2583 50 439
+h 2583 232 223
+r 2583 22 34 315 240 Yellow Blue
+c 2583 22 200 270 Blue Yellow
+r 2583 119 18 94 489 Yellow Blue
+s 2583 76 73
+h 2583 114 315
+h 2584 311 445
+c 2584 30 389 322 Blue Yellow
+c 2585 25 49 446 Blue Yellow
+r 2586 182 34 483 225 Yellow Blue
+s 2586 97 416
+r 2586 109 129 469 328 Yellow Blue
+c 2587 16 68 40 Blue Yellow
+q cep-quadra. 1174 429 202 112 122
+s 2588 284 108
+s 2589 344 311
+r 2590 71 194 437 427 Yellow Blue
+s 2591 480 148
+c 2592 23 166 364 Blue Yellow
+r 2593 30 34 269 305 Yellow Blue
+c 2593 48 85 188 Blue Yellow
+r 2594 114 30 38 227 Yellow Blue
+h 2594 444 412
+r 2595 116 42 1 322 Yellow Blue
+s 2596 103 209
+r 2597 102 102 30 235 Yellow Blue
+q cep-quadra. 1175 412 446 122 34
+r 2598 102 157 236 416 Yellow Blue
+r 2599 29 173 31 299 Yellow Blue
+c 2599 21 1 54 Blue Yellow
+s 2599 152 283
+h 2600 441 464
+c 2601 19 262 378 Blue Yellow
+c 2602 10 76 30 Blue Yellow
+h 2602 272 243
+q cep-quadra. 1176 117 86 45 124
+c 2603 24 435 64 Blue Yellow
+q cep-quadra. 1177 56 272 197 29
+h 2605 160 220
+s 2605 369 116
+q cep-quadra. 1178 245 373 72 22
+c 2606 41 406 328 Blue Yellow
+c 2606 36 301 102 Blue Yellow
+r 2607 0 70 74 24 Yellow Blue
+h 2608 248 282
+c 2609 25 308 434 Blue Yellow
+c 2610 22 476 88 Blue Yellow
+q cep-quadra. 1179 162 121 123 145
+r 2610 60 134 304 427 Yellow Blue
+s 2610 209 32
+s 2610 48 270
+q cep-quadra. 1180 41 311 94 80
+q cep-quadra. 1181 134 73 119 12
+q cep-quadra. 1182 222 185 98 134
+h 2611 455 120
+s 2611 462 368
+s 2612 68 315
+q cep-quadra. 1183 390 79 144 100
+q cep-quadra. 1184 145 208 133 157
+c 2613 20 499 77 Blue Yellow
+q cep-quadra. 1185 347 45 135 185
+h 2614 24 335
+c 2615 21 105 148 Blue Yellow
+r 2615 172 90 39 432 Yellow Blue
+q cep-quadra. 1186 476 80 119 42
+c 2617 12 85 309 Blue Yellow
+h 2617 242 37
+q cep-quadra. 1187 332 208 108 11
+c 2618 46 158 388 Blue Yellow
+r 2618 135 3 4 352 Yellow Blue
+c 2618 21 384 298 Blue Yellow
+c 2618 34 456 497 Blue Yellow
+s 2619 47 41
+r 2619 4 110 249 166 Yellow Blue
+c 2620 41 440 385 Blue Yellow
+s 2621 217 14
+s 2621 122 410
+c 2622 32 257 180 Blue Yellow
+q cep-quadra. 1188 51 47 41 101
+r 2622 153 4 273 287 Yellow Blue
+q cep-quadra. 1189 318 388 89 34
+c 2622 36 465 22 Blue Yellow
+q cep-quadra. 1190 152 352 26 86
+q cep-quadra. 1191 234 258 13 115
+c 2623 23 375 99 Blue Yellow
+s 2623 98 430
+r 2624 26 170 157 138 Yellow Blue
+c 2625 11 239 156 Blue Yellow
+c 2626 33 118 335 Blue Yellow
+q cep-quadra. 1192 202 404 156 122
+h 2627 90 467
+c 2627 14 176 285 Blue Yellow
+s 2627 370 183
+q cep-quadra. 1193 122 400 2 36
+r 2629 175 131 108 305 Yellow Blue
+s 2629 124 43
+q cep-quadra. 1194 462 142 169 116
+s 2629 483 85
+r 2630 115 160 354 180 Yellow Blue
+r 2630 86 1 234 48 Yellow Blue
+c 2630 33 150 154 Blue Yellow
+c 2630 34 335 2 Blue Yellow
+c 2631 31 227 224 Blue Yellow
+c 2631 3 495 14 Blue Yellow
+s 2631 339 63
+c 2631 8 232 106 Blue Yellow
+c 2631 42 230 217 Blue Yellow
+c 2632 37 451 343 Blue Yellow
+h 2632 391 476
+h 2632 320 110
+h 2632 55 319
+s 2633 304 191
+s 2633 237 128
+c 2634 49 145 417 Blue Yellow
+h 2634 374 360
+h 2634 90 432
+q cep-quadra. 1195 282 61 21 110
+q cep-quadra. 1196 338 348 66 111
+c 2636 48 364 267 Blue Yellow
+r 2637 73 71 167 494 Yellow Blue
+s 2637 448 467
+q cep-quadra. 1197 20 149 81 19
+q cep-quadra. 1198 83 190 126 48
+q cep-quadra. 1199 23 65 180 185
+q cep-quadra. 1200 362 202 137 64
+h 2640 59 279
+r 2641 176 73 78 334 Yellow Blue
+c 2641 21 8 108 Blue Yellow
+s 2642 287 258
+q cep-quadra. 1201 99 11 126 51
+q cep-quadra. 1202 278 194 94 190
+s 2644 409 78
+h 2644 401 470
+c 2644 25 212 225 Blue Yellow
+q cep-quadra. 1203 63 278 75 13
+s 2645 225 89
+r 2645 66 11 91 246 Yellow Blue
+q cep-quadra. 1204 248 319 173 130
+s 2646 162 368
+s 2647 441 38
+h 2647 380 318
+q cep-quadra. 1205 160 9 118 11
+s 2648 442 335
+c 2649 47 110 332 Blue Yellow
+s 2649 243 277
+q cep-quadra. 1206 415 405 136 185
+r 2650 4 48 53 362 Yellow Blue
+h 2650 278 28
+q cep-quadra. 1207 128 223 1 62
+h 2651 14 406
+r 2651 55 132 81 30 Yellow Blue
+h 2651 337 350
+s 2651 454 303
+q cep-quadra. 1208 340 192 133 189
+s 2653 59 10
+r 2653 97 64 419 240 Yellow Blue
+s 2653 78 454
+q cep-quadra. 1209 81 248 69 13
+h 2653 207 473
+c 2653 11 276 342 Blue Yellow
+c 2653 5 44 346 Blue Yellow
+h 2654 37 310
+s 2655 163 367
+h 2656 216 9
+h 2657 321 122
+s 2657 128 5
+s 2657 317 393
+h 2658 17 401
+r 2658 76 70 157 117 Yellow Blue
+r 2659 45 168 159 154 Yellow Blue
+q cep-quadra. 1210 459 212 81 27
+s 2659 260 486
+q cep-quadra. 1211 352 457 194 22
+c 2660 15 51 280 Blue Yellow
+r 2661 90 144 414 374 Yellow Blue
+h 2661 43 196
+c 2662 39 383 174 Blue Yellow
+q cep-quadra. 1212 221 170 10 42
+c 2663 42 162 29 Blue Yellow
+c 2664 6 108 29 Blue Yellow
+c 2665 8 23 225 Blue Yellow
+q cep-quadra. 1213 360 451 139 113
+r 2666 56 78 59 395 Yellow Blue
+h 2666 92 322
+q cep-quadra. 1214 258 323 167 194
+s 2667 322 419
+h 2668 422 92
+r 2669 111 196 462 8 Yellow Blue
+h 2669 227 312
+s 2669 51 250
+s 2670 278 436
+r 2670 93 99 20 18 Yellow Blue
+c 2670 44 152 295 Blue Yellow
+s 2670 33 108
+h 2670 187 165
+c 2671 29 198 130 Blue Yellow
+s 2671 130 185
+h 2671 154 296
+r 2671 196 81 463 486 Yellow Blue
+q cep-quadra. 1215 43 424 186 162
+s 2672 108 293
+s 2672 244 434
+q cep-quadra. 1216 326 256 122 180
+s 2674 442 366
+s 2674 277 296
+c 2674 13 465 480 Blue Yellow
+c 2674 39 43 275 Blue Yellow
+q cep-quadra. 1217 175 301 198 3
+s 2675 85 423
+c 2675 32 324 215 Blue Yellow
+h 2675 265 325
+h 2675 300 310
+h 2675 254 329
+s 2676 382 321
+r 2677 196 164 334 337 Yellow Blue
+h 2677 190 378
+s 2677 3 472
+q cep-quadra. 1218 294 499 117 198
+s 2677 113 49
+c 2678 32 213 101 Blue Yellow
+s 2679 265 374
+r 2679 176 105 94 158 Yellow Blue
+s 2679 5 27
+c 2680 49 118 304 Blue Yellow
+s 2680 381 281
+r 2681 39 186 165 276 Yellow Blue
+r 2681 124 16 47 29 Yellow Blue
+h 2682 354 493
+s 2682 107 453
+c 2682 15 496 457 Blue Yellow
+s 2683 382 198
+h 2683 125 400
+q cep-quadra. 1219 196 148 16 185
+h 2684 325 417
+c 2685 15 135 326 Blue Yellow
+r 2685 150 95 273 102 Yellow Blue
+s 2686 100 270
+s 2686 278 431
+r 2686 157 75 89 125 Yellow Blue
+c 2686 5 349 409 Blue Yellow
+r 2687 193 60 387 147 Yellow Blue
+s 2687 150 379
+c 2688 49 161 208 Blue Yellow
+s 2689 391 91
+q cep-quadra. 1220 411 198 9 95
+q cep-quadra. 1221 30 332 122 48
+c 2691 21 201 408 Blue Yellow
+s 2692 138 391
+c 2693 43 244 428 Blue Yellow
+r 2694 125 66 35 308 Yellow Blue
+h 2695 270 270
+c 2695 14 78 98 Blue Yellow
+r 2696 155 78 326 373 Yellow Blue
+h 2697 296 455
+q cep-quadra. 1222 278 182 126 135
+c 2697 11 455 99 Blue Yellow
+h 2698 91 269
+s 2699 266 123
+s 2700 459 167
+s 2700 223 221
+h 2700 266 316
+r 2701 103 149 308 61 Yellow Blue
+h 2702 176 378
+q cep-quadra. 1223 102 424 139 3
+h 2702 492 302
+h 2703 127 139
+r 2703 52 54 55 92 Yellow Blue
+h 2703 397 359
+h 2703 150 291
+s 2704 385 158
+c 2705 38 483 219 Blue Yellow
+h 2705 196 267
+s 2706 269 26
+h 2707 61 54
+h 2708 151 268
+h 2708 3 434
+s 2708 389 117
+h 2709 18 361
+s 2710 240 343
+c 2711 2 289 148 Blue Yellow
+h 2711 253 159
+s 2712 443 465
+c 2713 6 229 22 Blue Yellow
+c 2713 22 399 179 Blue Yellow
+s 2713 236 256
+s 2714 91 106
+s 2715 62 180
+c 2716 34 208 263 Blue Yellow
+h 2716 366 248
+s 2716 291 293
+r 2716 59 169 340 184 Yellow Blue
+c 2717 8 313 389 Blue Yellow
+s 2718 94 171
+s 2718 488 301
+r 2719 151 111 386 365 Yellow Blue
+s 2719 116 390
+q cep-quadra. 1224 260 476 161 75
+h 2720 196 57
+q cep-quadra. 1225 294 260 4 119
+s 2721 388 422
+s 2722 331 473
+h 2722 310 227
+r 2723 113 116 224 205 Yellow Blue
+h 2724 55 63
+c 2724 11 246 202 Blue Yellow
+c 2724 40 316 288 Blue Yellow
+r 2725 194 199 79 289 Yellow Blue
+q cep-quadra. 1226 220 185 116 141
+h 2727 202 396
+c 2727 35 287 427 Blue Yellow
+h 2727 492 151
+c 2727 42 247 54 Blue Yellow
+q cep-quadra. 1227 298 359 35 119
+c 2728 30 85 140 Blue Yellow
+r 2728 100 17 260 451 Yellow Blue
+r 2729 71 131 283 485 Yellow Blue
+s 2729 340 42
+s 2730 448 157
+s 2731 383 240
+r 2731 187 125 157 219 Yellow Blue
+q cep-quadra. 1228 87 17 67 11
+r 2732 147 102 369 477 Yellow Blue
+s 2733 103 421
+h 2734 150 192
+r 2735 75 59 452 74 Yellow Blue
+q cep-quadra. 1229 182 169 79 170
+s 2736 184 410
+r 2736 130 95 448 129 Yellow Blue
+c 2737 10 143 51 Blue Yellow
+q cep-quadra. 1230 405 72 178 156
+r 2738 136 23 172 159 Yellow Blue
+c 2739 16 146 329 Blue Yellow
+s 2739 443 447
+c 2740 7 119 270 Blue Yellow
+r 2741 188 134 211 323 Yellow Blue
+q cep-quadra. 1231 326 235 43 37
+q cep-quadra. 1232 286 328 29 166
+r 2741 176 163 420 47 Yellow Blue
+c 2742 21 470 302 Blue Yellow
+q cep-quadra. 1233 306 53 120 59
+r 2742 193 91 489 379 Yellow Blue
+r 2743 116 156 136 432 Yellow Blue
+q cep-quadra. 1234 303 56 64 71
+q cep-quadra. 1235 465 200 52 22
+r 2743 148 182 212 83 Yellow Blue
+c 2744 7 421 215 Blue Yellow
+r 2744 5 147 445 106 Yellow Blue
+h 2744 101 479
+s 2745 304 348
+s 2746 175 432
+s 2746 177 13
+s 2746 311 117
+q cep-quadra. 1236 340 440 156 157
+h 2746 165 21
+r 2746 99 7 278 267 Yellow Blue
+r 2747 175 175 203 192 Yellow Blue
+h 2747 425 135
+r 2747 18 90 259 213 Yellow Blue
+c 2747 44 194 140 Blue Yellow
+q cep-quadra. 1237 388 154 74 106
+s 2748 343 231
+s 2748 104 386
+c 2748 21 74 168 Blue Yellow
+r 2749 157 15 499 115 Yellow Blue
+r 2749 76 182 290 127 Yellow Blue
+c 2750 37 445 174 Blue Yellow
+s 2750 5 453
+h 2750 488 16
+c 2750 23 284 89 Blue Yellow
+c 2750 8 92 351 Blue Yellow
+s 2751 304 414
+c 2752 35 3 15 Blue Yellow
+h 2752 190 259
+r 2752 59 47 194 472 Yellow Blue
+h 2752 76 410
+q cep-quadra. 1238 208 432 198 48
+s 2753 30 59
+c 2753 1 226 82 Blue Yellow
+q cep-quadra. 1239 109 446 103 31
+h 2754 147 314
+q cep-quadra. 1240 249 481 122 31
+c 2754 45 440 328 Blue Yellow
+r 2754 196 80 62 260 Yellow Blue
+r 2755 52 90 294 285 Yellow Blue
+q cep-quadra. 1241 126 202 15 143
+c 2756 17 416 42 Blue Yellow
+s 2756 243 325
+h 2757 425 149
+c 2758 43 372 358 Blue Yellow
+q cep-quadra. 1242 345 365 35 125
+r 2760 54 143 364 266 Yellow Blue
+c 2761 49 160 19 Blue Yellow
+c 2762 3 472 261 Blue Yellow
+c 2762 37 83 71 Blue Yellow
+h 2762 150 439
+s 2763 403 431
+r 2764 82 24 213 429 Yellow Blue
+h 2764 144 103
+c 2764 45 395 381 Blue Yellow
+s 2764 128 119
+c 2764 34 349 121 Blue Yellow
+h 2765 113 173
+c 2766 15 130 110 Blue Yellow
+q cep-quadra. 1243 360 266 161 135
+q cep-quadra. 1244 439 352 0 18
+r 2767 4 156 228 137 Yellow Blue
+h 2768 222 322
+r 2769 196 95 253 25 Yellow Blue
+h 2770 396 308
+c 2770 24 452 394 Blue Yellow
+s 2770 476 274
+r 2770 17 10 376 95 Yellow Blue
+h 2770 428 68
+s 2771 278 69
+r 2772 49 104 96 107 Yellow Blue
+h 2772 405 463
+c 2772 30 138 373 Blue Yellow
+s 2772 421 492
+s 2773 494 30
+h 2773 93 43
+c 2773 39 39 252 Blue Yellow
+c 2773 0 162 84 Blue Yellow
+r 2774 44 135 386 257 Yellow Blue
+h 2774 304 25
+r 2774 38 136 66 58 Yellow Blue
+s 2774 432 190
+s 2774 337 15
+q cep-quadra. 1245 18 170 30 126
+c 2774 45 123 193 Blue Yellow
+s 2774 176 90
+r 2775 80 136 338 328 Yellow Blue
+r 2776 119 95 383 236 Yellow Blue
+h 2776 316 51
+c 2777 49 339 76 Blue Yellow
+r 2777 91 133 111 481 Yellow Blue
+s 2777 277 373
+h 2777 252 294
+q cep-quadra. 1246 109 108 20 159
+s 2778 31 189
+c 2778 15 313 75 Blue Yellow
+h 2778 95 440
+r 2779 103 150 247 334 Yellow Blue
+s 2780 76 7
+h 2781 339 254
+h 2782 440 27
+q cep-quadra. 1247 468 74 130 170
+s 2782 115 148
+h 2782 234 368
+h 2783 183 409
+r 2784 56 159 410 53 Yellow Blue
+h 2784 115 384
+c 2784 32 194 59 Blue Yellow
+s 2785 199 414
+s 2785 59 3
+q cep-quadra. 1248 408 347 196 72
+h 2786 482 28
+r 2786 51 60 69 258 Yellow Blue
+h 2786 203 58
+s 2787 193 139
+s 2788 149 7
+r 2788 170 169 344 289 Yellow Blue
+q cep-quadra. 1249 269 345 18 2
+c 2790 16 315 483 Blue Yellow
+r 2791 169 6 7 248 Yellow Blue
+s 2791 407 361
+s 2792 165 227
+q cep-quadra. 1250 468 459 11 113
+r 2793 44 167 296 265 Yellow Blue
+s 2794 397 97
+r 2795 109 49 475 297 Yellow Blue
+h 2795 346 281
+q cep-quadra. 1251 357 260 169 147
+r 2796 169 107 221 341 Yellow Blue
+r 2796 84 19 77 324 Yellow Blue
+q cep-quadra. 1252 236 116 10 114
+r 2797 93 173 412 275 Yellow Blue
+r 2797 32 7 11 24 Yellow Blue
+q cep-quadra. 1253 367 174 6 76
+q cep-quadra. 1254 72 291 39 153
+h 2799 457 96
+h 2799 498 481
+s 2799 91 313
+q cep-quadra. 1255 5 421 164 165
+h 2799 397 251
+q cep-quadra. 1256 445 138 188 46
+h 2801 441 398
+h 2802 410 269
+r 2803 188 179 66 29 Yellow Blue
+c 2803 23 383 217 Blue Yellow
+q cep-quadra. 1257 2 75 127 186
+s 2805 254 229
+c 2806 48 116 239 Blue Yellow
+c 2806 40 298 379 Blue Yellow
+c 2807 46 266 417 Blue Yellow
+s 2807 88 334
+c 2807 44 198 150 Blue Yellow
+h 2808 199 16
+s 2808 480 229
+s 2808 307 175
+r 2808 30 148 124 340 Yellow Blue
+c 2808 33 496 284 Blue Yellow
+r 2808 5 101 107 256 Yellow Blue
+h 2809 102 495
+h 2809 278 412
+c 2809 0 128 262 Blue Yellow
+h 2810 64 347
+q cep-quadra. 1258 409 334 105 72
+c 2811 2 162 458 Blue Yellow
+q cep-quadra. 1259 290 43 115 81
+s 2812 371 36
+q cep-quadra. 1260 84 73 52 140
+c 2813 17 233 426 Blue Yellow
+r 2814 7 116 100 386 Yellow Blue
+c 2814 26 486 230 Blue Yellow
+r 2814 27 178 436 373 Yellow Blue
+h 2814 105 247
+s 2814 29 138
+h 2814 147 95
+s 2815 429 107
+s 2815 363 152
+q cep-quadra. 1261 398 349 11 193
+s 2816 144 227
+r 2816 31 45 482 179 Yellow Blue
+h 2817 270 333
+h 2817 162 317
+q cep-quadra. 1262 135 165 1 48
+s 2818 100 37
+r 2818 126 100 75 171 Yellow Blue
+h 2819 156 151
+r 2819 140 33 434 295 Yellow Blue
+c 2820 47 174 257 Blue Yellow
+h 2821 490 428
+r 2821 46 168 300 49 Yellow Blue
+h 2821 313 262
+s 2821 248 456
+c 2822 49 284 256 Blue Yellow
+c 2823 7 132 30 Blue Yellow
+s 2824 421 187
+r 2824 126 114 133 10 Yellow Blue
+r 2824 146 22 220 364 Yellow Blue
+q cep-quadra. 1263 398 296 47 146
+q cep-quadra. 1264 24 166 62 60
+s 2825 158 64
+q cep-quadra. 1265 83 210 184 2
+c 2825 33 324 328 Blue Yellow
+c 2825 7 55 112 Blue Yellow
+h 2825 388 119
+r 2825 26 60 240 212 Yellow Blue
+r 2825 13 102 347 17 Yellow Blue
+h 2825 86 120
+h 2825 105 394
+r 2826 65 22 236 314 Yellow Blue
+h 2826 424 202
+c 2826 15 274 202 Blue Yellow
+c 2826 8 205 66 Blue Yellow
+h 2826 256 38
+h 2827 26 434
+h 2827 256 468
+r 2827 10 120 304 70 Yellow Blue
+q cep-quadra. 1266 331 445 48 181
+q cep-quadra. 1267 302 421 108 105
+r 2827 167 160 402 315 Yellow Blue
+c 2828 3 234 156 Blue Yellow
+r 2829 179 89 457 377 Yellow Blue
+h 2829 300 322
+r 2830 177 88 266 382 Yellow Blue
+s 2830 330 36
+q cep-quadra. 1268 224 316 121 47
+c 2830 29 329 432 Blue Yellow
+h 2830 106 415
+s 2830 457 484
+q cep-quadra. 1269 393 117 187 0
+r 2832 94 102 89 8 Yellow Blue
+h 2832 403 180
+s 2832 411 450
+r 2832 41 82 402 128 Yellow Blue
+s 2832 224 337
+q cep-quadra. 1270 174 33 135 169
+s 2832 308 394
+q cep-quadra. 1271 335 388 69 6
+s 2834 342 339
+r 2834 94 117 326 205 Yellow Blue
+q cep-quadra. 1272 147 157 44 132
+c 2835 32 3 455 Blue Yellow
+s 2835 288 277
+q cep-quadra. 1273 273 127 61 145
+h 2837 441 354
+h 2837 208 34
+c 2838 34 47 404 Blue Yellow
+q cep-quadra. 1274 417 128 75 26
+h 2838 437 295
+c 2839 20 268 255 Blue Yellow
+s 2839 423 354
+h 2840 263 286
+c 2840 15 236 492 Blue Yellow
+r 2840 191 113 372 280 Yellow Blue
+c 2840 34 149 462 Blue Yellow
+h 2840 168 53
+s 2841 189 281
+h 2841 167 282
+c 2841 13 113 485 Blue Yellow
+q cep-quadra. 1275 262 431 72 40
+r 2842 2 18 370 84 Yellow Blue
+h 2843 340 120
+r 2844 130 22 226 213 Yellow Blue
+q cep-quadra. 1276 246 55 10 39
+c 2844 47 297 364 Blue Yellow
+q cep-quadra. 1277 69 290 29 179
+r 2845 61 164 340 432 Yellow Blue
+c 2846 7 294 40 Blue Yellow
+c 2847 4 358 378 Blue Yellow
+c 2848 43 59 340 Blue Yellow
+q cep-quadra. 1278 309 21 160 27
+c 2849 24 89 55 Blue Yellow
+h 2849 193 403
+c 2849 29 234 405 Blue Yellow
+h 2849 469 424
+s 2849 64 157
+s 2849 427 10
+h 2849 81 97
+h 2849 212 478
+h 2849 55 216
+r 2850 55 124 158 293 Yellow Blue
+c 2851 4 52 218 Blue Yellow
+r 2851 180 119 58 101 Yellow Blue
+c 2852 28 131 22 Blue Yellow
+r 2852 126 120 128 141 Yellow Blue
+r 2852 141 4 374 428 Yellow Blue
+q cep-quadra. 1279 0 281 26 140
+r 2852 69 58 408 207 Yellow Blue
+q cep-quadra. 1280 259 193 127 188
+r 2853 8 150 419 173 Yellow Blue
+h 2854 470 34
+h 2854 393 206
+h 2854 378 13
+c 2854 3 372 287 Blue Yellow
+s 2854 266 249
+s 2855 277 16
+h 2856 383 409
+h 2856 88 130
+h 2857 15 305
+r 2858 154 68 243 223 Yellow Blue
+h 2858 461 426
+c 2859 6 386 313 Blue Yellow
+h 2859 246 188
+r 2859 159 113 453 98 Yellow Blue
+q cep-quadra. 1281 5 425 18 39
+q cep-quadra. 1282 441 4 12 167
+q cep-quadra. 1283 342 110 55 68
+r 2860 71 30 177 210 Yellow Blue
+c 2861 47 326 275 Blue Yellow
+h 2862 372 14
+c 2862 19 423 67 Blue Yellow
+h 2862 489 210
+h 2862 228 199
+c 2862 38 98 255 Blue Yellow
+s 2862 232 76
+c 2863 26 492 263 Blue Yellow
+c 2863 27 168 122 Blue Yellow
+s 2863 456 13
+h 2864 184 133
+c 2865 14 215 115 Blue Yellow
+h 2866 138 471
+s 2866 16 157
+r 2866 168 101 177 203 Yellow Blue
+c 2866 14 201 11 Blue Yellow
+h 2866 308 486
+s 2866 76 340
+c 2867 5 354 166 Blue Yellow
+c 2867 10 175 20 Blue Yellow
+h 2867 408 499
+s 2867 412 18
+r 2868 154 86 71 214 Yellow Blue
+c 2869 44 176 358 Blue Yellow
+s 2869 135 370
+r 2869 105 22 172 180 Yellow Blue
+c 2869 13 445 419 Blue Yellow
+c 2870 37 293 3 Blue Yellow
+q cep-quadra. 1284 341 148 2 131
+h 2870 158 329
+q cep-quadra. 1285 184 207 172 153
+r 2870 116 62 102 179 Yellow Blue
+h 2870 358 128
+c 2870 25 115 312 Blue Yellow
+h 2871 127 447
+q cep-quadra. 1286 217 284 139 77
+h 2872 416 354
+q cep-quadra. 1287 59 440 11 6
+h 2873 160 127
+q cep-quadra. 1288 103 407 157 135
+q cep-quadra. 1289 463 86 160 70
+s 2875 239 125
+c 2875 30 51 435 Blue Yellow
+h 2875 438 188
+h 2876 392 372
+h 2876 448 480
+h 2877 157 181
+q cep-quadra. 1290 428 76 46 78
+r 2878 114 150 197 134 Yellow Blue
+r 2878 127 96 338 165 Yellow Blue
+q cep-quadra. 1291 219 390 73 110
+h 2878 350 2
+s 2878 346 218
+r 2879 198 192 290 241 Yellow Blue
+h 2879 155 387
+q cep-quadra. 1292 183 225 41 142
+s 2880 226 384
+h 2881 208 435
+r 2881 63 46 452 135 Yellow Blue
+c 2882 22 351 330 Blue Yellow
+r 2883 108 167 146 124 Yellow Blue
+c 2884 28 77 156 Blue Yellow
+s 2884 246 172
+c 2884 1 36 430 Blue Yellow
+h 2884 370 37
+s 2884 494 357
+c 2884 40 42 308 Blue Yellow
+q cep-quadra. 1293 76 236 138 86
+r 2885 100 120 184 318 Yellow Blue
+s 2885 433 86
+s 2885 405 355
+q cep-quadra. 1294 63 9 194 103
+c 2886 48 189 175 Blue Yellow
+c 2886 22 208 282 Blue Yellow
+c 2886 36 315 464 Blue Yellow
+s 2886 234 330
+h 2887 409 336
+h 2887 190 324
+r 2887 45 122 68 322 Yellow Blue
+q cep-quadra. 1295 160 383 131 118
+c 2889 18 44 132 Blue Yellow
+r 2889 41 43 216 192 Yellow Blue
+h 2890 121 308
+r 2891 103 199 449 417 Yellow Blue
+q cep-quadra. 1296 332 38 149 126
+h 2892 82 452
+q cep-quadra. 1297 11 208 115 191
+h 2893 425 201
+c 2893 33 422 485 Blue Yellow
+h 2893 485 399
+c 2893 26 92 388 Blue Yellow
+h 2893 401 437
+h 2894 176 123
+c 2895 29 51 177 Blue Yellow
+q cep-quadra. 1298 477 192 172 11
+h 2896 255 435
+s 2897 452 421
+h 2897 385 480
+q cep-quadra. 1299 32 381 185 74
+c 2898 32 359 93 Blue Yellow
+c 2898 42 19 132 Blue Yellow
+s 2899 489 161
+q cep-quadra. 1300 114 186 158 190
+s 2901 265 355
+q cep-quadra. 1301 104 143 193 114
+q cep-quadra. 1302 30 70 187 69
+c 2903 8 240 116 Blue Yellow
+c 2903 3 137 411 Blue Yellow
+q cep-quadra. 1303 51 451 58 134
+c 2903 2 443 313 Blue Yellow
+q cep-quadra. 1304 475 68 27 117
+r 2904 168 137 420 162 Yellow Blue
+c 2904 26 191 284 Blue Yellow
+q cep-quadra. 1305 32 310 116 23
+q cep-quadra. 1306 144 246 131 118
+s 2906 112 494
+h 2906 81 320
+r 2906 114 63 487 109 Yellow Blue
+r 2906 90 64 482 180 Yellow Blue
+h 2907 336 35
+r 2907 5 118 404 314 Yellow Blue
+q cep-quadra. 1307 451 164 111 125
+s 2908 386 48
+q cep-quadra. 1308 143 6 99 103
+h 2909 329 386
+s 2910 231 48
+r 2911 5 21 369 494 Yellow Blue
+q cep-quadra. 1309 80 146 38 131
+h 2913 245 191
+q cep-quadra. 1310 101 113 173 101
+s 2915 72 333
+q cep-quadra. 1311 142 446 115 194
+s 2916 263 139
+c 2916 40 37 95 Blue Yellow
+h 2916 486 472
+h 2916 458 149
+c 2916 3 109 303 Blue Yellow
+r 2917 10 89 399 336 Yellow Blue
+s 2917 362 26
+c 2918 40 484 483 Blue Yellow
+c 2919 12 350 299 Blue Yellow
+q cep-quadra. 1312 75 477 57 95
+c 2919 1 466 21 Blue Yellow
+q cep-quadra. 1313 12 84 27 83
+q cep-quadra. 1314 234 137 109 186
+c 2921 6 98 481 Blue Yellow
+q cep-quadra. 1315 438 66 137 110
+s 2922 468 293
+h 2922 294 236
+c 2923 49 499 347 Blue Yellow
+q cep-quadra. 1316 472 126 109 98
+c 2923 26 485 49 Blue Yellow
+q cep-quadra. 1317 375 368 31 197
+c 2924 12 176 320 Blue Yellow
+s 2924 266 234
+r 2924 119 35 430 342 Yellow Blue
+q cep-quadra. 1318 259 173 17 119
+r 2926 4 5 91 81 Yellow Blue
+q cep-quadra. 1319 208 189 1 100
+c 2928 1 264 288 Blue Yellow
+s 2929 250 328
+r 2929 173 197 70 343 Yellow Blue
+r 2929 143 117 138 403 Yellow Blue
+q cep-quadra. 1320 135 229 108 142
+s 2930 83 58
+h 2931 477 282
+r 2931 191 112 331 1 Yellow Blue
+h 2932 397 170
+s 2933 233 170
+s 2933 361 360
+r 2934 55 33 10 147 Yellow Blue
+r 2934 63 24 370 187 Yellow Blue
+h 2934 360 313
+h 2935 459 233
+r 2935 127 32 287 498 Yellow Blue
+s 2935 476 9
+r 2935 73 187 75 498 Yellow Blue
+q cep-quadra. 1321 118 354 159 168
+q cep-quadra. 1322 199 373 86 81
+r 2937 150 132 313 321 Yellow Blue
+c 2938 7 398 110 Blue Yellow
+r 2938 97 78 476 93 Yellow Blue
+h 2939 339 52
+h 2939 53 308
+h 2939 308 226
+r 2939 140 184 196 306 Yellow Blue
+r 2939 14 31 350 71 Yellow Blue
+s 2939 125 78
+q cep-quadra. 1323 476 53 22 58
+c 2939 42 261 385 Blue Yellow
+c 2940 36 240 270 Blue Yellow
+r 2941 74 69 218 178 Yellow Blue
+c 2941 32 449 188 Blue Yellow
+q cep-quadra. 1324 30 184 1 130
+s 2942 29 91
+r 2942 27 33 371 156 Yellow Blue
+c 2942 41 436 165 Blue Yellow
+c 2942 46 329 65 Blue Yellow
+c 2942 22 268 257 Blue Yellow
+h 2943 369 87
+r 2943 169 167 199 241 Yellow Blue
+h 2943 223 10
+r 2944 128 146 5 475 Yellow Blue
+h 2945 437 445
+c 2945 24 93 413 Blue Yellow
+r 2946 155 38 378 473 Yellow Blue
+h 2947 414 478
+c 2948 15 160 339 Blue Yellow
+c 2948 48 169 489 Blue Yellow
+h 2948 317 16
+s 2949 240 306
+q cep-quadra. 1325 468 4 4 183
+q cep-quadra. 1326 319 490 188 16
+s 2951 282 243
+h 2952 341 115
+q cep-quadra. 1327 476 231 193 149
+h 2952 413 233
+c 2952 16 216 467 Blue Yellow
+c 2953 3 147 74 Blue Yellow
+q cep-quadra. 1328 132 445 196 191
+c 2953 15 48 104 Blue Yellow
+c 2953 2 85 244 Blue Yellow
+q cep-quadra. 1329 442 211 112 99
+r 2953 178 2 418 272 Yellow Blue
+r 2954 118 126 84 74 Yellow Blue
+q cep-quadra. 1330 425 169 75 170
+c 2955 7 479 7 Blue Yellow
+s 2955 280 277
+r 2955 116 74 248 208 Yellow Blue
+r 2956 132 15 286 295 Yellow Blue
+h 2956 120 494
+r 2956 153 73 424 326 Yellow Blue
+h 2956 442 343
+q cep-quadra. 1331 131 366 104 129
+q cep-quadra. 1332 244 218 16 93
+q cep-quadra. 1333 344 200 36 26
+r 2958 160 46 293 83 Yellow Blue
+s 2959 117 117
+s 2960 282 272
+h 2961 129 285
+s 2961 320 323
+q cep-quadra. 1334 319 29 160 127
+h 2963 314 69
+c 2963 38 348 346 Blue Yellow
+q cep-quadra. 1335 324 460 110 116
+s 2965 333 449
+s 2965 133 82
+h 2966 64 18
+c 2966 15 400 45 Blue Yellow
+q cep-quadra. 1336 273 490 75 193
+r 2967 95 195 204 340 Yellow Blue
+c 2967 11 399 491 Blue Yellow
+s 2967 121 13
+h 2968 375 138
+q cep-quadra. 1337 25 253 136 39
+r 2968 8 62 478 66 Yellow Blue
+r 2969 141 162 11 25 Yellow Blue
+q cep-quadra. 1338 494 64 164 75
+q cep-quadra. 1339 300 136 107 86
+h 2970 81 207
+q cep-quadra. 1340 94 104 64 35
+r 2971 181 79 261 104 Yellow Blue
+r 2971 97 119 13 295 Yellow Blue
+c 2971 46 435 452 Blue Yellow
+q cep-quadra. 1341 37 454 2 195
+h 2972 94 151
+s 2973 426 445
+r 2974 148 22 430 180 Yellow Blue
+q cep-quadra. 1342 395 460 47 54
+c 2974 25 402 332 Blue Yellow
+s 2974 484 15
+q cep-quadra. 1343 451 273 82 87
+q cep-quadra. 1344 416 427 149 112
+h 2974 294 75
+s 2974 473 459
+h 2974 362 484
+h 2974 122 36
+r 2974 140 87 208 61 Yellow Blue
+c 2975 49 379 496 Blue Yellow
+h 2975 314 341
+h 2976 496 341
+c 2976 3 117 137 Blue Yellow
+s 2976 33 98
+s 2977 406 72
+q cep-quadra. 1345 386 170 155 24
+q cep-quadra. 1346 300 260 146 55
+q cep-quadra. 1347 389 362 101 175
+q cep-quadra. 1348 449 300 37 46
+r 2980 31 51 256 171 Yellow Blue
+c 2981 19 193 116 Blue Yellow
+s 2982 328 12
+q cep-quadra. 1349 375 392 99 69
+s 2984 257 403
+h 2984 400 135
+s 2984 477 261
+c 2984 46 456 260 Blue Yellow
+r 2984 180 53 384 440 Yellow Blue
+q cep-quadra. 1350 71 339 21 43
+c 2984 24 178 350 Blue Yellow
+c 2984 12 99 315 Blue Yellow
+r 2985 157 3 150 136 Yellow Blue
+c 2985 8 440 122 Blue Yellow
+q cep-quadra. 1351 368 453 36 176
+r 2986 140 135 177 93 Yellow Blue
+r 2986 134 129 99 460 Yellow Blue
+s 2986 406 53
+c 2987 49 153 199 Blue Yellow
+s 2987 318 43
+q cep-quadra. 1352 430 362 149 184
+r 2987 87 152 118 303 Yellow Blue
+h 2988 302 55
+s 2989 283 413
+c 2989 1 473 464 Blue Yellow
+c 2989 45 153 69 Blue Yellow
+h 2990 64 309
+s 2991 179 445
+s 2991 118 117
+q cep-quadra. 1353 357 236 182 159
+c 2992 41 311 230 Blue Yellow
+s 2992 306 191
+c 2992 42 175 393 Blue Yellow
+s 2992 61 76
+c 2992 30 341 40 Blue Yellow
+q cep-quadra. 1354 29 270 170 82
+q cep-quadra. 1355 34 165 3 57
+c 2994 8 155 347 Blue Yellow
+s 2994 111 462
+q cep-quadra. 1356 170 467 103 37
+s 2995 67 376
+c 2995 9 212 154 Blue Yellow
+c 2995 40 303 161 Blue Yellow
+q cep-quadra. 1357 268 318 153 70
+q cep-quadra. 1358 52 450 174 87
+c 2997 40 245 304 Blue Yellow
+r 2997 173 12 239 16 Yellow Blue
+q cep-quadra. 1359 498 19 93 186
+r 2998 158 197 216 11 Yellow Blue
+q cep-quadra. 1360 198 394 42 106
+c 2999 43 388 220 Blue Yellow
+h 3000 283 185
+r 3000 104 47 367 380 Yellow Blue
+r 3001 130 189 481 478 Yellow Blue
+r 3002 75 199 148 246 Yellow Blue
+h 3002 23 129
+c 3003 0 342 262 Blue Yellow
+h 3003 244 265
+q cep-quadra. 1361 25 117 167 124
+h 3004 265 401
+c 3004 40 318 438 Blue Yellow
+s 3004 172 302
+c 3004 22 391 386 Blue Yellow
+s 3004 135 421
+r 3005 183 31 276 52 Yellow Blue
+h 3005 127 81
+c 3006 47 329 276 Blue Yellow
+s 3007 188 179
+h 3007 243 478
+c 3007 24 55 269 Blue Yellow
+s 3007 149 270
+c 3008 5 491 100 Blue Yellow
+q cep-quadra. 1362 386 49 163 78
+c 3008 2 428 473 Blue Yellow
+q cep-quadra. 1363 482 84 132 32
+c 3010 27 395 2 Blue Yellow
+q cep-quadra. 1364 81 244 13 119
+h 3011 162 487
+s 3012 124 369
+r 3013 83 13 254 60 Yellow Blue
+h 3014 243 491
+s 3014 301 470
+c 3014 33 373 112 Blue Yellow
+c 3014 14 405 485 Blue Yellow
+h 3014 460 115
+q cep-quadra. 1365 155 91 196 111
+r 3016 119 149 482 317 Yellow Blue
+c 3016 8 187 114 Blue Yellow
+r 3017 170 117 448 450 Yellow Blue
+s 3017 23 432
+q cep-quadra. 1366 492 387 19 62
+h 3019 489 266
+c 3019 3 271 326 Blue Yellow
+h 3019 246 400
+h 3019 428 33
+r 3020 125 185 210 176 Yellow Blue
+s 3020 155 95
+r 3020 162 159 98 390 Yellow Blue
+r 3021 180 171 131 109 Yellow Blue
+h 3021 94 341
+h 3022 490 97
+h 3022 99 230
+r 3023 0 126 273 294 Yellow Blue
+s 3024 154 54
+s 3025 106 107
+h 3026 34 106
+c 3026 30 367 466 Blue Yellow
+s 3027 228 358
+r 3027 144 159 484 62 Yellow Blue
+c 3028 42 63 100 Blue Yellow
+r 3028 70 74 253 462 Yellow Blue
+r 3028 56 172 386 484 Yellow Blue
+h 3029 374 419
+r 3030 62 136 93 403 Yellow Blue
+s 3030 475 483
+h 3031 134 11
+s 3031 366 213
+r 3031 42 25 63 385 Yellow Blue
+s 3031 465 8
+s 3032 484 222
+q cep-quadra. 1367 252 356 64 145
+c 3033 45 275 20 Blue Yellow
+s 3033 388 450
+q cep-quadra. 1368 452 94 156 162
+s 3034 207 220
+s 3034 175 429
+h 3034 36 251
+q cep-quadra. 1369 355 471 70 15
+r 3036 33 104 19 332 Yellow Blue
+c 3036 12 305 459 Blue Yellow
+c 3036 34 4 452 Blue Yellow
+h 3037 119 396
+q cep-quadra. 1370 330 318 80 52
+h 3038 10 140
+c 3038 34 29 400 Blue Yellow
+q cep-quadra. 1371 268 293 54 45
+s 3039 269 409
+r 3040 108 17 89 302 Yellow Blue
+r 3040 119 65 299 99 Yellow Blue
+r 3041 157 185 125 287 Yellow Blue
+s 3042 209 321
+q cep-quadra. 1372 233 316 95 57
+c 3043 16 106 448 Blue Yellow
+q cep-quadra. 1373 288 57 100 138
+h 3043 244 159
+s 3044 431 207
+h 3044 43 482
+c 3044 27 117 246 Blue Yellow
+c 3044 44 195 8 Blue Yellow
+s 3044 427 188
+c 3044 39 368 179 Blue Yellow
+s 3045 400 344
+r 3045 155 124 169 431 Yellow Blue
+q cep-quadra. 1374 255 150 37 131
+h 3045 310 453
+r 3045 88 81 169 442 Yellow Blue
+c 3046 18 239 442 Blue Yellow
+c 3046 22 334 342 Blue Yellow
+r 3046 85 67 242 391 Yellow Blue
+h 3046 102 124
+h 3047 316 467
+r 3047 20 195 68 212 Yellow Blue
+h 3047 121 379
+h 3047 419 121
+s 3048 346 12
+h 3049 316 452
+r 3050 165 142 422 162 Yellow Blue
+r 3051 118 38 47 410 Yellow Blue
+c 3051 42 65 307 Blue Yellow
+h 3051 93 215
+s 3051 442 22
+h 3051 365 122
+c 3051 43 222 449 Blue Yellow
+h 3051 64 202
+r 3051 147 46 170 402 Yellow Blue
+h 3052 279 471
+s 3052 4 80
+q cep-quadra. 1375 468 483 130 130
+s 3052 226 236
+r 3053 140 121 413 253 Yellow Blue
+r 3054 182 177 22 307 Yellow Blue
+r 3054 83 116 9 94 Yellow Blue
+r 3054 78 190 123 62 Yellow Blue
+r 3054 53 60 205 321 Yellow Blue
+r 3054 165 135 371 45 Yellow Blue
+s 3055 393 87
+h 3056 180 82
+h 3056 476 438
+r 3057 19 72 472 327 Yellow Blue
+c 3057 22 16 196 Blue Yellow
+s 3058 249 169
+q cep-quadra. 1376 122 141 163 24
+h 3058 458 255
+c 3059 19 316 448 Blue Yellow
+q cep-quadra. 1377 208 493 160 177
+h 3060 4 345
+r 3061 1 48 459 206 Yellow Blue
+q cep-quadra. 1378 99 96 92 124
+c 3061 3 336 193 Blue Yellow
+r 3061 70 177 11 442 Yellow Blue
+q cep-quadra. 1379 293 418 101 110
+c 3062 21 210 88 Blue Yellow
+r 3062 51 6 157 48 Yellow Blue
+c 3063 32 494 34 Blue Yellow
+s 3064 497 372
+s 3065 161 76
+s 3065 255 74
+h 3065 254 238
+h 3065 445 287
+r 3065 70 141 87 239 Yellow Blue
+r 3065 132 100 184 479 Yellow Blue
+h 3066 338 57
+r 3066 128 164 392 177 Yellow Blue
+h 3066 270 478
+q cep-quadra. 1380 468 303 50 130
+h 3067 295 477
+h 3068 50 303
+h 3068 325 260
+s 3068 1 79
+c 3068 47 445 22 Blue Yellow
+q cep-quadra. 1381 186 496 136 63
+r 3070 87 116 233 328 Yellow Blue
+h 3070 287 428
+s 3070 409 390
+r 3071 40 94 59 150 Yellow Blue
+s 3071 226 288
+h 3071 221 323
+q cep-quadra. 1382 422 301 118 16
+c 3071 16 346 24 Blue Yellow
+c 3071 12 82 270 Blue Yellow
+q cep-quadra. 1383 350 7 28 197
+s 3072 214 196
+q cep-quadra. 1384 491 211 48 9
+r 3074 13 74 391 388 Yellow Blue
+r 3074 185 192 338 467 Yellow Blue
+s 3074 357 127
+h 3075 290 312
+q cep-quadra. 1385 304 104 178 127
+s 3075 152 474
+s 3076 87 172
+r 3076 129 2 423 267 Yellow Blue
+h 3076 211 258
+c 3076 4 124 99 Blue Yellow
+c 3077 11 433 251 Blue Yellow
+h 3078 198 54
+s 3078 130 199
+h 3078 86 235
+r 3078 84 99 335 198 Yellow Blue
+q cep-quadra. 1386 496 324 129 58
+q cep-quadra. 1387 206 369 53 5
+s 3078 398 122
+s 3079 56 237
+r 3080 88 87 227 73 Yellow Blue
+c 3081 26 203 130 Blue Yellow
+h 3082 221 109
+r 3083 58 90 360 474 Yellow Blue
+h 3083 67 397
+s 3084 96 300
+q cep-quadra. 1388 171 483 71 142
+c 3084 20 433 52 Blue Yellow
+h 3084 266 18
+c 3084 24 441 444 Blue Yellow
+s 3085 466 15
+s 3085 384 471
+s 3085 269 359
+s 3086 340 91
+q cep-quadra. 1389 96 238 172 146
+c 3087 27 494 64 Blue Yellow
+h 3088 388 470
+h 3089 392 429
+r 3089 113 119 406 152 Yellow Blue
+h 3090 72 72
+r 3090 190 142 62 203 Yellow Blue
+q cep-quadra. 1390 74 147 67 3
+s 3091 36 308
+c 3092 3 145 82 Blue Yellow
+h 3092 2 273
+r 3093 20 50 318 75 Yellow Blue
+h 3094 330 399
+q cep-quadra. 1391 3 244 151 135
+s 3096 287 411
+c 3097 10 21 140 Blue Yellow
+h 3098 101 306
+h 3099 84 341
+s 3100 433 287
+s 3100 420 491
+c 3100 33 92 76 Blue Yellow
+c 3101 5 4 404 Blue Yellow
+q cep-quadra. 1392 434 337 57 145
+c 3103 37 83 388 Blue Yellow
+r 3104 160 14 4 196 Yellow Blue
+c 3104 46 75 497 Blue Yellow
+s 3105 233 186
+r 3105 176 132 396 229 Yellow Blue
+h 3106 121 289
+s 3107 10 32
+c 3107 44 214 92 Blue Yellow
+h 3108 211 32
+r 3109 161 177 40 72 Yellow Blue
+s 3110 331 8
+r 3111 43 122 452 23 Yellow Blue
+q cep-quadra. 1393 451 460 158 6
+r 3111 183 119 338 490 Yellow Blue
+s 3111 205 57
+q cep-quadra. 1394 435 95 4 67
+s 3112 451 248
+q cep-quadra. 1395 86 388 195 172
+q cep-quadra. 1396 489 370 105 81
+c 3112 3 31 417 Blue Yellow
+s 3113 356 419
+s 3114 169 70
+c 3115 3 46 334 Blue Yellow
+h 3116 270 155
+c 3117 1 380 162 Blue Yellow
+r 3117 173 45 374 165 Yellow Blue
+s 3117 249 316
+h 3117 491 394
+s 3117 322 4
+c 3117 9 204 250 Blue Yellow
+s 3118 435 223
+r 3119 21 177 150 288 Yellow Blue
+c 3119 0 324 23 Blue Yellow
+s 3120 497 239
+c 3120 24 452 288 Blue Yellow
+r 3120 88 82 219 379 Yellow Blue
+h 3121 187 46
+c 3121 0 246 24 Blue Yellow
+s 3121 132 216
+q cep-quadra. 1397 80 322 139 26
+r 3121 11 193 470 110 Yellow Blue
+s 3121 277 409
+s 3122 285 61
+q cep-quadra. 1398 433 264 115 85
+r 3122 43 152 217 413 Yellow Blue
+r 3122 111 63 391 214 Yellow Blue
+c 3122 10 339 398 Blue Yellow
+q cep-quadra. 1399 47 239 113 47
+r 3123 24 143 330 263 Yellow Blue
+s 3124 58 379
+h 3125 297 121
+s 3125 123 68
+h 3125 302 432
+q cep-quadra. 1400 18 23 60 79
+q cep-quadra. 1401 10 467 179 17
+r 3127 18 37 264 195 Yellow Blue
+h 3128 368 451
+s 3128 6 110
+h 3129 60 25
+s 3130 456 295
+c 3131 23 168 152 Blue Yellow
+r 3131 175 147 405 18 Yellow Blue
+r 3132 76 119 423 161 Yellow Blue
+c 3133 27 64 164 Blue Yellow
+r 3133 116 150 460 459 Yellow Blue
+r 3133 196 120 154 471 Yellow Blue
+c 3133 46 470 463 Blue Yellow
+q cep-quadra. 1402 106 419 133 111
+c 3135 28 183 409 Blue Yellow
+c 3135 9 126 477 Blue Yellow
+q cep-quadra. 1403 308 373 118 43
+h 3136 418 168
+s 3136 199 452
+s 3137 416 308
+r 3138 97 181 255 470 Yellow Blue
+r 3139 19 181 423 422 Yellow Blue
+r 3140 152 13 154 479 Yellow Blue
+c 3141 29 83 12 Blue Yellow
+c 3142 6 358 50 Blue Yellow
+c 3142 22 223 32 Blue Yellow
+q cep-quadra. 1404 158 104 129 112
+r 3143 45 18 112 492 Yellow Blue
+h 3143 489 425
+h 3144 190 382
+q cep-quadra. 1405 368 338 111 44
+r 3144 2 70 460 10 Yellow Blue
+c 3145 5 63 417 Blue Yellow
+r 3146 95 176 94 221 Yellow Blue
+s 3147 355 92
+q cep-quadra. 1406 151 343 15 72
+r 3149 124 14 17 453 Yellow Blue
+r 3150 142 51 392 273 Yellow Blue
+r 3151 174 23 469 169 Yellow Blue
+s 3152 406 163
+s 3152 303 315
+r 3153 77 66 412 357 Yellow Blue
+r 3154 89 47 271 107 Yellow Blue
+r 3154 104 33 263 406 Yellow Blue
+s 3154 201 437
+q cep-quadra. 1407 311 421 78 32
+c 3155 49 87 224 Blue Yellow
+q cep-quadra. 1408 86 381 177 144
+q cep-quadra. 1409 61 342 184 55
+s 3155 255 54
+c 3155 14 184 126 Blue Yellow
+c 3156 11 299 331 Blue Yellow
+h 3156 432 483
+h 3156 234 123
+c 3156 47 272 52 Blue Yellow
+c 3157 12 290 235 Blue Yellow
+c 3157 27 295 231 Blue Yellow
+h 3157 134 421
+q cep-quadra. 1410 192 359 11 161
+c 3158 34 75 321 Blue Yellow
+r 3159 18 191 71 426 Yellow Blue
+h 3160 252 215
+q cep-quadra. 1411 440 470 89 195
+q cep-quadra. 1412 327 69 58 62
+s 3160 251 156
+c 3161 1 460 481 Blue Yellow
+h 3161 319 24
+c 3162 44 163 46 Blue Yellow
+r 3163 40 38 169 496 Yellow Blue
+q cep-quadra. 1413 198 94 167 75
+q cep-quadra. 1414 195 236 102 195
+h 3163 242 464
+s 3163 470 9
+h 3163 305 54
+h 3163 121 252
+s 3163 446 270
+r 3163 4 96 8 161 Yellow Blue
+h 3164 319 314
+q cep-quadra. 1415 431 133 52 7
+r 3165 169 14 320 156 Yellow Blue
+r 3166 100 194 47 462 Yellow Blue
+s 3167 389 448
+r 3168 2 33 406 142 Yellow Blue
+r 3169 48 26 267 85 Yellow Blue
+s 3169 63 405
+h 3169 16 327
+r 3169 152 123 51 107 Yellow Blue
+r 3170 120 124 237 368 Yellow Blue
+q cep-quadra. 1416 144 187 191 38
+r 3171 98 108 429 342 Yellow Blue
+h 3172 46 259
+h 3172 262 296
+r 3172 10 1 188 63 Yellow Blue
+c 3172 47 117 221 Blue Yellow
+c 3173 7 409 91 Blue Yellow
+r 3173 110 38 441 196 Yellow Blue
+s 3174 295 399
+q cep-quadra. 1417 206 252 180 147
+q cep-quadra. 1418 253 148 169 39
+s 3174 339 466
+h 3174 317 26
+r 3175 150 180 55 370 Yellow Blue
+s 3175 123 392
+q cep-quadra. 1419 207 167 109 20
+c 3176 44 36 165 Blue Yellow
+h 3177 425 339
+h 3178 14 125
+c 3179 0 212 112 Blue Yellow
+s 3179 309 267
+q cep-quadra. 1420 466 72 178 29
+q cep-quadra. 1421 213 203 64 17
+r 3180 82 62 217 278 Yellow Blue
+q cep-quadra. 1422 494 42 111 27
+c 3180 28 375 260 Blue Yellow
+s 3180 181 315
+r 3180 86 174 464 341 Yellow Blue
+r 3181 122 84 237 63 Yellow Blue
+h 3181 249 49
+s 3181 235 411
+r 3182 152 14 253 403 Yellow Blue
+q cep-quadra. 1423 352 473 11 177
+c 3182 42 204 134 Blue Yellow
+q cep-quadra. 1424 212 179 161 127
+r 3183 97 157 261 279 Yellow Blue
+q cep-quadra. 1425 214 279 73 133
+s 3183 229 281
+h 3183 27 463
+q cep-quadra. 1426 430 241 67 82
+q cep-quadra. 1427 220 312 108 149
+c 3185 42 458 133 Blue Yellow
+q cep-quadra. 1428 41 347 34 179
+q cep-quadra. 1429 144 146 77 80
+q cep-quadra. 1430 195 389 0 80
+h 3187 156 251
+c 3188 10 424 327 Blue Yellow
+s 3188 146 410
+c 3188 7 256 340 Blue Yellow
+h 3188 318 76
+r 3189 96 130 48 475 Yellow Blue
+s 3189 33 424
+h 3189 382 36
+q cep-quadra. 1431 193 368 87 62
+h 3189 47 66
+c 3190 34 466 105 Blue Yellow
+r 3191 194 188 311 483 Yellow Blue
+q cep-quadra. 1432 73 70 180 183
+c 3192 41 278 32 Blue Yellow
+c 3193 21 376 487 Blue Yellow
+q cep-quadra. 1433 226 88 16 108
+r 3195 53 188 159 191 Yellow Blue
+s 3196 252 92
+h 3196 398 455
+h 3197 415 253
+q cep-quadra. 1434 263 443 167 65
+r 3198 181 116 103 414 Yellow Blue
+c 3199 35 405 331 Blue Yellow
+q cep-quadra. 1435 258 153 186 99
+s 3199 388 280
+h 3199 394 242
+r 3199 122 17 499 107 Yellow Blue
+h 3200 419 21
+c 3200 28 127 9 Blue Yellow
+r 3200 194 120 140 9 Yellow Blue
+c 3200 18 307 320 Blue Yellow
+q cep-quadra. 1436 423 217 198 12
+r 3201 186 152 475 427 Yellow Blue
+s 3201 347 63
+r 3201 141 199 155 358 Yellow Blue
+s 3201 186 420
+h 3202 498 445
+h 3203 257 97
+r 3203 59 127 234 130 Yellow Blue
+h 3204 70 186
+c 3204 2 21 493 Blue Yellow
+s 3205 237 107
+q cep-quadra. 1437 456 21 155 59
+h 3206 120 251
+h 3207 224 104
+h 3208 469 182
+q cep-quadra. 1438 163 10 114 40
+s 3209 335 415
+h 3209 369 7
+q cep-quadra. 1439 26 346 16 121
+s 3209 231 181
+h 3209 104 393
+h 3209 394 29
+r 3209 177 136 201 92 Yellow Blue
+c 3210 27 29 234 Blue Yellow
+h 3211 80 491
+h 3212 325 361
+s 3212 65 432
+s 3212 228 400
+c 3213 39 272 72 Blue Yellow
+s 3214 174 393
+q cep-quadra. 1440 467 393 182 169
+r 3214 98 74 485 109 Yellow Blue
+c 3215 7 166 466 Blue Yellow
+q cep-quadra. 1441 55 52 77 171
+q cep-quadra. 1442 363 110 84 17
+q cep-quadra. 1443 119 401 32 99
+h 3217 25 120
+s 3217 60 147
+s 3217 34 192
+q cep-quadra. 1444 44 5 182 31
+s 3218 256 201
+q cep-quadra. 1445 83 289 36 31
+q cep-quadra. 1446 229 357 191 127
+h 3220 468 421
+h 3221 89 450
+c 3222 13 57 194 Blue Yellow
+r 3223 165 104 213 12 Yellow Blue
+c 3223 46 310 316 Blue Yellow
+r 3224 153 58 17 78 Yellow Blue
+h 3224 426 309
+r 3224 158 119 164 398 Yellow Blue
+s 3224 494 205
+c 3224 42 302 9 Blue Yellow
+q cep-quadra. 1447 485 100 97 82
+h 3226 236 0
+r 3226 1 169 54 74 Yellow Blue
+s 3227 183 197
+r 3228 149 41 213 64 Yellow Blue
+q cep-quadra. 1448 449 310 147 27
+c 3228 29 331 371 Blue Yellow
+q cep-quadra. 1449 34 75 163 44
+q cep-quadra. 1450 445 182 123 88
+q cep-quadra. 1451 81 61 38 37
+s 3228 493 340
+r 3228 67 198 100 11 Yellow Blue
+r 3229 67 42 278 335 Yellow Blue
+r 3229 178 56 366 392 Yellow Blue
+q cep-quadra. 1452 90 15 112 149
+h 3229 75 146
+s 3230 131 219
+h 3230 31 446
+r 3231 50 185 292 102 Yellow Blue
+q cep-quadra. 1453 276 117 24 130
+s 3233 293 31
+c 3233 40 24 32 Blue Yellow
+c 3233 38 325 375 Blue Yellow
+s 3233 132 106
+r 3233 165 113 125 258 Yellow Blue
+s 3234 306 249
+r 3235 66 86 498 108 Yellow Blue
+c 3236 19 402 448 Blue Yellow
+r 3236 25 8 6 210 Yellow Blue
+r 3237 104 169 477 303 Yellow Blue
+q cep-quadra. 1454 131 407 188 106
+q cep-quadra. 1455 119 339 103 179
+c 3240 46 168 337 Blue Yellow
+r 3240 68 179 1 297 Yellow Blue
+s 3240 452 40
+r 3240 16 65 292 434 Yellow Blue
+q cep-quadra. 1456 206 194 152 86
+h 3241 458 467
+q cep-quadra. 1457 54 31 178 169
+q cep-quadra. 1458 466 268 97 137
+r 3243 124 109 136 164 Yellow Blue
+s 3243 282 460
+s 3244 271 443
+h 3244 251 457
+r 3244 4 115 129 129 Yellow Blue
+q cep-quadra. 1459 472 100 22 181
+c 3244 33 408 212 Blue Yellow
+r 3245 24 84 70 154 Yellow Blue
+s 3245 180 399
+q cep-quadra. 1460 385 41 140 39
+h 3246 456 374
+r 3246 159 151 309 296 Yellow Blue
+s 3246 363 81
+q cep-quadra. 1461 415 309 153 96
+c 3246 6 461 492 Blue Yellow
+q cep-quadra. 1462 297 239 91 81
+h 3246 78 264
+s 3247 16 405
+h 3247 274 461
+q cep-quadra. 1463 190 19 31 35
+h 3247 19 286
+s 3247 194 444
+h 3248 493 314
+h 3249 119 225
+h 3250 3 184
+h 3250 100 339
+c 3251 25 283 456 Blue Yellow
+s 3251 455 67
+s 3251 132 356
+s 3251 205 95
+q cep-quadra. 1464 212 121 7 90
+s 3252 401 10
+h 3253 229 209
+h 3253 368 125
+s 3254 381 239
+r 3255 175 32 255 190 Yellow Blue
+h 3255 336 309
+q cep-quadra. 1465 188 187 83 162
+c 3256 28 228 117 Blue Yellow
+c 3257 2 496 206 Blue Yellow
+r 3257 169 192 189 65 Yellow Blue
+q cep-quadra. 1466 345 434 189 28
+h 3257 359 143
+h 3257 399 468
+s 3257 353 223
+c 3257 46 172 405 Blue Yellow
+r 3258 9 175 64 499 Yellow Blue
+h 3258 198 39
+r 3258 175 161 431 131 Yellow Blue
+c 3259 18 357 77 Blue Yellow
+r 3259 24 92 494 483 Yellow Blue
+c 3259 24 462 412 Blue Yellow
+h 3259 442 442
+s 3260 429 137
+h 3260 18 137
+s 3261 248 270
+r 3261 91 12 35 332 Yellow Blue
+h 3261 174 347
+c 3261 20 422 51 Blue Yellow
+r 3261 60 168 271 144 Yellow Blue
+s 3261 477 5
+r 3261 88 64 443 353 Yellow Blue
+h 3261 283 305
+q cep-quadra. 1467 64 308 67 166
+r 3262 26 116 210 66 Yellow Blue
+q cep-quadra. 1468 34 253 186 117
+q cep-quadra. 1469 10 358 93 98
+s 3264 481 10
+r 3264 178 197 364 464 Yellow Blue
+r 3264 183 43 21 388 Yellow Blue
+r 3265 151 85 209 329 Yellow Blue
+q cep-quadra. 1470 463 79 170 102
+h 3266 268 213
+s 3266 29 9
+c 3266 17 228 308 Blue Yellow
+r 3266 95 116 129 398 Yellow Blue
+r 3266 45 166 466 299 Yellow Blue
+r 3266 5 3 37 390 Yellow Blue
+c 3267 28 74 264 Blue Yellow
+h 3268 314 48
+q cep-quadra. 1471 335 31 69 85
+q cep-quadra. 1472 234 350 139 176
+r 3270 2 191 387 239 Yellow Blue
+r 3270 150 36 305 342 Yellow Blue
+h 3271 100 104
+q cep-quadra. 1473 466 20 188 38
+h 3271 383 158
+c 3272 35 393 415 Blue Yellow
+h 3273 238 231
+s 3274 184 395
+q cep-quadra. 1474 388 106 49 42
+h 3275 149 350
+q cep-quadra. 1475 237 393 173 142
+c 3276 45 8 10 Blue Yellow
+r 3276 79 125 51 402 Yellow Blue
+c 3277 20 214 488 Blue Yellow
+h 3277 410 497
+q cep-quadra. 1476 265 0 143 117
+h 3278 193 426
+h 3278 195 428
+q cep-quadra. 1477 405 236 14 33
+q cep-quadra. 1478 353 244 189 120
+c 3280 42 201 85 Blue Yellow
+h 3281 12 369
+c 3281 27 137 426 Blue Yellow
+s 3281 375 384
+c 3281 42 300 53 Blue Yellow
+r 3281 145 56 269 308 Yellow Blue
+q cep-quadra. 1479 93 110 95 180
+q cep-quadra. 1480 58 171 34 157
+c 3282 45 455 396 Blue Yellow
+h 3283 442 181
+r 3284 150 41 209 272 Yellow Blue
+q cep-quadra. 1481 456 346 109 172
+s 3285 449 298
+h 3285 477 268
+r 3285 22 199 103 169 Yellow Blue
+h 3286 298 38
+r 3287 175 72 99 283 Yellow Blue
+c 3287 22 346 330 Blue Yellow
+r 3287 157 21 430 123 Yellow Blue
+c 3287 0 202 34 Blue Yellow
+q cep-quadra. 1482 101 272 14 150
+c 3288 22 378 153 Blue Yellow
+h 3288 109 8
+c 3288 43 295 239 Blue Yellow
+q cep-quadra. 1483 45 333 148 9
+s 3288 226 464
+q cep-quadra. 1484 414 62 126 142
+q cep-quadra. 1485 302 95 166 37
+h 3289 251 352
+q cep-quadra. 1486 496 276 146 111
+q cep-quadra. 1487 70 420 106 174
+r 3290 193 106 79 248 Yellow Blue
+c 3290 19 242 227 Blue Yellow
+r 3290 171 189 401 495 Yellow Blue
+h 3290 91 269
+s 3290 421 369
+q cep-quadra. 1488 443 58 173 55
+h 3291 482 270
+h 3292 343 401
+r 3293 109 98 266 68 Yellow Blue
+h 3293 295 75
+h 3294 14 333
+r 3294 55 6 267 192 Yellow Blue
+r 3295 86 191 293 205 Yellow Blue
+h 3295 322 172
+r 3296 12 100 464 351 Yellow Blue
+q cep-quadra. 1489 426 82 135 75
+h 3297 473 194
+c 3298 12 387 125 Blue Yellow
+s 3298 380 90
+r 3298 66 29 208 445 Yellow Blue
+q cep-quadra. 1490 385 264 154 99
+s 3299 254 472
+h 3300 302 24
+s 3301 242 432
+s 3301 351 79
+r 3301 20 18 216 311 Yellow Blue
+r 3301 36 55 315 219 Yellow Blue
+s 3301 225 266
+h 3301 131 142
+r 3301 135 163 220 208 Yellow Blue
+q cep-quadra. 1491 414 87 101 51
+h 3303 457 247
+h 3304 483 337
+r 3304 147 1 233 40 Yellow Blue
+s 3304 38 106
+s 3304 394 383
+s 3304 146 257
+h 3304 261 166
+h 3304 217 13
+h 3305 65 244
+c 3305 9 358 110 Blue Yellow
+r 3305 53 93 307 180 Yellow Blue
+s 3305 37 299
+c 3305 10 122 355 Blue Yellow
+s 3305 309 450
+h 3305 481 328
+r 3306 31 37 126 30 Yellow Blue
+h 3307 402 85
+q cep-quadra. 1492 236 278 194 127
+q cep-quadra. 1493 438 299 112 84
+r 3310 11 159 170 274 Yellow Blue
+q cep-quadra. 1494 267 71 117 0
+q cep-quadra. 1495 338 305 111 169
+q cep-quadra. 1496 420 482 120 83
+s 3311 43 471
+q cep-quadra. 1497 435 499 136 190
+h 3311 178 22
+s 3312 414 489
+r 3312 106 93 473 33 Yellow Blue
+h 3312 388 160
+r 3312 68 47 226 302 Yellow Blue
+h 3313 27 13
+r 3313 166 185 421 386 Yellow Blue
+c 3313 45 165 417 Blue Yellow
+r 3313 172 124 142 357 Yellow Blue
+s 3314 268 0
+r 3315 80 95 69 333 Yellow Blue
+s 3315 260 102
+s 3316 474 129
+r 3316 13 146 48 23 Yellow Blue
+s 3316 230 181
+c 3316 42 381 32 Blue Yellow
+h 3316 419 92
+r 3317 96 60 106 62 Yellow Blue
+q cep-quadra. 1498 440 498 128 92
+r 3318 161 126 480 375 Yellow Blue
+h 3318 465 47
+c 3318 45 68 458 Blue Yellow
+h 3318 134 307
+r 3318 139 94 347 16 Yellow Blue
+s 3318 117 435
+s 3318 163 6
+h 3319 309 36
+c 3319 13 57 165 Blue Yellow
+c 3319 26 108 211 Blue Yellow
+c 3319 31 73 199 Blue Yellow
+s 3320 233 409
+r 3320 32 122 24 8 Yellow Blue
+s 3321 450 67
+s 3322 32 48
+q cep-quadra. 1499 393 350 88 145
+q cep-quadra. 1500 93 145 115 73
+s 3325 400 206
+r 3325 55 18 300 244 Yellow Blue
+r 3326 64 30 443 17 Yellow Blue
+r 3326 26 120 231 420 Yellow Blue
+q cep-quadra. 1501 22 16 183 84
+c 3326 35 207 424 Blue Yellow
+q cep-quadra. 1502 62 126 114 117
+c 3327 32 161 127 Blue Yellow
+r 3328 7 32 261 326 Yellow Blue
+q cep-quadra. 1503 250 12 152 43
+r 3329 59 152 429 380 Yellow Blue
+c 3329 28 217 266 Blue Yellow
+s 3330 336 67
+s 3330 315 77
+q cep-quadra. 1504 65 359 173 120
+r 3332 167 105 286 59 Yellow Blue
+h 3333 59 492
+c 3334 6 237 21 Blue Yellow
+s 3335 183 246
+s 3336 152 104
+q cep-quadra. 1505 184 170 4 9
+s 3336 0 68
+c 3336 4 60 89 Blue Yellow
+h 3336 121 398
+s 3337 347 362
+c 3338 14 43 69 Blue Yellow
+q cep-quadra. 1506 23 192 37 167
+r 3338 11 99 343 6 Yellow Blue
+h 3339 24 390
+h 3339 386 376
+q cep-quadra. 1507 419 396 169 61
+q cep-quadra. 1508 366 476 122 152
+q cep-quadra. 1509 231 477 107 185
+s 3341 308 309
+c 3342 17 189 298 Blue Yellow
+s 3342 329 373
+s 3343 419 99
+r 3343 133 166 385 2 Yellow Blue
+q cep-quadra. 1510 171 400 135 93
+h 3344 59 131
+s 3345 39 419
+r 3346 125 161 281 109 Yellow Blue
+r 3346 158 103 440 486 Yellow Blue
+q cep-quadra. 1511 185 448 68 108
+c 3347 11 2 55 Blue Yellow
+c 3347 42 41 145 Blue Yellow
+q cep-quadra. 1512 277 91 59 104
+h 3349 488 360
+h 3350 313 439
+s 3351 319 109
+q cep-quadra. 1513 91 92 22 16
+h 3351 396 436
+q cep-quadra. 1514 433 457 155 148
+q cep-quadra. 1515 264 478 107 22
+c 3353 20 62 199 Blue Yellow
+s 3353 45 464
+h 3353 282 475
+s 3353 314 52
+q cep-quadra. 1516 106 303 118 18
+q cep-quadra. 1517 44 30 48 197
+c 3355 7 38 479 Blue Yellow
+h 3355 238 111
+c 3355 12 67 33 Blue Yellow
+h 3355 432 305
+c 3355 21 359 446 Blue Yellow
+r 3356 85 112 205 226 Yellow Blue
+h 3356 470 338
+r 3356 116 123 187 147 Yellow Blue
+c 3356 28 267 11 Blue Yellow
+q cep-quadra. 1518 49 265 66 69
+s 3357 121 335
+r 3357 126 103 260 233 Yellow Blue
+c 3357 46 491 195 Blue Yellow
+s 3358 466 456
+h 3358 362 297
+c 3358 25 217 466 Blue Yellow
+r 3358 77 1 33 420 Yellow Blue
+q cep-quadra. 1519 25 20 27 50
+r 3358 31 53 464 377 Yellow Blue
+h 3358 230 162
+h 3358 47 24
+s 3358 218 482
+q cep-quadra. 1520 130 197 56 80
+q cep-quadra. 1521 261 164 30 181
+s 3361 457 26
+s 3361 124 320
+s 3361 303 433
+q cep-quadra. 1522 145 311 2 40
+h 3362 133 156
+h 3363 477 416
+s 3363 344 287
+h 3364 123 410
+r 3364 41 130 378 265 Yellow Blue
+c 3364 37 167 97 Blue Yellow
+s 3364 297 284
+r 3364 47 12 15 245 Yellow Blue
+r 3364 71 6 300 68 Yellow Blue
+c 3364 37 161 177 Blue Yellow
+s 3364 347 151
+c 3364 36 208 72 Blue Yellow
+h 3365 261 349
+h 3365 169 485
+r 3366 149 168 329 478 Yellow Blue
+r 3366 10 116 436 421 Yellow Blue
+c 3367 45 243 364 Blue Yellow
+h 3368 376 240
+q cep-quadra. 1523 497 263 2 169
+h 3368 210 239
+c 3368 18 160 149 Blue Yellow
+c 3368 48 248 152 Blue Yellow
+s 3368 104 404
+s 3369 216 51
+q cep-quadra. 1524 251 91 196 195
+c 3370 23 50 227 Blue Yellow
+c 3370 30 298 440 Blue Yellow
+r 3371 92 159 143 171 Yellow Blue
+q cep-quadra. 1525 123 228 44 124
+h 3372 437 225
+s 3372 109 269
+q cep-quadra. 1526 279 126 49 138
+h 3372 4 86
+s 3372 304 2
+h 3372 346 102
+q cep-quadra. 1527 475 471 194 194
+c 3373 43 368 300 Blue Yellow
+q cep-quadra. 1528 135 87 88 29
+r 3374 23 31 132 468 Yellow Blue
+q cep-quadra. 1529 346 309 49 111
+c 3375 45 175 117 Blue Yellow
+c 3375 25 242 362 Blue Yellow
+q cep-quadra. 1530 182 109 37 8
+r 3377 36 75 354 329 Yellow Blue
+r 3377 55 92 297 61 Yellow Blue
+c 3378 20 272 139 Blue Yellow
+s 3378 148 110
+q cep-quadra. 1531 246 443 158 31
+q cep-quadra. 1532 173 97 78 31
+c 3380 9 58 47 Blue Yellow
+r 3380 176 153 93 428 Yellow Blue
+r 3381 66 12 318 143 Yellow Blue
+q cep-quadra. 1533 186 436 117 134
+c 3381 14 396 158 Blue Yellow
+q cep-quadra. 1534 149 37 186 135
+c 3382 47 241 315 Blue Yellow
+s 3382 401 439
+h 3382 290 426
+c 3382 13 410 441 Blue Yellow
+q cep-quadra. 1535 51 287 42 190
+q cep-quadra. 1536 280 282 2 22
+c 3383 5 469 203 Blue Yellow
+s 3383 67 377
+r 3383 109 155 287 379 Yellow Blue
+h 3383 29 73
+h 3384 418 473
+r 3385 162 187 134 370 Yellow Blue
+r 3385 110 61 154 4 Yellow Blue
+c 3386 32 9 212 Blue Yellow
+r 3387 90 35 321 62 Yellow Blue
+q cep-quadra. 1537 293 272 121 107
+q cep-quadra. 1538 185 203 39 31
+s 3388 365 318
+h 3389 328 231
+s 3389 369 191
+h 3389 250 98
+c 3390 11 43 384 Blue Yellow
+h 3390 138 28
+c 3391 2 324 91 Blue Yellow
+s 3392 199 32
+s 3392 486 256
+h 3392 352 168
+r 3392 53 144 123 303 Yellow Blue
+q cep-quadra. 1539 265 145 2 143
+q cep-quadra. 1540 249 415 129 23
+r 3394 69 104 221 418 Yellow Blue
+r 3394 102 28 158 201 Yellow Blue
+h 3394 240 448
+c 3395 47 269 356 Blue Yellow
+c 3395 24 86 430 Blue Yellow
+c 3396 35 4 479 Blue Yellow
+s 3397 258 460
+r 3398 156 150 270 488 Yellow Blue
+s 3399 85 483
+q cep-quadra. 1541 91 97 164 159
+q cep-quadra. 1542 413 85 195 38
+h 3399 308 189
+r 3400 99 158 180 83 Yellow Blue
+q cep-quadra. 1543 473 333 43 158
+s 3401 377 395
+q cep-quadra. 1544 394 208 11 94
+h 3402 165 97
+q cep-quadra. 1545 466 233 199 37
+r 3404 47 8 62 305 Yellow Blue
+c 3404 43 253 496 Blue Yellow
+q cep-quadra. 1546 289 23 150 104
+q cep-quadra. 1547 447 294 16 61
+h 3405 133 315
+c 3405 29 145 4 Blue Yellow
+c 3405 1 136 313 Blue Yellow
+h 3406 191 484
+q cep-quadra. 1548 234 20 10 35
+c 3407 15 253 134 Blue Yellow
+q cep-quadra. 1549 316 296 105 37
+h 3408 20 300
+q cep-quadra. 1550 166 254 31 162
+q cep-quadra. 1551 412 203 176 132
+h 3408 490 154
+q cep-quadra. 1552 293 491 12 95
+h 3409 241 390
+r 3409 177 76 4 60 Yellow Blue
+s 3409 454 454
+q cep-quadra. 1553 247 84 117 97
+c 3411 31 448 334 Blue Yellow
+s 3411 388 39
+r 3412 15 186 191 453 Yellow Blue
+r 3413 22 75 364 348 Yellow Blue
+q cep-quadra. 1554 152 244 49 195
+c 3415 9 236 48 Blue Yellow
+c 3415 22 379 377 Blue Yellow
+q cep-quadra. 1555 96 261 9 117
+s 3417 56 343
+r 3417 113 131 99 150 Yellow Blue
+q cep-quadra. 1556 244 312 192 129
+h 3418 275 233
+h 3418 111 313
+c 3418 31 272 142 Blue Yellow
+r 3418 115 183 456 432 Yellow Blue
+q cep-quadra. 1557 237 476 139 83
+s 3419 105 444
+c 3419 20 403 352 Blue Yellow
+s 3419 370 433
+h 3420 464 323
+h 3420 497 60
+q cep-quadra. 1558 300 256 188 25
+r 3421 175 119 494 157 Yellow Blue
+q cep-quadra. 1559 115 205 153 17
+r 3422 151 82 240 30 Yellow Blue
+h 3422 365 22
+c 3423 3 68 297 Blue Yellow
+h 3423 249 408
+s 3423 60 491
+r 3424 192 17 483 165 Yellow Blue
+h 3424 382 242
+q cep-quadra. 1560 375 466 190 84
+r 3425 65 65 425 420 Yellow Blue
+s 3425 28 284
+q cep-quadra. 1561 143 68 175 68
+c 3426 49 141 314 Blue Yellow
+s 3427 464 493
+r 3427 129 174 140 384 Yellow Blue
+s 3428 286 403
+q cep-quadra. 1562 436 343 104 36
+r 3430 17 75 79 87 Yellow Blue
+s 3431 211 136
+h 3431 27 352
+q cep-quadra. 1563 419 348 51 175
+s 3433 148 350
+r 3434 188 162 424 182 Yellow Blue
+h 3435 429 386
+h 3436 332 431
+r 3436 179 96 55 453 Yellow Blue
+c 3436 12 397 412 Blue Yellow
+r 3437 133 84 54 412 Yellow Blue
+r 3437 17 185 387 222 Yellow Blue
+q cep-quadra. 1564 270 335 56 103
+q cep-quadra. 1565 22 243 53 157
+r 3439 144 181 461 240 Yellow Blue
+s 3439 180 252
+q cep-quadra. 1566 428 251 103 175
+s 3439 442 358
+r 3439 24 77 173 202 Yellow Blue
+h 3440 484 442
+c 3440 49 307 338 Blue Yellow
+c 3440 23 213 238 Blue Yellow
+s 3441 419 272
+s 3441 202 353
+c 3442 26 113 474 Blue Yellow
+c 3442 23 474 476 Blue Yellow
+s 3443 300 295
+q cep-quadra. 1567 397 235 52 155
+s 3443 361 193
+q cep-quadra. 1568 298 7 21 79
+q cep-quadra. 1569 123 75 150 44
+r 3445 72 36 452 269 Yellow Blue
+s 3445 334 256
+c 3446 26 38 350 Blue Yellow
+c 3446 27 268 478 Blue Yellow
+c 3447 19 338 164 Blue Yellow
+s 3447 262 327
+q cep-quadra. 1570 72 26 9 100
+s 3447 299 31
+r 3448 128 91 158 205 Yellow Blue
+q cep-quadra. 1571 325 189 191 60
+s 3450 187 352
+r 3451 123 5 168 294 Yellow Blue
+c 3451 5 165 256 Blue Yellow
+q cep-quadra. 1572 436 451 193 164
+h 3452 358 285
+s 3453 56 104
+s 3454 306 160
+h 3454 399 96
+s 3454 2 8
+s 3454 213 100
+r 3455 173 153 466 273 Yellow Blue
+s 3455 496 426
+r 3455 192 11 248 434 Yellow Blue
+c 3455 33 104 290 Blue Yellow
+r 3456 33 0 227 1 Yellow Blue
+c 3456 11 352 66 Blue Yellow
+h 3457 211 373
+c 3457 32 175 81 Blue Yellow
+r 3457 178 108 388 342 Yellow Blue
+c 3458 28 267 38 Blue Yellow
+s 3458 403 104
+s 3458 78 336
+r 3458 8 121 467 435 Yellow Blue
+c 3458 25 425 112 Blue Yellow
+r 3458 35 124 472 11 Yellow Blue
+q cep-quadra. 1573 394 189 107 37
+r 3458 49 187 272 486 Yellow Blue
+s 3459 490 196
+h 3459 200 404
+s 3459 344 37
+c 3460 27 73 80 Blue Yellow
+r 3461 43 136 20 56 Yellow Blue
+h 3461 335 47
+q cep-quadra. 1574 108 458 193 25
+c 3461 6 387 174 Blue Yellow
+q cep-quadra. 1575 144 231 146 178
+c 3461 4 217 59 Blue Yellow
+q cep-quadra. 1576 13 449 94 56
+h 3462 346 149
+r 3463 16 168 358 343 Yellow Blue
+r 3464 98 114 165 471 Yellow Blue
+s 3465 466 289
+s 3465 286 244
+h 3465 174 212
+h 3466 217 428
+s 3466 185 445
+h 3467 112 320
+s 3467 87 80
+s 3467 194 373
+q cep-quadra. 1577 23 59 92 125
+h 3468 90 9
+c 3469 15 300 488 Blue Yellow
+c 3469 15 24 168 Blue Yellow
+q cep-quadra. 1578 47 307 150 189
+h 3471 188 127
+s 3471 198 331
+r 3472 170 199 136 234 Yellow Blue
+q cep-quadra. 1579 166 331 148 145
+h 3474 406 478
+s 3474 442 401
+r 3474 86 103 29 290 Yellow Blue
+q cep-quadra. 1580 442 13 161 63
+q cep-quadra. 1581 240 370 39 139
+h 3475 282 258
+q cep-quadra. 1582 361 97 53 187
+q cep-quadra. 1583 208 212 173 52
+q cep-quadra. 1584 51 274 199 75
+h 3478 2 426
+c 3479 3 484 188 Blue Yellow
+r 3479 115 20 54 453 Yellow Blue
+h 3480 119 93
+h 3481 442 442
+r 3481 92 56 145 455 Yellow Blue
+q cep-quadra. 1585 4 195 177 164
+c 3481 37 398 449 Blue Yellow
+s 3482 248 118
+c 3482 35 168 85 Blue Yellow
+s 3482 53 356
+r 3483 30 104 300 190 Yellow Blue
+c 3484 21 111 131 Blue Yellow
+r 3484 106 183 297 474 Yellow Blue
+c 3485 18 277 325 Blue Yellow
+c 3485 13 459 79 Blue Yellow
+c 3486 35 414 419 Blue Yellow
+s 3487 40 67
+q cep-quadra. 1586 377 390 137 95
+r 3487 143 125 489 405 Yellow Blue
+c 3488 33 54 16 Blue Yellow
+c 3488 17 225 497 Blue Yellow
+r 3489 122 84 297 379 Yellow Blue
+c 3489 14 273 119 Blue Yellow
+r 3489 144 195 31 450 Yellow Blue
+q cep-quadra. 1587 257 478 175 154
+q cep-quadra. 1588 261 148 154 177
+s 3490 336 101
+c 3490 39 310 471 Blue Yellow
+s 3491 431 487
+q cep-quadra. 1589 478 418 172 165
+c 3491 45 4 448 Blue Yellow
+r 3492 114 129 6 274 Yellow Blue
+h 3493 393 179
+c 3494 4 360 160 Blue Yellow
+c 3494 30 111 406 Blue Yellow
+q cep-quadra. 1590 228 268 11 169
+h 3495 397 219
+c 3495 1 360 246 Blue Yellow
+s 3495 473 127
+q cep-quadra. 1591 254 0 15 66
+s 3495 362 381
+r 3496 136 67 164 135 Yellow Blue
+r 3497 68 69 351 346 Yellow Blue
+s 3497 211 237
+s 3498 283 65
+c 3498 27 161 19 Blue Yellow
+h 3498 335 22
+r 3498 130 168 443 271 Yellow Blue
+s 3499 126 265
+q cep-quadra. 1592 422 54 86 35
+r 3499 162 12 187 242 Yellow Blue
+s 3499 198 494
+h 3499 111 411
+h 3499 162 147
+s 3499 343 103
+h 3499 155 418
+r 3500 110 108 105 38 Yellow Blue
+h 3501 101 104
+c 3501 41 122 78 Blue Yellow
+c 3501 29 23 394 Blue Yellow
+h 3501 385 55
+h 3502 245 122
+s 3503 265 133
+r 3504 58 151 349 120 Yellow Blue
+q cep-quadra. 1593 312 173 142 73
+c 3505 6 173 144 Blue Yellow
+h 3506 172 75
+h 3507 483 465
+c 3507 46 311 414 Blue Yellow
+r 3508 165 133 0 182 Yellow Blue
+r 3509 3 66 97 452 Yellow Blue
+c 3510 36 99 253 Blue Yellow
+s 3510 146 420
+c 3510 19 11 235 Blue Yellow
+r 3510 172 26 232 74 Yellow Blue
+c 3510 44 99 163 Blue Yellow
+q cep-quadra. 1594 490 62 75 132
+c 3512 13 327 386 Blue Yellow
+c 3512 18 293 310 Blue Yellow
+q cep-quadra. 1595 54 480 97 25
+q cep-quadra. 1596 304 147 49 188
+c 3513 8 100 326 Blue Yellow
+q cep-quadra. 1597 225 33 169 149
+h 3514 38 485
+r 3514 127 48 46 399 Yellow Blue
+c 3515 5 264 442 Blue Yellow
+q cep-quadra. 1598 444 346 178 66
+c 3515 8 114 175 Blue Yellow
+q cep-quadra. 1599 30 223 76 62
+c 3516 24 195 447 Blue Yellow
+s 3516 429 494
+s 3517 214 342
+s 3518 316 212
+q cep-quadra. 1600 203 470 148 144
+s 3519 240 182
+h 3520 205 213
+r 3520 3 46 383 153 Yellow Blue
+q cep-quadra. 1601 173 57 39 158
+q cep-quadra. 1602 75 488 136 93
+h 3521 175 270
+q cep-quadra. 1603 5 441 91 31
+r 3521 188 189 194 446 Yellow Blue
+c 3522 2 245 232 Blue Yellow
+s 3523 409 253
+c 3524 2 448 232 Blue Yellow
+q cep-quadra. 1604 387 246 176 168
+r 3525 132 149 155 357 Yellow Blue
+s 3525 405 304
+s 3525 102 301
+r 3526 23 143 177 353 Yellow Blue
+h 3527 335 396
+s 3528 308 424
+r 3528 105 182 401 314 Yellow Blue
+r 3529 105 130 462 248 Yellow Blue
+q cep-quadra. 1605 282 423 36 37
+s 3530 26 169
+r 3530 7 134 246 208 Yellow Blue
+s 3531 100 455
+r 3532 92 10 422 496 Yellow Blue
+h 3533 356 261
+c 3534 34 350 398 Blue Yellow
+q cep-quadra. 1606 181 67 199 125
+c 3534 29 386 456 Blue Yellow
+s 3535 383 268
+c 3535 42 159 453 Blue Yellow
+c 3535 26 422 276 Blue Yellow
+s 3536 381 146
+c 3536 46 402 324 Blue Yellow
+h 3536 83 46
+c 3536 27 323 250 Blue Yellow
+s 3537 145 455
+h 3538 445 394
+h 3538 294 480
+h 3539 261 482
+h 3539 462 379
+q cep-quadra. 1607 447 441 135 87
+s 3539 475 95
+s 3540 350 97
+c 3541 43 172 3 Blue Yellow
+s 3542 397 215
+q cep-quadra. 1608 66 280 72 84
+s 3543 341 473
+h 3544 471 49
+s 3545 482 276
+q cep-quadra. 1609 298 471 86 81
+r 3545 81 22 289 498 Yellow Blue
+s 3545 265 384
+h 3546 68 343
+h 3546 297 124
+q cep-quadra. 1610 449 266 70 17
+r 3547 50 172 390 301 Yellow Blue
+q cep-quadra. 1611 28 281 8 97
+r 3547 161 170 425 63 Yellow Blue
+c 3547 34 113 378 Blue Yellow
+c 3547 38 426 445 Blue Yellow
+c 3548 48 385 349 Blue Yellow
+h 3549 440 432
+c 3550 44 415 83 Blue Yellow
+h 3550 189 111
+r 3550 170 140 201 157 Yellow Blue
+h 3550 63 203
+r 3551 93 148 387 310 Yellow Blue
+h 3551 369 200
+c 3551 15 449 189 Blue Yellow
+q cep-quadra. 1612 420 46 44 82
+s 3552 193 317
+q cep-quadra. 1613 184 333 174 150
+c 3552 42 82 45 Blue Yellow
+r 3552 61 177 486 141 Yellow Blue
+c 3553 39 289 499 Blue Yellow
+r 3554 155 62 179 6 Yellow Blue
+c 3554 29 18 284 Blue Yellow
+s 3554 322 361
+r 3555 152 108 375 228 Yellow Blue
+c 3555 2 227 440 Blue Yellow
+s 3555 297 332
+s 3555 263 413
+r 3556 118 41 458 195 Yellow Blue
+q cep-quadra. 1614 434 10 41 165
+h 3557 173 109
+r 3558 168 24 430 43 Yellow Blue
+r 3558 33 145 185 348 Yellow Blue
+h 3558 475 373
+c 3558 48 463 358 Blue Yellow
+r 3559 150 20 210 456 Yellow Blue
+r 3560 81 94 48 136 Yellow Blue
+h 3561 153 220
+s 3561 266 115
+q cep-quadra. 1615 130 399 52 128
+h 3562 341 12
+c 3563 11 88 195 Blue Yellow
+c 3563 49 281 382 Blue Yellow
+r 3564 29 168 106 363 Yellow Blue
+q cep-quadra. 1616 454 236 101 189
+s 3564 233 7
+r 3564 51 144 350 256 Yellow Blue
+q cep-quadra. 1617 198 89 117 25
+c 3565 14 4 426 Blue Yellow
+h 3565 4 297
+c 3566 14 214 430 Blue Yellow
+q cep-quadra. 1618 478 498 194 43
+s 3568 25 320
+s 3568 296 397
+q cep-quadra. 1619 229 359 11 147
+r 3570 25 96 160 263 Yellow Blue
+h 3571 480 119
+c 3572 7 404 365 Blue Yellow
+s 3573 254 479
+c 3574 32 201 402 Blue Yellow
+s 3574 285 426
+r 3575 98 0 224 47 Yellow Blue
+r 3575 38 71 407 322 Yellow Blue
+s 3576 33 196
+q cep-quadra. 1620 399 407 161 73
+r 3576 137 27 359 472 Yellow Blue
+q cep-quadra. 1621 365 172 182 45
+r 3578 179 155 175 326 Yellow Blue
+c 3579 2 421 214 Blue Yellow
+c 3579 21 43 297 Blue Yellow
+q cep-quadra. 1622 70 226 185 110
+c 3579 17 234 18 Blue Yellow
+q cep-quadra. 1623 374 172 140 119
+c 3580 4 14 84 Blue Yellow
+h 3581 160 185
+r 3582 51 182 168 370 Yellow Blue
+c 3582 23 398 46 Blue Yellow
+c 3582 44 422 44 Blue Yellow
+r 3582 41 126 288 64 Yellow Blue
+c 3583 41 421 301 Blue Yellow
+h 3583 130 483
+q cep-quadra. 1624 86 228 32 110
+h 3584 58 127
+s 3584 212 237
+c 3584 33 443 47 Blue Yellow
+r 3585 87 83 184 198 Yellow Blue
+q cep-quadra. 1625 497 120 10 109
+s 3586 138 437
+s 3586 370 163
+h 3586 258 258
+q cep-quadra. 1626 477 283 86 18
+q cep-quadra. 1627 224 309 162 66
+c 3587 42 306 446 Blue Yellow
+q cep-quadra. 1628 414 453 132 177
+h 3588 489 346
+q cep-quadra. 1629 159 227 18 132
+s 3589 428 221
+s 3590 223 493
+q cep-quadra. 1630 28 329 172 59
+c 3591 18 29 293 Blue Yellow
+c 3591 19 451 332 Blue Yellow
+h 3591 43 143
+s 3592 57 83
+s 3593 474 279
+h 3594 219 471
+r 3595 161 193 430 358 Yellow Blue
+r 3595 185 190 76 257 Yellow Blue
+h 3595 176 113
+h 3596 267 367
+c 3597 22 315 6 Blue Yellow
+s 3598 90 7
+q cep-quadra. 1631 118 131 70 109
+r 3600 154 107 6 355 Yellow Blue
+r 3601 11 69 143 220 Yellow Blue
+h 3601 174 444
+r 3602 136 167 483 358 Yellow Blue
+r 3602 45 100 89 50 Yellow Blue
+r 3603 199 93 272 367 Yellow Blue
+r 3603 68 93 457 330 Yellow Blue
+s 3604 419 91
+h 3605 435 331
+c 3605 23 447 266 Blue Yellow
+q cep-quadra. 1632 346 28 93 154
+s 3607 79 122
+s 3608 437 287
+r 3609 20 68 42 77 Yellow Blue
+q cep-quadra. 1633 191 42 146 159
+q cep-quadra. 1634 191 26 147 160
+h 3611 318 32
+h 3611 96 476
+q cep-quadra. 1635 316 428 121 92
+c 3612 7 209 280 Blue Yellow
+c 3612 9 75 422 Blue Yellow
+h 3612 314 302
+s 3613 30 160
+c 3613 28 305 472 Blue Yellow
+s 3613 163 168
+h 3613 67 424
+r 3614 52 60 300 37 Yellow Blue
+h 3615 120 219
+s 3616 473 94
+c 3617 47 471 372 Blue Yellow
+c 3617 23 2 375 Blue Yellow
+q cep-quadra. 1636 125 55 198 159
+h 3618 136 156
+c 3619 11 5 466 Blue Yellow
+s 3620 234 215
+r 3620 56 125 366 175 Yellow Blue
+s 3621 26 391
+h 3622 407 53
+c 3623 32 216 469 Blue Yellow
+r 3624 118 49 139 323 Yellow Blue
+s 3624 327 199
+q cep-quadra. 1637 446 173 47 101
+r 3625 145 181 342 164 Yellow Blue
+s 3625 138 321
+q cep-quadra. 1638 355 38 89 65
+h 3626 449 459
+s 3626 250 224
+c 3626 20 79 60 Blue Yellow
+s 3627 180 261
+h 3627 199 154
+r 3627 173 94 44 483 Yellow Blue
+h 3628 358 264
+r 3628 22 148 77 340 Yellow Blue
+c 3629 26 383 269 Blue Yellow
+s 3629 265 323
+h 3629 26 441
+r 3629 131 138 233 422 Yellow Blue
+c 3630 5 496 371 Blue Yellow
+q cep-quadra. 1639 324 111 152 165
+r 3631 95 185 308 179 Yellow Blue
+s 3631 433 467
+h 3631 180 256
+q cep-quadra. 1640 1 353 6 179
+h 3632 370 227
+s 3632 224 54
+s 3632 424 275
+r 3632 138 76 154 226 Yellow Blue
+q cep-quadra. 1641 294 142 121 66
+r 3634 6 145 93 213 Yellow Blue
+q cep-quadra. 1642 167 416 193 46
+q cep-quadra. 1643 153 474 20 196
+c 3635 19 4 412 Blue Yellow
+c 3635 1 171 485 Blue Yellow
+r 3635 181 179 161 224 Yellow Blue
+h 3636 184 211
+q cep-quadra. 1644 224 57 26 86
+q cep-quadra. 1645 263 138 67 191
+s 3638 462 151
+q cep-quadra. 1646 477 454 199 81
+s 3638 331 498
+s 3638 412 322
+r 3638 139 121 272 275 Yellow Blue
+h 3638 388 403
+h 3639 412 426
+r 3640 13 18 144 67 Yellow Blue
+c 3640 34 169 360 Blue Yellow
+c 3641 14 114 44 Blue Yellow
+c 3642 0 79 297 Blue Yellow
+r 3642 96 55 237 384 Yellow Blue
+c 3642 34 131 12 Blue Yellow
+r 3643 62 197 106 9 Yellow Blue
+r 3643 3 71 135 178 Yellow Blue
+s 3643 224 158
+s 3644 441 10
+h 3644 19 349
+h 3645 374 377
+c 3645 46 287 396 Blue Yellow
+q cep-quadra. 1647 430 120 165 141
+c 3646 13 437 90 Blue Yellow
+c 3647 11 81 224 Blue Yellow
+c 3648 32 175 155 Blue Yellow
+r 3649 114 56 434 479 Yellow Blue
+r 3650 169 45 152 391 Yellow Blue
+s 3651 433 152
+r 3652 176 24 488 65 Yellow Blue
+r 3652 191 129 213 70 Yellow Blue
+r 3652 53 164 283 144 Yellow Blue
+q cep-quadra. 1648 124 25 102 34
+s 3653 75 265
+r 3653 66 126 215 374 Yellow Blue
+c 3654 37 158 169 Blue Yellow
+h 3654 318 489
+s 3654 234 391
+r 3655 14 124 466 423 Yellow Blue
+q cep-quadra. 1649 393 364 163 168
+r 3656 193 124 117 383 Yellow Blue
+r 3657 39 121 405 215 Yellow Blue
+c 3657 26 311 185 Blue Yellow
+h 3658 20 78
+s 3658 136 397
+r 3659 18 40 450 87 Yellow Blue
+c 3659 17 431 305 Blue Yellow
+r 3660 175 87 318 340 Yellow Blue
+r 3660 13 46 268 69 Yellow Blue
+q cep-quadra. 1650 177 419 178 134
+s 3662 427 72
+q cep-quadra. 1651 279 354 110 21
+q cep-quadra. 1652 72 100 73 10
+c 3664 42 151 139 Blue Yellow
+r 3665 193 103 285 462 Yellow Blue
+r 3666 75 132 203 170 Yellow Blue
+r 3667 45 165 465 306 Yellow Blue
+c 3668 27 101 304 Blue Yellow
+q cep-quadra. 1653 406 8 177 161
+q cep-quadra. 1654 426 481 7 196
+c 3670 49 122 296 Blue Yellow
+s 3670 212 213
+c 3671 10 51 116 Blue Yellow
+h 3672 345 70
+c 3672 24 34 477 Blue Yellow
+s 3672 448 458
+h 3672 200 181
+h 3672 157 162
+r 3672 42 44 133 131 Yellow Blue
+c 3672 5 48 214 Blue Yellow
+r 3672 175 53 460 15 Yellow Blue
+s 3672 67 402
+r 3673 10 2 372 385 Yellow Blue
+q cep-quadra. 1655 95 281 186 172
+c 3675 33 338 203 Blue Yellow
+q cep-quadra. 1656 255 133 13 177
+c 3676 2 364 396 Blue Yellow
+q cep-quadra. 1657 323 161 117 126
+h 3676 290 205
+h 3677 75 152
+s 3677 345 110
+h 3677 208 83
+c 3677 20 67 274 Blue Yellow
+r 3677 53 14 208 172 Yellow Blue
+r 3677 122 56 435 288 Yellow Blue
+s 3677 63 397
+s 3677 406 445
+s 3677 83 386
+r 3678 139 60 389 0 Yellow Blue
+q cep-quadra. 1658 229 132 189 63
+c 3679 32 263 250 Blue Yellow
+h 3680 311 456
+r 3680 117 176 301 180 Yellow Blue
+r 3680 96 41 273 435 Yellow Blue
+s 3681 340 68
+r 3682 177 154 129 316 Yellow Blue
+r 3682 61 186 197 215 Yellow Blue
+r 3682 70 57 282 259 Yellow Blue
+r 3683 34 26 26 401 Yellow Blue
+r 3683 158 181 178 279 Yellow Blue
+r 3684 17 27 485 99 Yellow Blue
+c 3684 30 276 393 Blue Yellow
+c 3685 28 479 207 Blue Yellow
+s 3685 33 344
+c 3685 20 353 239 Blue Yellow
+s 3685 413 243
+h 3685 397 43
+h 3685 263 247
+s 3686 313 300
+c 3687 13 246 93 Blue Yellow
+c 3688 49 349 242 Blue Yellow
+q cep-quadra. 1659 9 48 119 103
+h 3689 295 383
+q cep-quadra. 1660 497 353 151 172
+r 3689 48 81 182 165 Yellow Blue
+s 3689 52 194
+r 3690 192 157 159 427 Yellow Blue
+s 3690 338 476
+s 3690 268 419
+s 3690 306 202
+s 3691 201 333
+r 3691 123 105 283 497 Yellow Blue
+q cep-quadra. 1661 77 402 97 132
+q cep-quadra. 1662 109 119 88 59
+h 3691 484 223
+h 3691 131 292
+c 3692 35 369 300 Blue Yellow
+s 3692 112 189
+s 3693 152 79
+c 3693 7 142 472 Blue Yellow
+q cep-quadra. 1663 133 11 100 181
+s 3695 128 314
+c 3696 11 194 450 Blue Yellow
+c 3696 28 369 319 Blue Yellow
+c 3696 45 290 352 Blue Yellow
+c 3696 25 111 30 Blue Yellow
+c 3697 48 130 289 Blue Yellow
+h 3697 256 127
+s 3698 272 257
+r 3698 150 104 82 354 Yellow Blue
+h 3698 34 166
+s 3698 405 431
+r 3698 20 38 164 50 Yellow Blue
+r 3699 18 49 114 166 Yellow Blue
+s 3700 131 61
+h 3701 381 381
+r 3701 112 185 294 140 Yellow Blue
+s 3702 423 128
+q cep-quadra. 1664 103 484 194 68
+r 3702 120 106 134 318 Yellow Blue
+q cep-quadra. 1665 242 109 144 77
+h 3703 250 42
+h 3703 266 314
+h 3703 132 92
+q cep-quadra. 1666 366 494 178 103
+r 3703 31 25 276 30 Yellow Blue
+r 3703 43 19 34 158 Yellow Blue
+c 3704 10 76 401 Blue Yellow
+c 3704 30 10 36 Blue Yellow
+h 3704 361 154
+q cep-quadra. 1667 470 493 104 180
+r 3705 193 8 428 318 Yellow Blue
+c 3706 37 462 234 Blue Yellow
+h 3707 295 160
+s 3708 328 231
+h 3708 172 374
+s 3709 27 71
+r 3709 72 49 22 161 Yellow Blue
+h 3710 38 127
+s 3711 347 72
+q cep-quadra. 1668 395 143 185 142
+s 3712 401 372
+r 3713 150 182 395 224 Yellow Blue
+h 3714 124 133
+s 3715 453 258
+q cep-quadra. 1669 307 151 166 44
+s 3715 346 0
+q cep-quadra. 1670 150 447 157 30
+c 3715 36 346 3 Blue Yellow
+q cep-quadra. 1671 131 161 195 136
+c 3715 3 256 403 Blue Yellow
+s 3715 393 266
+s 3716 452 280
+s 3716 8 470
+r 3716 80 163 359 330 Yellow Blue
+s 3716 46 212
+c 3716 3 361 161 Blue Yellow
+s 3716 212 370
+s 3717 14 246
+c 3718 23 360 12 Blue Yellow
+h 3718 120 198
+c 3718 43 240 479 Blue Yellow
+s 3718 455 306
+h 3719 283 411
+s 3720 489 68
+s 3721 273 126
+s 3721 6 61
+q cep-quadra. 1672 35 19 84 133
+r 3722 10 25 180 237 Yellow Blue
+c 3723 16 13 107 Blue Yellow
+r 3723 2 146 296 212 Yellow Blue
+r 3724 124 172 300 128 Yellow Blue
+q cep-quadra. 1673 484 279 82 155
+r 3726 97 74 346 409 Yellow Blue
+h 3726 362 257
+s 3726 118 118
+c 3726 25 81 82 Blue Yellow
+q cep-quadra. 1674 9 432 30 82
+r 3727 134 108 337 286 Yellow Blue
+h 3728 267 364
+c 3729 22 150 306 Blue Yellow
+h 3729 487 118
+c 3730 29 196 264 Blue Yellow
+s 3730 164 286
+c 3730 24 127 80 Blue Yellow
+c 3730 30 438 479 Blue Yellow
+q cep-quadra. 1675 274 485 115 169
+c 3730 45 137 173 Blue Yellow
+s 3730 135 398
+h 3730 173 70
+q cep-quadra. 1676 263 239 125 26
+r 3731 136 43 85 97 Yellow Blue
+s 3732 331 465
+q cep-quadra. 1677 206 347 103 181
+h 3732 192 103
+s 3732 100 368
+c 3733 37 182 491 Blue Yellow
+q cep-quadra. 1678 448 369 141 179
+r 3733 176 75 129 284 Yellow Blue
+h 3733 227 412
+c 3733 2 97 199 Blue Yellow
+r 3734 32 161 21 412 Yellow Blue
+q cep-quadra. 1679 28 144 79 150
+r 3735 3 137 462 182 Yellow Blue
+h 3735 394 360
+s 3736 291 107
+r 3736 127 2 67 73 Yellow Blue
+r 3736 64 110 294 409 Yellow Blue
+r 3736 136 197 70 215 Yellow Blue
+q cep-quadra. 1680 297 339 21 152
+r 3736 68 3 90 211 Yellow Blue
+s 3736 355 424
+q cep-quadra. 1681 306 283 37 18
+r 3736 39 119 318 264 Yellow Blue
+q cep-quadra. 1682 407 162 162 121
+h 3737 305 406
+q cep-quadra. 1683 434 148 4 24
+s 3737 480 282
+q cep-quadra. 1684 316 48 67 98
+s 3738 379 400
+c 3738 4 172 10 Blue Yellow
+h 3738 60 372
+h 3738 211 62
+c 3739 42 148 315 Blue Yellow
+r 3740 26 45 273 48 Yellow Blue
+s 3741 280 318
+h 3741 92 391
+q cep-quadra. 1685 409 286 70 23
+h 3741 308 462
+s 3741 44 220
+s 3741 21 84
+h 3742 411 429
+c 3742 6 356 241 Blue Yellow
+c 3742 31 353 391 Blue Yellow
+h 3742 113 18
+c 3742 34 13 23 Blue Yellow
+r 3742 89 127 112 461 Yellow Blue
+s 3743 145 468
+r 3744 7 182 51 30 Yellow Blue
+q cep-quadra. 1686 498 160 197 95
+h 3745 181 122
+s 3745 312 3
+q cep-quadra. 1687 194 225 162 131
+c 3746 30 372 169 Blue Yellow
+r 3746 141 117 442 274 Yellow Blue
+c 3746 7 215 10 Blue Yellow
+r 3747 44 152 397 408 Yellow Blue
+h 3747 359 314
+r 3747 68 16 210 100 Yellow Blue
+c 3748 11 442 389 Blue Yellow
+r 3749 88 181 414 436 Yellow Blue
+h 3749 278 274
+c 3750 18 96 411 Blue Yellow
+c 3750 19 129 18 Blue Yellow
+s 3751 354 126
+c 3751 1 38 486 Blue Yellow
+h 3751 150 122
+c 3752 49 81 290 Blue Yellow
+h 3753 460 154
+h 3753 113 425
+c 3754 19 197 54 Blue Yellow
+h 3754 142 304
+q cep-quadra. 1688 257 102 84 139
+r 3755 86 165 289 72 Yellow Blue
+q cep-quadra. 1689 11 17 78 126
+s 3755 425 20
+r 3755 175 172 331 106 Yellow Blue
+h 3755 219 36
+q cep-quadra. 1690 398 163 173 47
+q cep-quadra. 1691 24 410 186 49
+h 3755 290 302
+r 3756 121 72 418 27 Yellow Blue
+h 3757 437 486
+c 3757 18 475 453 Blue Yellow
+s 3757 419 215
+q cep-quadra. 1692 132 203 79 10
+s 3758 299 474
+c 3758 7 252 147 Blue Yellow
+s 3759 172 304
+q cep-quadra. 1693 119 275 174 13
+s 3761 314 332
+h 3761 328 387
+r 3762 13 80 14 303 Yellow Blue
+r 3763 170 78 22 202 Yellow Blue
+c 3764 11 302 14 Blue Yellow
+c 3765 36 12 414 Blue Yellow
+h 3765 420 266
+c 3765 14 131 163 Blue Yellow
+c 3765 35 112 189 Blue Yellow
+r 3765 24 190 189 148 Yellow Blue
+s 3765 274 349
+s 3765 229 51
+s 3765 180 69
+c 3765 35 409 367 Blue Yellow
+q cep-quadra. 1694 365 414 38 128
+q cep-quadra. 1695 467 52 35 121
+s 3766 306 18
+r 3766 122 107 422 366 Yellow Blue
+q cep-quadra. 1696 145 173 185 180
+h 3766 123 297
+h 3767 234 429
+s 3767 119 455
+s 3767 264 403
+q cep-quadra. 1697 293 457 198 144
+q cep-quadra. 1698 11 379 116 77
+q cep-quadra. 1699 231 409 2 80
+r 3768 127 139 98 2 Yellow Blue
+q cep-quadra. 1700 128 20 81 105
+q cep-quadra. 1701 169 166 36 197
+h 3771 321 347
+c 3772 15 428 188 Blue Yellow
+r 3772 154 170 334 16 Yellow Blue
+q cep-quadra. 1702 100 281 99 119
+h 3773 46 364
+c 3773 19 419 465 Blue Yellow
+c 3774 41 103 470 Blue Yellow
+q cep-quadra. 1703 31 218 52 196
+q cep-quadra. 1704 94 292 83 57
+c 3774 6 325 328 Blue Yellow
+r 3775 114 12 204 123 Yellow Blue
+c 3775 20 350 280 Blue Yellow
+c 3776 47 389 51 Blue Yellow
+q cep-quadra. 1705 202 465 128 38
+q cep-quadra. 1706 169 4 168 85
+s 3778 30 343
+r 3779 164 180 273 315 Yellow Blue
+s 3779 14 446
+q cep-quadra. 1707 204 158 160 52
+q cep-quadra. 1708 25 364 122 44
+c 3782 14 167 171 Blue Yellow
+r 3782 165 78 213 352 Yellow Blue
+c 3783 44 69 141 Blue Yellow
+q cep-quadra. 1709 226 334 155 185
+s 3783 83 60
+q cep-quadra. 1710 394 53 109 68
+h 3784 108 180
+h 3784 251 170
+h 3784 204 140
+q cep-quadra. 1711 323 108 168 168
+q cep-quadra. 1712 139 217 122 88
+s 3785 288 176
+q cep-quadra. 1713 53 303 70 21
+h 3786 378 334
+q cep-quadra. 1714 95 106 43 68
+h 3787 427 323
+s 3788 227 167
+h 3788 244 404
+r 3788 57 88 409 405 Yellow Blue
+s 3789 490 212
+r 3789 69 62 474 339 Yellow Blue
+q cep-quadra. 1715 89 47 69 113
+q cep-quadra. 1716 454 345 21 64
+r 3789 160 155 134 337 Yellow Blue
+c 3789 0 146 406 Blue Yellow
+c 3789 36 217 417 Blue Yellow
+r 3790 61 15 470 286 Yellow Blue
+r 3790 65 55 110 186 Yellow Blue
+q cep-quadra. 1717 421 370 94 170
+c 3791 24 389 262 Blue Yellow
+c 3791 26 420 3 Blue Yellow
+r 3791 38 123 13 11 Yellow Blue
+h 3792 165 125
+r 3793 38 148 8 86 Yellow Blue
+h 3793 376 422
+h 3794 185 136
+q cep-quadra. 1718 237 385 114 24
+c 3794 10 11 33 Blue Yellow
+q cep-quadra. 1719 17 117 40 147
+c 3795 40 170 156 Blue Yellow
+r 3795 98 163 344 266 Yellow Blue
+h 3795 246 271
+q cep-quadra. 1720 441 189 68 133
+h 3795 444 42
+q cep-quadra. 1721 62 116 121 22
+h 3795 123 241
+r 3796 130 28 131 476 Yellow Blue
+h 3796 417 387
+h 3797 85 487
+c 3798 37 287 461 Blue Yellow
+q cep-quadra. 1722 56 476 146 2
+h 3799 201 143
+s 3800 69 332
+h 3800 413 132
+c 3800 2 407 365 Blue Yellow
+c 3800 41 385 345 Blue Yellow
+h 3801 55 296
+r 3802 133 146 248 319 Yellow Blue
+s 3802 445 401
+h 3802 13 189
+s 3803 484 445
+s 3804 163 121
+q cep-quadra. 1723 280 209 33 128
+h 3804 161 457
+r 3805 196 154 295 437 Yellow Blue
+s 3805 131 276
+c 3806 46 216 45 Blue Yellow
+h 3807 433 376
+c 3807 10 114 377 Blue Yellow
+s 3807 391 75
+c 3808 9 250 287 Blue Yellow
+h 3808 112 343
+s 3809 22 166
+s 3809 454 139
+h 3809 284 131
+r 3810 185 172 219 166 Yellow Blue
+q cep-quadra. 1724 418 236 134 92
+h 3810 42 27
+s 3811 236 393
+s 3812 373 225
+q cep-quadra. 1725 406 377 135 196
+s 3813 378 26
+h 3813 79 95
+q cep-quadra. 1726 224 417 20 128
+r 3813 137 174 351 299 Yellow Blue
+h 3814 357 492
+s 3815 218 404
+c 3816 37 488 364 Blue Yellow
+h 3816 80 145
+r 3816 95 154 302 292 Yellow Blue
+h 3816 260 470
+q cep-quadra. 1727 341 428 89 12
+c 3818 19 18 19 Blue Yellow
+h 3818 122 416
+c 3819 22 10 229 Blue Yellow
+r 3819 55 163 374 435 Yellow Blue
+h 3820 479 359
+q cep-quadra. 1728 83 4 97 129
+s 3821 294 495
+s 3821 456 248
+c 3821 27 437 239 Blue Yellow
+s 3821 225 161
+c 3821 11 198 402 Blue Yellow
+r 3821 49 7 338 129 Yellow Blue
+h 3821 417 21
+c 3822 36 106 95 Blue Yellow
+q cep-quadra. 1729 351 420 128 135
+q cep-quadra. 1730 49 141 83 16
+s 3822 303 483
+r 3822 134 62 326 176 Yellow Blue
+r 3822 175 60 479 229 Yellow Blue
+r 3822 103 54 485 412 Yellow Blue
+s 3822 350 20
+r 3822 17 32 157 221 Yellow Blue
+c 3822 37 491 256 Blue Yellow
+r 3822 109 27 50 491 Yellow Blue
+s 3822 98 111
+s 3822 475 344
+q cep-quadra. 1731 15 434 21 82
+r 3824 171 88 197 15 Yellow Blue
+s 3824 238 124
+h 3824 447 290
+r 3824 40 151 47 184 Yellow Blue
+r 3824 159 49 11 378 Yellow Blue
+q cep-quadra. 1732 355 273 2 5
+q cep-quadra. 1733 101 250 46 153
+c 3826 18 362 487 Blue Yellow
+h 3826 55 222
+h 3826 389 76
+c 3826 27 346 408 Blue Yellow
+c 3826 19 344 173 Blue Yellow
+c 3827 0 190 437 Blue Yellow
+s 3827 406 90
+h 3827 296 52
+s 3827 12 35
+r 3827 105 159 272 252 Yellow Blue
+q cep-quadra. 1734 396 171 146 4
+r 3827 163 170 432 304 Yellow Blue
+q cep-quadra. 1735 116 377 146 136
+r 3829 167 153 27 462 Yellow Blue
+r 3830 108 197 383 360 Yellow Blue
+r 3831 19 121 364 112 Yellow Blue
+c 3831 22 434 190 Blue Yellow
+r 3831 49 179 14 286 Yellow Blue
+s 3832 31 370
+r 3833 152 42 261 380 Yellow Blue
+s 3833 185 475
+q cep-quadra. 1736 456 444 4 69
+c 3833 49 352 170 Blue Yellow
+c 3833 34 455 280 Blue Yellow
+h 3834 336 381
+s 3834 258 423
+c 3834 10 117 356 Blue Yellow
+c 3834 3 217 127 Blue Yellow
+r 3834 19 94 136 422 Yellow Blue
+q cep-quadra. 1737 41 246 187 145
+s 3835 344 289
+q cep-quadra. 1738 31 498 1 20
+q cep-quadra. 1739 349 41 145 168
+r 3835 192 92 348 415 Yellow Blue
+h 3836 6 383
+s 3836 233 318
+r 3836 58 32 412 460 Yellow Blue
+s 3837 264 169
+r 3838 174 147 34 295 Yellow Blue
+s 3838 32 103
+h 3838 269 335
+q cep-quadra. 1740 40 187 63 69
+q cep-quadra. 1741 120 96 50 162
+c 3838 13 185 110 Blue Yellow
+s 3838 132 248
+s 3839 497 21
+s 3839 194 136
+c 3839 40 194 181 Blue Yellow
+r 3840 95 131 12 37 Yellow Blue
+s 3840 213 235
+q cep-quadra. 1742 67 3 143 77
+r 3841 76 92 400 57 Yellow Blue
+s 3842 76 473
+h 3843 458 206
+c 3844 29 123 394 Blue Yellow
+r 3845 17 134 346 110 Yellow Blue
+s 3846 474 396
+s 3846 57 339
+q cep-quadra. 1743 78 118 24 97
+q cep-quadra. 1744 460 445 55 61
+h 3848 353 300
+s 3849 19 475
+h 3850 349 493
+h 3851 54 194
+h 3852 367 28
+s 3852 168 302
+s 3852 88 448
+h 3852 237 263
+q cep-quadra. 1745 210 102 173 149
+r 3853 22 32 49 222 Yellow Blue
+h 3854 224 106
+s 3855 71 302
+h 3855 130 101
+c 3855 0 327 485 Blue Yellow
+h 3856 186 302
+h 3857 274 146
+h 3858 21 220
+r 3858 0 31 392 307 Yellow Blue
+q cep-quadra. 1746 444 483 13 104
+h 3859 286 438
+c 3859 38 39 89 Blue Yellow
+s 3859 475 109
+h 3859 382 467
+q cep-quadra. 1747 169 380 96 7
+h 3860 312 190
+r 3860 73 99 214 237 Yellow Blue
+s 3860 396 490
+c 3860 34 459 443 Blue Yellow
+c 3860 49 246 63 Blue Yellow
+r 3860 179 128 294 466 Yellow Blue
+s 3860 93 300
+h 3860 241 106
+q cep-quadra. 1748 364 385 42 132
+h 3860 411 380
+q cep-quadra. 1749 195 278 18 134
+q cep-quadra. 1750 457 432 73 69
+r 3862 107 136 191 99 Yellow Blue
+s 3863 36 336
+q cep-quadra. 1751 242 408 166 171
+s 3863 47 190
+r 3864 10 76 79 221 Yellow Blue
+h 3864 327 115
+r 3864 94 24 398 439 Yellow Blue
+c 3865 39 374 334 Blue Yellow
+q cep-quadra. 1752 480 346 7 90
+s 3865 433 458
+s 3866 456 222
+c 3866 49 109 153 Blue Yellow
+q cep-quadra. 1753 302 231 170 2
+r 3867 18 57 382 132 Yellow Blue
+c 3867 15 334 250 Blue Yellow
+q cep-quadra. 1754 152 43 148 152
+s 3868 149 72
+q cep-quadra. 1755 249 102 154 147
+c 3868 28 361 108 Blue Yellow
+s 3868 363 24
+q cep-quadra. 1756 410 361 28 129
+r 3870 135 120 159 184 Yellow Blue
+q cep-quadra. 1757 471 64 42 63
+c 3870 21 196 0 Blue Yellow
+h 3870 190 237
+r 3870 144 192 82 435 Yellow Blue
+r 3870 91 153 403 206 Yellow Blue
+q cep-quadra. 1758 248 380 138 51
+q cep-quadra. 1759 263 272 99 101
+q cep-quadra. 1760 248 275 123 115
+s 3870 186 343
+c 3871 26 391 247 Blue Yellow
+r 3871 38 165 454 154 Yellow Blue
+c 3872 10 344 497 Blue Yellow
+c 3872 32 301 237 Blue Yellow
+q cep-quadra. 1761 421 326 126 13
+r 3873 23 97 256 476 Yellow Blue
+s 3874 96 76
+q cep-quadra. 1762 218 342 121 64
+r 3875 27 62 363 36 Yellow Blue
+c 3875 34 272 95 Blue Yellow
+q cep-quadra. 1763 194 48 198 130
+h 3876 56 313
+h 3877 30 497
+h 3878 261 191
+s 3878 492 114
+h 3879 33 354
+r 3880 62 1 78 470 Yellow Blue
+h 3881 93 249
+r 3881 196 40 441 340 Yellow Blue
+r 3882 199 156 201 126 Yellow Blue
+c 3882 39 359 64 Blue Yellow
+q cep-quadra. 1764 417 362 49 86
+c 3883 24 75 46 Blue Yellow
+q cep-quadra. 1765 417 285 153 147
+c 3883 9 138 231 Blue Yellow
+s 3884 413 368
+c 3884 48 1 105 Blue Yellow
+c 3884 19 334 79 Blue Yellow
+q cep-quadra. 1766 193 246 192 90
+q cep-quadra. 1767 131 46 31 79
+h 3885 171 193
+c 3885 41 356 51 Blue Yellow
+c 3886 41 282 101 Blue Yellow
+c 3887 35 154 303 Blue Yellow
+s 3887 499 262
+h 3888 376 90
+c 3889 44 362 143 Blue Yellow
+s 3889 203 79
+s 3890 149 264
+h 3890 470 420
+r 3890 139 143 56 28 Yellow Blue
+c 3891 43 94 394 Blue Yellow
+c 3892 6 449 285 Blue Yellow
+h 3893 214 420
+h 3893 406 253
+q cep-quadra. 1768 329 176 189 141
+c 3893 0 349 129 Blue Yellow
+h 3893 110 146
+h 3893 382 279
+q cep-quadra. 1769 78 147 49 120
+q cep-quadra. 1770 200 426 149 169
+q cep-quadra. 1771 318 195 97 184
+r 3895 151 34 487 491 Yellow Blue
+s 3896 446 476
+q cep-quadra. 1772 296 11 177 167
+q cep-quadra. 1773 396 468 182 171
+h 3897 126 315
+r 3897 162 158 222 304 Yellow Blue
+c 3897 37 111 151 Blue Yellow
+s 3897 446 434
+h 3898 420 388
+c 3898 35 333 452 Blue Yellow
+h 3898 134 36
+q cep-quadra. 1774 247 457 57 27
+q cep-quadra. 1775 421 251 102 158
+s 3900 127 447
+r 3901 112 47 229 47 Yellow Blue
+q cep-quadra. 1776 343 48 95 132
+c 3902 28 334 361 Blue Yellow
+r 3902 123 198 305 456 Yellow Blue
+r 3903 165 47 63 181 Yellow Blue
+c 3903 17 267 297 Blue Yellow
+c 3903 48 372 379 Blue Yellow
+q cep-quadra. 1777 84 17 10 129
+q cep-quadra. 1778 144 163 112 126
+h 3905 390 237
+q cep-quadra. 1779 62 431 167 67
+c 3905 1 113 259 Blue Yellow
+q cep-quadra. 1780 50 84 192 70
+c 3907 17 474 76 Blue Yellow
+h 3907 448 98
+r 3907 121 57 215 371 Yellow Blue
+h 3908 481 118
+r 3908 69 167 479 32 Yellow Blue
+q cep-quadra. 1781 88 169 50 198
+r 3909 156 40 163 479 Yellow Blue
+r 3909 58 9 96 171 Yellow Blue
+r 3910 170 118 41 397 Yellow Blue
+r 3910 73 86 427 262 Yellow Blue
+r 3911 197 111 461 140 Yellow Blue
+r 3912 151 149 140 364 Yellow Blue
+c 3912 21 494 493 Blue Yellow
+q cep-quadra. 1782 315 75 109 155
+s 3913 398 238
+s 3914 431 371
+c 3915 13 178 267 Blue Yellow
+c 3916 24 326 203 Blue Yellow
+s 3916 66 494
+c 3917 42 119 132 Blue Yellow
+c 3917 43 180 442 Blue Yellow
+h 3917 464 162
+r 3918 44 69 321 423 Yellow Blue
+q cep-quadra. 1783 57 28 58 113
+h 3919 392 124
+h 3919 242 438
+h 3919 351 206
+h 3919 243 198
+c 3919 39 70 177 Blue Yellow
+q cep-quadra. 1784 126 65 182 103
+q cep-quadra. 1785 335 495 166 13
+r 3922 90 48 361 198 Yellow Blue
+c 3922 32 494 290 Blue Yellow
+h 3923 349 168
+r 3923 115 69 48 275 Yellow Blue
+h 3923 187 269
+s 3924 281 250
+h 3925 7 40
+h 3925 171 36
+s 3925 199 272
+q cep-quadra. 1786 498 285 44 100
+s 3926 455 68
+q cep-quadra. 1787 311 286 122 159
+h 3927 103 216
+r 3928 24 16 208 44 Yellow Blue
+c 3928 5 172 93 Blue Yellow
+s 3929 89 245
+r 3930 101 61 327 260 Yellow Blue
+h 3931 406 199
+c 3932 9 143 302 Blue Yellow
+h 3932 299 6
+s 3932 128 152
+c 3933 46 248 279 Blue Yellow
+h 3934 211 166
+h 3935 364 366
+c 3936 30 362 216 Blue Yellow
+q cep-quadra. 1788 1 387 17 66
+r 3937 167 175 129 18 Yellow Blue
+r 3937 5 170 388 455 Yellow Blue
+r 3937 100 147 415 65 Yellow Blue
+q cep-quadra. 1789 480 285 105 70
+q cep-quadra. 1790 361 99 114 78
+q cep-quadra. 1791 317 157 79 174
+c 3937 43 261 95 Blue Yellow
+c 3938 44 61 325 Blue Yellow
+r 3938 162 105 38 384 Yellow Blue
+c 3939 39 287 391 Blue Yellow
+s 3940 96 164
+r 3940 140 33 359 304 Yellow Blue
+h 3940 444 374
+h 3941 260 471
+h 3941 4 454
+c 3941 12 228 252 Blue Yellow
+c 3942 11 363 99 Blue Yellow
+q cep-quadra. 1792 493 16 104 110
+c 3943 33 411 54 Blue Yellow
+s 3943 416 263
+c 3944 36 477 404 Blue Yellow
+h 3944 309 117
+c 3944 3 328 416 Blue Yellow
+s 3944 293 484
+c 3944 24 139 401 Blue Yellow
+c 3945 19 86 470 Blue Yellow
+q cep-quadra. 1793 398 240 134 61
+s 3946 327 182
+q cep-quadra. 1794 482 410 4 22
+c 3946 47 195 253 Blue Yellow
+s 3946 151 324
+q cep-quadra. 1795 186 75 124 62
+c 3948 4 453 334 Blue Yellow
+c 3948 39 113 402 Blue Yellow
+h 3948 73 217
+q cep-quadra. 1796 412 302 176 86
+r 3948 33 196 197 61 Yellow Blue
+h 3948 320 452
+s 3948 257 96
+s 3949 61 330
+c 3949 29 232 400 Blue Yellow
+h 3949 27 90
+s 3949 442 315
+h 3950 285 462
+h 3951 458 383
+c 3952 49 446 428 Blue Yellow
+s 3952 475 156
+s 3953 394 297
+s 3953 104 174
+q cep-quadra. 1797 378 84 93 178
+h 3954 53 170
+c 3955 17 324 190 Blue Yellow
+c 3955 3 431 398 Blue Yellow
+q cep-quadra. 1798 378 318 161 57
+s 3956 21 137
+c 3957 26 247 220 Blue Yellow
+q cep-quadra. 1799 450 495 52 98
+r 3958 50 20 355 181 Yellow Blue
+h 3959 323 251
+r 3960 33 73 337 4 Yellow Blue
+c 3960 9 76 436 Blue Yellow
+h 3961 141 40
+h 3961 127 244
+r 3962 98 98 421 269 Yellow Blue
+r 3962 57 10 82 174 Yellow Blue
+h 3963 314 291
+h 3963 320 359
+q cep-quadra. 1800 277 249 41 186
+h 3963 244 234
+h 3964 334 159
+c 3964 47 229 101 Blue Yellow
+q cep-quadra. 1801 274 213 87 4
+r 3964 197 126 161 199 Yellow Blue
+c 3964 13 408 265 Blue Yellow
+c 3964 0 24 144 Blue Yellow
+r 3965 53 34 86 162 Yellow Blue
+s 3966 444 466
+q cep-quadra. 1802 303 30 94 160
+h 3968 132 371
+s 3969 218 423
+r 3969 3 149 133 220 Yellow Blue
+h 3970 293 168
+r 3970 142 145 215 63 Yellow Blue
+h 3970 409 52
+s 3970 387 434
+q cep-quadra. 1803 80 115 115 114
+c 3970 12 73 264 Blue Yellow
+s 3971 214 78
+h 3971 368 55
+h 3971 283 196
+h 3971 127 368
+r 3971 13 31 433 419 Yellow Blue
+h 3971 261 115
+s 3971 233 172
+q cep-quadra. 1804 69 498 175 144
+q cep-quadra. 1805 346 324 11 188
+r 3972 109 18 367 185 Yellow Blue
+h 3972 147 43
+h 3972 11 168
+q cep-quadra. 1806 428 429 110 16
+r 3974 186 160 314 487 Yellow Blue
+h 3974 410 476
+c 3975 39 91 120 Blue Yellow
+r 3975 138 148 139 241 Yellow Blue
+q cep-quadra. 1807 114 41 188 84
+s 3976 317 13
+r 3976 151 31 291 24 Yellow Blue
+r 3976 64 38 120 18 Yellow Blue
+q cep-quadra. 1808 267 333 130 69
+r 3978 174 115 478 417 Yellow Blue
+h 3979 259 470
+c 3980 34 256 287 Blue Yellow
+r 3981 176 67 183 101 Yellow Blue
+c 3982 4 436 51 Blue Yellow
+c 3982 32 256 76 Blue Yellow
+s 3982 31 92
+q cep-quadra. 1809 472 395 30 21
+s 3984 162 455
+h 3985 27 357
+c 3985 7 190 492 Blue Yellow
+r 3986 69 32 69 295 Yellow Blue
+r 3987 99 136 238 329 Yellow Blue
+q cep-quadra. 1810 342 209 137 41
+c 3988 2 242 97 Blue Yellow
+c 3988 17 59 385 Blue Yellow
+r 3989 130 75 199 278 Yellow Blue
+q cep-quadra. 1811 199 127 135 144
+c 3990 6 247 272 Blue Yellow
+r 3991 160 162 13 87 Yellow Blue
+q cep-quadra. 1812 326 382 74 4
+r 3991 108 10 169 98 Yellow Blue
+q cep-quadra. 1813 457 335 147 96
+h 3991 484 187
+r 3992 75 189 325 355 Yellow Blue
+r 3993 164 97 246 180 Yellow Blue
+s 3994 243 205
+q cep-quadra. 1814 260 291 46 64
+h 3994 155 332
+c 3995 20 2 109 Blue Yellow
+r 3995 188 57 243 234 Yellow Blue
+s 3995 76 244
+c 3995 30 196 414 Blue Yellow
+h 3995 469 118
+r 3996 153 161 457 391 Yellow Blue
+q cep-quadra. 1815 354 239 180 73
+r 3997 151 12 359 150 Yellow Blue
+s 3997 255 311
+c 3998 33 99 386 Blue Yellow
+r 3998 66 12 165 407 Yellow Blue
+s 3998 480 194
+q cep-quadra. 1816 37 222 92 75
+r 4000 164 35 474 87 Yellow Blue
+h 4001 460 186
+r 4002 50 140 123 299 Yellow Blue
+s 4002 119 417
+q cep-quadra. 1817 32 361 140 187
+h 4003 284 167
+q cep-quadra. 1818 356 188 108 190
+c 4003 20 285 372 Blue Yellow
+h 4004 140 55
+s 4004 156 491
+r 4005 175 102 2 344 Yellow Blue
+r 4005 54 44 15 45 Yellow Blue
+q cep-quadra. 1819 303 107 32 111
+r 4005 93 13 167 111 Yellow Blue
+s 4006 434 455
+c 4007 13 234 22 Blue Yellow
+s 4007 286 340
+c 4008 44 438 47 Blue Yellow
+c 4009 17 217 192 Blue Yellow
+r 4010 76 87 260 219 Yellow Blue
+h 4010 142 433
+h 4011 358 397
+q cep-quadra. 1820 57 491 38 118
+c 4013 48 53 470 Blue Yellow
+r 4014 131 108 168 299 Yellow Blue
+q cep-quadra. 1821 38 138 150 145
+c 4015 5 195 338 Blue Yellow
+r 4015 134 64 361 435 Yellow Blue
+s 4016 205 174
+h 4016 309 341
+h 4016 31 276
+c 4016 43 19 120 Blue Yellow
+c 4017 34 70 431 Blue Yellow
+c 4017 11 95 467 Blue Yellow
+r 4017 96 2 180 185 Yellow Blue
+s 4017 458 456
+q cep-quadra. 1822 167 77 110 69
+c 4018 5 318 255 Blue Yellow
+q cep-quadra. 1823 117 39 197 28
+c 4020 14 101 130 Blue Yellow
+r 4020 94 122 112 472 Yellow Blue
+c 4020 1 331 178 Blue Yellow
+h 4020 138 141
+q cep-quadra. 1824 182 434 85 115
+q cep-quadra. 1825 390 482 120 180
+q cep-quadra. 1826 354 421 56 173
+c 4022 15 254 213 Blue Yellow
+s 4023 150 248
+q cep-quadra. 1827 56 213 58 103
+q cep-quadra. 1828 384 90 144 134
+r 4025 12 7 469 173 Yellow Blue
+s 4026 25 67
+h 4026 167 233
+s 4026 103 425
+s 4027 250 191
+q cep-quadra. 1829 494 283 101 84
+s 4028 226 325
+r 4029 18 82 194 350 Yellow Blue
+s 4030 298 215
+c 4031 32 173 305 Blue Yellow
+r 4031 7 105 366 354 Yellow Blue
+c 4031 36 231 175 Blue Yellow
+r 4031 44 30 339 285 Yellow Blue
+r 4032 172 161 460 370 Yellow Blue
+s 4033 342 147
+s 4033 272 300
+q cep-quadra. 1830 342 31 186 20
+h 4034 420 477
+c 4034 4 110 450 Blue Yellow
+s 4034 466 99
+h 4034 150 320
+h 4034 484 125
+q cep-quadra. 1831 269 207 188 51
+q cep-quadra. 1832 481 1 91 83
+h 4036 210 162
+r 4036 160 81 174 337 Yellow Blue
+h 4037 457 134
+c 4037 32 21 410 Blue Yellow
+s 4037 259 54
+r 4038 139 48 385 152 Yellow Blue
+h 4038 248 233
+c 4039 9 176 190 Blue Yellow
+r 4040 131 79 267 316 Yellow Blue
+c 4041 31 201 95 Blue Yellow
+s 4041 391 76
+s 4041 353 97
+s 4041 182 239
+s 4041 370 81
+s 4042 223 348
+h 4043 44 350
+q cep-quadra. 1833 211 298 112 138
+q cep-quadra. 1834 207 32 156 193
+q cep-quadra. 1835 396 76 42 20
+r 4045 149 157 499 363 Yellow Blue
+q cep-quadra. 1836 253 215 176 17
+s 4045 345 385
+h 4046 370 422
+h 4046 111 449
+q cep-quadra. 1837 147 80 45 192
+c 4047 38 378 343 Blue Yellow
+s 4047 5 317
+s 4047 442 53
+c 4047 5 27 295 Blue Yellow
+q cep-quadra. 1838 12 125 69 126
+c 4049 40 377 277 Blue Yellow
+r 4049 121 183 295 452 Yellow Blue
+c 4049 8 249 49 Blue Yellow
+r 4049 14 164 23 9 Yellow Blue
+q cep-quadra. 1839 134 323 19 61
+r 4049 159 128 256 499 Yellow Blue
+c 4049 38 212 206 Blue Yellow
+h 4049 68 460
+h 4050 315 37
+s 4050 432 116
+r 4050 136 8 40 189 Yellow Blue
+s 4050 356 272
+s 4051 408 365
+h 4051 13 448
+h 4051 401 214
+s 4051 138 26
+r 4051 137 152 287 91 Yellow Blue
+c 4051 18 407 303 Blue Yellow
+q cep-quadra. 1840 350 267 177 93
+h 4052 54 174
+h 4052 133 296
+h 4053 305 59
+s 4054 451 320
+q cep-quadra. 1841 467 144 159 155
+s 4054 342 159
+r 4055 112 75 371 290 Yellow Blue
+c 4055 22 160 315 Blue Yellow
+s 4055 346 302
+q cep-quadra. 1842 104 189 97 34
+r 4055 81 40 86 9 Yellow Blue
+h 4056 332 165
+h 4056 229 433
+h 4057 483 3
+c 4057 41 239 157 Blue Yellow
+h 4058 141 160
+c 4058 8 292 411 Blue Yellow
+s 4058 127 125
+c 4059 4 392 480 Blue Yellow
+q cep-quadra. 1843 199 431 92 25
+q cep-quadra. 1844 257 34 134 193
+s 4060 140 414
+r 4060 60 191 332 343 Yellow Blue
+s 4061 50 75
+s 4062 307 494
+r 4062 118 149 180 360 Yellow Blue
+h 4063 3 412
+q cep-quadra. 1845 16 65 131 80
+q cep-quadra. 1846 422 8 149 10
+c 4063 13 267 141 Blue Yellow
+s 4064 227 276
+r 4064 11 114 62 496 Yellow Blue
+h 4064 493 207
+h 4065 290 190
+q cep-quadra. 1847 409 453 157 55
+r 4066 82 57 67 353 Yellow Blue
+q cep-quadra. 1848 453 403 40 33
+s 4066 403 201
+r 4067 109 143 186 345 Yellow Blue
+c 4068 18 13 76 Blue Yellow
+r 4069 19 27 431 1 Yellow Blue
+h 4069 494 279
+h 4069 259 88
+s 4070 473 41
+s 4071 305 201
+q cep-quadra. 1849 444 428 6 172
+r 4072 0 167 200 136 Yellow Blue
+c 4072 43 164 99 Blue Yellow
+c 4072 44 91 29 Blue Yellow
+c 4073 5 205 220 Blue Yellow
+s 4074 346 460
+c 4075 15 256 116 Blue Yellow
+s 4075 457 351
+q cep-quadra. 1850 194 40 63 89
+h 4075 239 140
+q cep-quadra. 1851 372 246 64 8
+s 4076 223 410
+h 4076 371 317
+q cep-quadra. 1852 319 29 90 158
+h 4077 355 302
+q cep-quadra. 1853 283 261 27 99
+h 4077 29 201
+c 4077 18 124 132 Blue Yellow
+q cep-quadra. 1854 337 300 21 90
+q cep-quadra. 1855 65 283 193 152
+s 4078 8 483
+q cep-quadra. 1856 414 462 117 137
+s 4079 167 51
+q cep-quadra. 1857 124 58 177 45
+r 4080 187 63 363 75 Yellow Blue
+c 4080 9 396 171 Blue Yellow
+s 4080 204 402
+s 4080 243 142
+r 4080 175 11 426 194 Yellow Blue
+q cep-quadra. 1858 214 499 152 50
+s 4080 101 48
+h 4080 324 132
+c 4080 7 211 227 Blue Yellow
+q cep-quadra. 1859 71 192 20 163
+h 4080 340 176
+h 4081 272 214
+r 4082 179 124 83 293 Yellow Blue
+r 4083 41 185 101 382 Yellow Blue
+q cep-quadra. 1860 315 354 134 99
+s 4085 273 83
+s 4086 111 265
+q cep-quadra. 1861 231 256 186 97
+h 4087 173 91
+q cep-quadra. 1862 183 378 124 92
+q cep-quadra. 1863 370 39 177 47
+s 4089 88 384
+s 4089 25 94
+q cep-quadra. 1864 231 69 57 53
+q cep-quadra. 1865 188 136 23 163
+s 4089 43 348
+c 4089 24 52 216 Blue Yellow
+r 4089 52 69 38 60 Yellow Blue
+r 4089 11 185 216 75 Yellow Blue
+q cep-quadra. 1866 248 428 30 174
+r 4091 59 156 42 426 Yellow Blue
+r 4092 108 179 456 476 Yellow Blue
+c 4092 46 274 34 Blue Yellow
+c 4093 7 319 289 Blue Yellow
+r 4093 153 154 265 473 Yellow Blue
+c 4093 39 380 185 Blue Yellow
+q cep-quadra. 1867 139 82 75 41
+q cep-quadra. 1868 478 260 6 141
+c 4094 39 242 415 Blue Yellow
+q cep-quadra. 1869 399 216 60 17
+c 4095 32 148 273 Blue Yellow
+c 4096 48 79 88 Blue Yellow
+r 4096 124 135 147 317 Yellow Blue
+r 4097 0 61 84 424 Yellow Blue
+q cep-quadra. 1870 223 2 127 131
+h 4098 412 44
+s 4099 189 158
+s 4100 57 447
+c 4100 49 273 131 Blue Yellow
+h 4100 447 36
+c 4100 26 196 108 Blue Yellow
+q cep-quadra. 1871 399 377 99 175
+s 4101 403 71
+q cep-quadra. 1872 94 254 116 140
+q cep-quadra. 1873 204 284 106 69
+h 4102 238 335
+h 4102 129 441
+r 4102 146 113 144 383 Yellow Blue
+s 4102 362 47
+r 4102 32 160 395 437 Yellow Blue
+h 4102 273 219
+c 4102 16 15 37 Blue Yellow
+s 4102 199 467
+r 4102 164 174 486 25 Yellow Blue
+q cep-quadra. 1874 313 226 181 69
+r 4102 116 31 146 65 Yellow Blue
+r 4103 171 50 321 289 Yellow Blue
+c 4103 37 354 481 Blue Yellow
+s 4104 212 304
+h 4105 276 334
+c 4106 32 73 229 Blue Yellow
+h 4106 139 48
+h 4107 342 443
+c 4107 9 382 237 Blue Yellow
+r 4107 186 99 265 189 Yellow Blue
+s 4108 343 287
+h 4108 494 14
+q cep-quadra. 1875 80 297 67 95
+q cep-quadra. 1876 370 167 84 77
+h 4109 392 73
+r 4109 191 122 476 345 Yellow Blue
+c 4109 38 270 456 Blue Yellow
+q cep-quadra. 1877 283 462 96 196
+s 4110 449 172
+c 4110 21 114 469 Blue Yellow
+s 4111 432 406
+s 4111 408 421
+s 4112 277 233
+c 4112 9 325 112 Blue Yellow
+s 4112 363 159
+c 4112 39 489 385 Blue Yellow
+c 4113 42 269 452 Blue Yellow
+r 4114 54 80 104 308 Yellow Blue
+r 4115 114 48 11 238 Yellow Blue
+c 4116 46 205 340 Blue Yellow
+r 4116 31 78 70 36 Yellow Blue
+h 4116 241 236
+c 4116 44 222 456 Blue Yellow
+c 4116 9 104 484 Blue Yellow
+r 4117 151 150 474 220 Yellow Blue
+h 4117 319 323
+c 4117 32 83 146 Blue Yellow
+r 4118 24 112 198 119 Yellow Blue
+r 4118 164 134 175 136 Yellow Blue
+h 4119 381 123
+h 4119 126 319
+q cep-quadra. 1878 307 78 83 38
+s 4121 481 267
+c 4121 2 210 489 Blue Yellow
+q cep-quadra. 1879 484 120 162 126
+s 4122 271 338
+s 4123 203 74
+s 4123 237 27
+s 4123 132 129
+h 4123 376 194
+c 4123 49 439 105 Blue Yellow
+s 4124 397 368
+r 4124 98 141 460 405 Yellow Blue
+s 4125 425 20
+q cep-quadra. 1880 165 179 82 170
+q cep-quadra. 1881 456 70 128 104
+r 4127 0 173 331 458 Yellow Blue
+s 4128 478 98
+s 4128 478 144
+h 4129 368 268
+h 4130 469 290
+r 4131 165 150 300 439 Yellow Blue
+s 4132 352 377
+c 4133 36 213 374 Blue Yellow
+c 4133 47 157 458 Blue Yellow
+r 4134 117 166 138 21 Yellow Blue
+h 4134 118 399
+r 4135 50 11 495 357 Yellow Blue
+q cep-quadra. 1882 35 209 149 10
+c 4135 18 480 118 Blue Yellow
+r 4135 64 83 47 213 Yellow Blue
+s 4135 64 199
+s 4136 301 212
+c 4137 41 371 297 Blue Yellow
+h 4137 194 118
+c 4138 23 337 260 Blue Yellow
+h 4139 306 300
+c 4139 44 300 468 Blue Yellow
+q cep-quadra. 1883 166 188 156 112
+r 4139 5 119 120 288 Yellow Blue
+s 4140 265 46
+q cep-quadra. 1884 164 16 2 143
+q cep-quadra. 1885 248 316 103 15
+h 4141 29 494
+q cep-quadra. 1886 92 409 84 135
+q cep-quadra. 1887 73 278 80 29
+s 4142 190 405
+q cep-quadra. 1888 149 5 157 169
+c 4142 40 447 42 Blue Yellow
+q cep-quadra. 1889 307 183 75 26
+q cep-quadra. 1890 233 464 40 52
+s 4143 87 412
+h 4143 440 316
+q cep-quadra. 1891 365 227 15 31
+r 4143 2 119 310 106 Yellow Blue
+r 4143 157 193 288 350 Yellow Blue
+c 4143 5 186 383 Blue Yellow
+r 4144 118 136 123 426 Yellow Blue
+r 4144 5 137 428 40 Yellow Blue
+c 4144 31 53 60 Blue Yellow
+s 4144 140 142
+r 4145 90 197 239 239 Yellow Blue
+s 4145 35 116
+q cep-quadra. 1892 23 318 11 65
+r 4147 150 135 490 69 Yellow Blue
+s 4148 78 63
+s 4148 146 128
+q cep-quadra. 1893 391 447 109 144
+h 4149 62 270
+r 4149 60 80 397 355 Yellow Blue
+c 4149 39 234 330 Blue Yellow
+c 4150 20 492 265 Blue Yellow
+s 4151 244 248
+c 4152 7 185 285 Blue Yellow
+r 4153 114 138 319 423 Yellow Blue
+s 4154 358 184
+h 4155 97 22
+h 4156 65 148
+h 4157 313 277
+c 4158 14 497 326 Blue Yellow
+c 4158 22 116 224 Blue Yellow
+r 4158 140 99 353 252 Yellow Blue
+q cep-quadra. 1894 256 433 168 133
+h 4160 471 135
+c 4161 49 215 274 Blue Yellow
+r 4162 29 177 6 220 Yellow Blue
+h 4163 306 311
+h 4163 87 413
+s 4163 140 433
+s 4163 182 199
+c 4164 39 93 270 Blue Yellow
+h 4165 45 281
+s 4166 303 383
+r 4166 187 68 234 183 Yellow Blue
+s 4166 472 313
+q cep-quadra. 1895 442 314 2 89
+q cep-quadra. 1896 267 24 64 151
+h 4168 113 225
+c 4169 22 318 282 Blue Yellow
+s 4170 286 377
+c 4171 30 308 392 Blue Yellow
+h 4172 468 318
+c 4172 31 177 296 Blue Yellow
+q cep-quadra. 1897 120 431 20 65
+s 4173 167 20
+c 4174 0 320 63 Blue Yellow
+s 4174 354 229
+r 4174 69 95 298 92 Yellow Blue
+s 4174 131 269
+q cep-quadra. 1898 85 204 152 82
+h 4174 198 415
+h 4174 350 3
+h 4174 73 445
+s 4175 250 227
+h 4175 189 226
+r 4175 109 121 104 364 Yellow Blue
+s 4175 499 373
+c 4175 11 146 45 Blue Yellow
+r 4175 157 19 198 230 Yellow Blue
+q cep-quadra. 1899 382 276 134 64
+c 4176 30 291 419 Blue Yellow
+c 4177 14 78 425 Blue Yellow
+s 4177 494 409
+c 4177 20 240 318 Blue Yellow
+h 4178 343 422
+r 4179 6 156 3 68 Yellow Blue
+r 4179 88 122 188 446 Yellow Blue
+h 4179 73 78
+s 4179 388 489
+s 4180 259 413
+r 4181 199 127 88 154 Yellow Blue
+q cep-quadra. 1900 154 127 118 44
+q cep-quadra. 1901 347 425 61 165
+q cep-quadra. 1902 41 289 9 143
+c 4183 7 276 431 Blue Yellow
+r 4183 195 109 84 258 Yellow Blue
+r 4183 81 61 256 338 Yellow Blue
+c 4183 6 150 469 Blue Yellow
+h 4184 60 400
+s 4185 436 221
+r 4185 116 99 457 16 Yellow Blue
+c 4186 21 334 168 Blue Yellow
+q cep-quadra. 1903 209 37 112 38
+r 4187 134 7 120 60 Yellow Blue
+c 4188 8 186 207 Blue Yellow
+c 4189 30 128 390 Blue Yellow
+r 4190 67 45 137 387 Yellow Blue
+h 4191 80 87
+q cep-quadra. 1904 4 123 185 137
+h 4192 273 314
+s 4193 42 400
+h 4193 219 138
+r 4193 38 13 286 414 Yellow Blue
+c 4193 24 265 102 Blue Yellow
+q cep-quadra. 1905 163 358 118 0
+h 4195 118 116
+c 4195 29 308 243 Blue Yellow
+s 4195 250 383
+h 4196 220 92
+h 4196 348 219
+s 4196 193 421
+s 4197 286 81
+h 4197 213 314
+r 4198 45 59 374 289 Yellow Blue
+h 4199 205 248
+h 4200 222 406
+s 4201 79 140
+r 4201 159 78 469 183 Yellow Blue
+c 4202 45 454 250 Blue Yellow
+c 4202 12 127 33 Blue Yellow
+q cep-quadra. 1906 78 319 187 147
+r 4202 29 154 306 203 Yellow Blue
+q cep-quadra. 1907 252 246 25 148
+s 4202 111 39
+c 4203 35 223 235 Blue Yellow
+h 4203 298 98
+r 4203 88 11 126 47 Yellow Blue
+c 4204 26 112 222 Blue Yellow
+r 4204 155 151 184 391 Yellow Blue
+q cep-quadra. 1908 324 394 70 189
+q cep-quadra. 1909 346 353 61 108
+s 4204 470 278
+h 4205 474 267
+s 4206 354 327
+r 4207 66 9 186 474 Yellow Blue
+h 4208 56 343
+h 4208 169 25
+s 4209 143 165
+h 4209 266 97
+q cep-quadra. 1910 38 150 22 68
+s 4209 497 409
+h 4210 237 130
+h 4210 319 57
+s 4210 222 359
+h 4210 130 493
+s 4210 406 363
+s 4210 34 461
+q cep-quadra. 1911 205 243 76 33
+c 4211 10 487 304 Blue Yellow
+r 4211 13 8 44 111 Yellow Blue
+r 4211 51 180 431 298 Yellow Blue
+r 4211 131 26 147 2 Yellow Blue
+r 4211 23 150 467 205 Yellow Blue
+q cep-quadra. 1912 421 352 158 147
+s 4212 104 260
+q cep-quadra. 1913 378 441 181 138
+h 4213 81 380
+r 4214 0 12 98 104 Yellow Blue
+q cep-quadra. 1914 277 371 129 45
+r 4215 63 165 115 111 Yellow Blue
+q cep-quadra. 1915 473 398 56 41
+c 4217 39 152 454 Blue Yellow
+r 4218 186 86 153 193 Yellow Blue
+h 4219 340 32
+h 4219 437 120
+s 4219 192 100
+s 4219 95 223
+q cep-quadra. 1916 486 212 88 199
+q cep-quadra. 1917 97 373 121 172
+c 4221 43 9 422 Blue Yellow
+s 4221 59 199
+c 4222 41 53 174 Blue Yellow
+r 4223 90 63 322 372 Yellow Blue
+q cep-quadra. 1918 153 12 10 143
+h 4223 188 62
+h 4223 53 400
+h 4224 381 300
+c 4224 17 106 80 Blue Yellow
+c 4224 46 469 7 Blue Yellow
+r 4224 51 61 156 439 Yellow Blue
+q cep-quadra. 1919 124 345 32 177
+h 4225 367 129
+s 4226 329 68
+c 4227 20 439 304 Blue Yellow
+h 4227 274 400
+q cep-quadra. 1920 498 124 102 82
+h 4228 316 25

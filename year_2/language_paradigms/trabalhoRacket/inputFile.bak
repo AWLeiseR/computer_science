@@ -1,0 +1,3 @@
+#lang racket
+(define in (open-input-file "fileQuadra2.geo"))
+(values (read in))

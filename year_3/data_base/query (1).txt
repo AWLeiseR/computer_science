@@ -1,0 +1,111 @@
+group:mailorder
+parts = {
+pno:number, pname:string, price:number
+1,'Roda',10
+2,'Volante',30
+3,'Pastilha de Freio',100
+}
+
+customers={
+id:number, name:string, street:string, zZip:string, phone:number
+1,'José','Rua da Pedra', '88042110',33139944
+2,'João','Rua da Pedra','88042110',33145566
+3,'Maria','Avenida Crack','44444444',33333333
+4,'Manuel','Avenida Oxi','66666666',23232323
+}
+
+employees={
+eno:number, name:string, zZip:string, hireDate:date
+1,'Roberto','85120220',2020-10-20
+2,'Fabio','55555555',2020-09-10
+3,'Eduardo','11111111',2020-08-10
+}
+
+zipCodes={
+zip:string, city:string
+'85120220','Londrina'
+'88042110','Londrina'
+'55555555','Cambé'
+'44444444','Ibiporã'
+'11111111','Wichita'
+'66666666','São Paulo'
+}
+
+orders={
+number:number, cId:number, eEno:number, dateReceived:date, dateShipped:date
+1,1,1,2020-10-20,2020-10-20
+2,1,2,2020-10-20,2020-10-20
+3,3,2,2020-10-20,2020-10-20
+4,3,3,2020-08-10,2020-08-10
+5,4,1,2020-10-20,2020-10-20
+}
+
+orderDetail={
+oNumber:number, pPno:number, quantity:number
+1,1,2
+2,2,2
+3,1,3
+4,2,5
+5,3,1
+}
+
+
+A) 
+
+π pname (σ price<20 (parts))
+
+{ p.pname | pasts(p) ^ p.price<20 }
+
+B)
+
+R1= (σ price*quantity>50 (parts ⨝pno=pPno orderDetail))
+R2= π eEno (R1 ⨝ number=oNumber orders)
+R3= π zZip,name (R2 ⨝ 
+eEno=eno employees)
+π name,city (R3⨝zZip=zip zipCodes)
+
+{ e.name, z.city | employees(e) ∧ zipCodes(z) ∧ z.zip = e.zZip ∧ (E o)(orders(o) e.eno==o.eEno ∧ (E od)(orderDetail(od) od.oNumber = eEno ∧ (E p)(parts(p) p.price * od.quantity < 50 ∧ p.pno == od.oNumber) ) }
+
+C)
+
+R1 = ρ id → id1, zZip→zip1 (π id, zZip (customers))
+R2 = ρ id → id2, zZip→zip2 (π id, zZip (customers))
+
+π id1, id2 (σ id1 < id2 ∧ zip1 = zip2 (R1 ⨝ R2))
+
+{ c1.id, c2.id | customers(c1) ∧ customers (c2) ∧ c1.zZip = c2.zZip ∧ c1.id < c2.id }
+
+D)
+
+R1 = σ zZip=zip (employees ⨝ (σ city='Wichita' (zipCodes)))
+R2 = σ eEno=eno (orders ⨝ (π eno (R1)))
+R3 = σ id=cId (customers ⨝ (π cId (R2)))
+π name (R3)
+
+{ c.name | customers(c) ∧ (E o)(orders (o) o.cId = c.id ∧ (E e)(employees(e) e.eno = o.eEno ∧ (E z)(zipCodes(z) z.zip = e.zZip ∧ z.city = 'Wichita' )))}
+
+E)
+
+R1 = π pno (σ price<20 (parts))
+R2=π oNumber (σ pno=pPno (R1 ⨝ orderDetail))
+R3=π cId (σ number=oNumber (R2⨝orders))
+π name (σ cId=id (R3⨝customers))
+
+{ c.name | customers(c) ∧ (E o)(orders (o) o.cId = c.id ∧ (E od)(orderDetail(od) o.number = od.oNumber ∧ (E p)(parts(p) od.pno = p.pno ∧ p.price < 20 )))}
+
+F)
+
+R1 = ρ cId→id (π cId (orders))
+R2 = (π id (customers)) - R1
+π name (R2 ⨝ customers)
+
+{c.name | customers(c) ∧ NOT (E o)(orders(o) o.cId = c.id) }
+
+G)
+
+R1 = orders ⨝ number = oNumber orderDetail
+R2 = R1 ⨝ pno = pPno (parts)
+R3 = σ cId = id ((customers) ⨝ R2 )
+R4 = π id, name, price * quantity →total (R3)
+R5 = γ id, name; sum(total)→total (R4)
+τ total asc (R5)
